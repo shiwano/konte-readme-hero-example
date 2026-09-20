@@ -1,0 +1,14 @@
+{
+  "stage": "video",
+  "summary": "承認いただいた絵から、20・24の動きを作り直しました",
+  "notes": [
+    {
+      "address": "video:shot.20.motion",
+      "text": "紙玉が落ちてきて、天板の上で跳ねて止まります。"
+    },
+    {
+      "address": "video:shot.24.motion",
+      "text": "山が揺れ、手前の紙玉が机の縁から落ちます。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "stage": "direction",
+  "summary": "18番のコメントを受け、後半のマイムを「やりながら短く喋る」形に。唇のチャックはやめ、18〜29の各ショットに一言ずつ台詞を足しました。",
+  "notes": [
+    {
+      "address": "direction:sequence.shots.18",
+      "text": "「なんで喋らないの？」への直しです。無言のマイムをやめ、袖をまくって「Fine. Watch this.」から、手を動かしつつ短い一言を添える形にしました。"
+    },
+    {
+      "address": "direction:sequence.shots.29",
+      "text": "倍速の二周は「Roll, draw, done!」を二回、息継ぎなしで。"
+    }
+  ]
+}

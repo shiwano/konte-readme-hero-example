@@ -1,0 +1,1677 @@
+{
+  "schemaVersion": 1,
+  "feedback": {
+    "animatic:shot.02": [
+      {
+        "id": "fb-AtUhGenp",
+        "displayedVariants": {
+          "animatic:shot.02.first": "v-bVpHJyKz",
+          "animatic:shot.02.vo0": "v-LiNjphaZ"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.02#composition": "9e39fdd723b9",
+          "animatic:shot.02#stem": "0ba74e22b754"
+        },
+        "annotation": null,
+        "time": 4.266666666666667,
+        "text": "01 にも書いたけど、I'm Konte! だけでよさそう。\nちなみにこの音声は I'm Konte te って、最後に不要な te が発音されている",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-PhYY9bgS",
+        "displayedVariants": {
+          "animatic:shot.02.first": "v-bVpHJyKz",
+          "animatic:shot.02.vo0": "v-LiNjphaZ"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.02#composition": "9e39fdd723b9",
+          "animatic:shot.02#stem": "0ba74e22b754"
+        },
+        "annotation": null,
+        "time": 1.5,
+        "text": "セリフ、I'm Konte-chan にしたいな。",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.01": [
+      {
+        "id": "fb-tOF23Uby",
+        "displayedVariants": {
+          "animatic:shot.01.first": "v-55PGrII4",
+          "animatic:shot.01.vo0": "v-re0FXw0f"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.01#composition": "32a096ea3fda",
+          "animatic:shot.01#stem": "0b4c5ba50f49"
+        },
+        "annotation": null,
+        "time": 0,
+        "text": "なんで言葉の途中で切られるんだっけ？\nHi! だけでいい気がした",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.06": [
+      {
+        "id": "fb-n7jjZYeW",
+        "displayedVariants": {
+          "animatic:shot.06.first": "v-CH9DkT9d",
+          "animatic:shot.06.vo0": "v-578WUf6q"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.06#composition": "e5d9345386a6",
+          "animatic:shot.06#stem": "3e313bd18703"
+        },
+        "annotation": null,
+        "time": 14.333333333333334,
+        "text": "Okay が発音されてない",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-DSfhNm8B",
+        "displayedVariants": {
+          "animatic:shot.06.first": "v-CH9DkT9d",
+          "animatic:shot.06.vo0": "v-EjFo69RT"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.06#composition": "e5d9345386a6",
+          "animatic:shot.06#stem": "3e313bd18703"
+        },
+        "annotation": null,
+        "time": 15.033333333333333,
+        "text": "Okay はまだ抜けてるね。尺が足りないから省略されてるのかも。あと、こっちも Konte-chan に。",
+        "createdAt": "2026-09-11T18:14:37.453Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-6Np40Prj",
+        "displayedVariants": {
+          "animatic:shot.06.first": "v-CH9DkT9d",
+          "animatic:shot.06.vo0": "v-zpIkEj8S"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.06#composition": "ce30edbb69b4",
+          "animatic:shot.06#stem": "b171ea6658a1"
+        },
+        "annotation": null,
+        "time": 14.233333333333333,
+        "text": "05と同じ絵なのは変じゃない？",
+        "createdAt": "2026-09-11T18:49:09.672Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-tluTGeMj",
+        "displayedVariants": {
+          "animatic:shot.06.first": "v-CH9DkT9d",
+          "animatic:shot.06.vo0": "v-zpIkEj8S"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.06#composition": "ce30edbb69b4",
+          "animatic:shot.06#stem": "b171ea6658a1"
+        },
+        "annotation": null,
+        "time": 15.466666666666667,
+        "text": "あとblockingが付箋を押し付けてのままになってる",
+        "createdAt": "2026-09-11T18:49:09.672Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.10": [
+      {
+        "id": "fb-gcZa8hjr",
+        "displayedVariants": {
+          "animatic:shot.10.first": "v-qZZsgSku",
+          "animatic:shot.10.vo0": "v-5ZCrFAEM"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.10#composition": "bacb6359b0be",
+          "animatic:shot.10#stem": "0276094cf7d9"
+        },
+        "annotation": null,
+        "time": 26,
+        "text": "14 と同じような構図なのに、サイズ感が違いすぎる。14 がよさそうなバランスだから、プロンプトとか合わせたら？",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-YeUY9oPf",
+        "displayedVariants": {
+          "animatic:shot.10.first": "v-SNKoNyDU",
+          "animatic:shot.10.vo0": "v-5ZCrFAEM"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.10#composition": "bacb6359b0be",
+          "animatic:shot.10#stem": "0276094cf7d9"
+        },
+        "annotation": null,
+        "time": 28.5,
+        "text": "付箋貼るってアクションやめたほうがいいかも。付箋が3個から増えてない",
+        "createdAt": "2026-09-11T18:14:37.453Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-qtwOA7dG",
+        "displayedVariants": {
+          "animatic:shot.10.first": "v-VWH0ZsrD",
+          "animatic:shot.10.vo0": "v-5ZCrFAEM"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.10#composition": "bacb6359b0be",
+          "animatic:shot.10#stem": "0276094cf7d9"
+        },
+        "annotation": null,
+        "time": 26,
+        "text": "キャラが小さすぎる。14と同じじゃないよ",
+        "createdAt": "2026-09-11T18:49:09.672Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-GzsLaMmN",
+        "displayedVariants": {
+          "animatic:shot.10.first": "v-IKTvbuHN",
+          "animatic:shot.10.vo0": "v-5ZCrFAEM",
+          "animatic:shot.10#composition": "v-nLnzk6go"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.10#composition": "bacb6359b0be",
+          "animatic:shot.10#stem": "0276094cf7d9"
+        },
+        "annotation": null,
+        "time": 26.666666666666668,
+        "text": "ここの始まり、And じゃなくて、Okay のほうが自然じゃないかな？どう思う？",
+        "createdAt": "2026-09-11T21:20:51.965Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-X6S9WW67",
+        "displayedVariants": {
+          "animatic:shot.10.first": "v-B5cSzcEL",
+          "animatic:shot.10.vo0": "v-9aaQWtvV",
+          "animatic:shot.10#composition": "v-IAyWdYKm"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.10#composition": "bacb6359b0be",
+          "animatic:shot.10#stem": "0276094cf7d9"
+        },
+        "annotation": null,
+        "time": 24.6,
+        "text": "Okey が入ってない。ゆっくりすぎるからでは？ 実際読み上げちょっと遅い気がする。",
+        "createdAt": "2026-09-15T13:21:17.136Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-6Kn0WTlu",
+        "displayedVariants": {
+          "animatic:shot.10.first": "v-B5cSzcEL",
+          "animatic:shot.10.vo0": "v-9aaQWtvV",
+          "animatic:shot.10#composition": "v-IAyWdYKm"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.10#composition": "bacb6359b0be",
+          "animatic:shot.10#stem": "0276094cf7d9"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.028,
+          "y": 0.494
+        },
+        "time": 26.933333333333334,
+        "text": "絵も4:1 じゃないので（黒枠がある）、作り直したいな",
+        "createdAt": "2026-09-15T13:21:17.136Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-V6csFzac",
+        "displayedVariants": {
+          "animatic:shot.10.first": "v-NuXfBbn4",
+          "animatic:shot.10.vo0": "v-C1nDmesc",
+          "animatic:shot.10#composition": "v-IAyWdYKm"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.10#composition": "6ff861fe2624",
+          "animatic:shot.10#stem": "dde467835f5d"
+        },
+        "annotation": null,
+        "time": 24.133333333333333,
+        "text": "Okay まだ入ってない。",
+        "createdAt": "2026-09-15T13:59:34.642Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.13": [
+      {
+        "id": "fb-1aKi4hlZ",
+        "displayedVariants": {
+          "animatic:shot.13.first": "v-J9HpNzoR",
+          "animatic:shot.13.vo0": "v-LGVvs4oE"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.13#composition": "d55ee418c60d",
+          "animatic:shot.13#stem": "fab2f062eaa4"
+        },
+        "annotation": null,
+        "time": 35.7,
+        "text": "v-J9HpNzoR でいい気がした",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.15": [
+      {
+        "id": "fb-iPYX1cLd",
+        "displayedVariants": {
+          "animatic:shot.15.first": "v-TgPBKoiK",
+          "animatic:shot.15.vo0": "v-ug9FsvMc",
+          "animatic:shot.15.vo1": "v-oHGO00sd"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.15#composition": "5ad1f5880347",
+          "animatic:shot.15#stem": "ba33f9f32930"
+        },
+        "annotation": null,
+        "time": 43.03333333333333,
+        "text": "make を二回発音している",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.16": [
+      {
+        "id": "fb-1I5cG2gC",
+        "displayedVariants": {
+          "animatic:shot.16.first": "v-cE8VCEHa"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.16#composition": "889984649e55"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.407,
+          "y": 0.605
+        },
+        "time": 45.06666666666667,
+        "text": "もうちょっとボードに近いところからのスタートのほうがいいのでは？",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-iNRDVHe8",
+        "displayedVariants": {
+          "animatic:shot.16.first": "v-Oc1vhUTb"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.16#composition": "889984649e55"
+        },
+        "annotation": null,
+        "time": 45,
+        "text": "v-Oc1vhUTb でいいや",
+        "createdAt": "2026-09-11T18:14:37.453Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.17": [
+      {
+        "id": "fb-JjGCIHFN",
+        "displayedVariants": {
+          "animatic:shot.17.first": "v-tAtttWWF"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.17#composition": "4f63e409921b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.355,
+          "y": 0.508
+        },
+        "time": 47.9,
+        "text": "タブレットを斜めから書き込んでいるのが変。",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-VgVZkFC1",
+        "displayedVariants": {
+          "animatic:shot.17.first": "v-tAtttWWF"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.17#composition": "4f63e409921b"
+        },
+        "annotation": null,
+        "time": 47.5,
+        "text": "18と姿勢があってない",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-Yve51RCV",
+        "displayedVariants": {
+          "animatic:shot.17.first": "v-nHTtgDxq"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.17#composition": "4f63e409921b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.367,
+          "y": 0.337
+        },
+        "time": 47.5,
+        "text": "紙は中央に",
+        "createdAt": "2026-09-11T18:14:37.453Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-ceqmeRpP",
+        "displayedVariants": {
+          "animatic:shot.17.first": "v-vw0xx99r"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.17#composition": "4f63e409921b"
+        },
+        "annotation": null,
+        "time": 47.5,
+        "text": "液タブを端に寄せろなんて指示はしていない。前のレビューで見た画角に戻して。",
+        "createdAt": "2026-09-11T18:49:09.672Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-RvH1ayM4",
+        "displayedVariants": {
+          "animatic:shot.17.first": "v-isp2jOki"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.17#composition": "4f63e409921b"
+        },
+        "annotation": null,
+        "time": 48.36666666666667,
+        "text": "v-tAtttWWF と同じ画角じゃないです。",
+        "createdAt": "2026-09-11T19:20:45.262Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-W2bDBJXz",
+        "displayedVariants": {
+          "animatic:shot.17.first": "v-dOH83WQB"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.17#composition": "4f63e409921b"
+        },
+        "annotation": null,
+        "time": 47.5,
+        "text": "patch の機能で変更したいところ以外も編集されてしまっている。\npatch 使うのやめたほうがよさそう。\n前のプロンプトベースに作り直して",
+        "createdAt": "2026-09-11T20:16:05.670Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.22": [
+      {
+        "id": "fb-dzdY8lnr",
+        "displayedVariants": {
+          "animatic:shot.22.first": "v-0TawjZjD"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.22#composition": "aed52a30e141"
+        },
+        "annotation": null,
+        "time": 58,
+        "text": "17と同様書き込み方が変",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-4Iy2D6GN",
+        "displayedVariants": {
+          "animatic:shot.22.first": "v-0TawjZjD"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.22#composition": "aed52a30e141"
+        },
+        "annotation": null,
+        "time": 58,
+        "text": "あと残像みたいなエフェクトは動画段階でいれるから不要では？",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-DDuiLGfk",
+        "displayedVariants": {
+          "animatic:shot.22.first": "v-Yl7cIQKi"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.22#composition": "aed52a30e141"
+        },
+        "annotation": null,
+        "time": 58,
+        "text": "17と同じ画角に。",
+        "createdAt": "2026-09-11T18:14:37.453Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-O8I82Mke",
+        "displayedVariants": {
+          "animatic:shot.22.first": "v-3q0y2E1G"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.22#composition": "aed52a30e141"
+        },
+        "annotation": null,
+        "time": 58,
+        "text": "17の絵が作り直しが必要なので、ここも作り直し",
+        "createdAt": "2026-09-11T18:49:09.672Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-34eFWH7f",
+        "displayedVariants": {
+          "animatic:shot.22.first": "v-KRx9eail"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.22#composition": "aed52a30e141"
+        },
+        "annotation": null,
+        "time": 58,
+        "text": "17と画角は違うけど、これはこれでいいや",
+        "createdAt": "2026-09-11T19:20:45.262Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.25": [
+      {
+        "id": "fb-6CeCpUHM",
+        "displayedVariants": {
+          "animatic:shot.25.first": "v-L5v5PczT"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.25#composition": "c599de64732e"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.498,
+          "y": 0.882
+        },
+        "time": 64.23333333333333,
+        "text": "机が二つあって、その上で寝ているとか、あきらかにおかしい絵。\n完全におかしいので、全面的に作り直して",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-mfd2fGwD",
+        "displayedVariants": {
+          "animatic:shot.25.first": "v-dmuASPlX"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.25#composition": "c599de64732e"
+        },
+        "annotation": null,
+        "time": 63.96666666666667,
+        "text": "ここではコンテが決まったって体にしたいので、ペンタブに直接書く感じにしたい",
+        "createdAt": "2026-09-11T18:14:37.453Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-8PbSGE00",
+        "displayedVariants": {
+          "animatic:shot.25.first": "v-dmuASPlX"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.25#composition": "c599de64732e"
+        },
+        "annotation": null,
+        "time": 63.5,
+        "text": "27にみたいにうっすら光らせたい",
+        "createdAt": "2026-09-11T18:14:37.453Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-pk0c8iev",
+        "displayedVariants": {
+          "animatic:shot.25.first": "v-792g6812",
+          "animatic:shot.25#composition": "v-Yg8pFC4J"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.25#composition": "c599de64732e"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.384,
+          "y": 0.772
+        },
+        "time": 60.63333333333333,
+        "text": "ここの机の脚部分が違う。",
+        "createdAt": "2026-09-17T11:48:05.685Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-JUWwpDr0",
+        "displayedVariants": {
+          "animatic:shot.25.first": "v-792g6812",
+          "animatic:shot.25#composition": "v-Yg8pFC4J"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.25#composition": "c599de64732e"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.431,
+          "y": 0.871
+        },
+        "time": 60.63333333333333,
+        "text": "バッグも消したい",
+        "createdAt": "2026-09-17T11:48:05.685Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-J0xWslhu",
+        "displayedVariants": {
+          "animatic:shot.25.first": "v-olrglbOc",
+          "animatic:shot.25#composition": "v-Yg8pFC4J"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.25#composition": "7a916c59eaac"
+        },
+        "annotation": null,
+        "time": 60.5,
+        "text": "前acceptedだったやつと同様、液タブは光っていてほしい。",
+        "createdAt": "2026-09-17T14:08:01.532Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-hQaq5hQM",
+        "displayedVariants": {
+          "animatic:shot.25.first": "v-2EjuO1ke",
+          "animatic:shot.25#composition": "v-Yg8pFC4J"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.25#composition": "7a916c59eaac"
+        },
+        "annotation": null,
+        "time": 60.5,
+        "text": "椅子の形が変だったり、ちょっと構図が変わってるな。v-olrglbOc ベースで液タブまわりだけプロンプト変えて、もうちょっと試してほしい",
+        "createdAt": "2026-09-17T14:48:00.795Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.26": [
+      {
+        "id": "fb-mWwlIdpT",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-j7zW9chm"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "dd8683677d09"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.152,
+          "y": 0.78
+        },
+        "time": 66.93333333333334,
+        "text": "椅子のところに konte ちゃんがいないので、27とつながりがないように感じられる。",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-rtBLt43j",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-AbtVjQ1W",
+          "animatic:shot.26#composition": "v-S2n09Sib"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "dd8683677d09"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.385,
+          "y": 0.728
+        },
+        "time": 66.96666666666667,
+        "text": "ここも液タブ光らせたい",
+        "createdAt": "2026-09-11T18:49:09.672Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-jIrt6kT2",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-4EWvsgDM"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "dd8683677d09"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.321,
+          "y": 0.567
+        },
+        "time": 66.5,
+        "text": "なんか絵が写ってるけど、絵は不要",
+        "createdAt": "2026-09-11T19:20:45.262Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-NIy4js74",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-4EWvsgDM"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "dd8683677d09"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.035,
+          "y": 0.227
+        },
+        "time": 66.5,
+        "text": "なんか元絵からここらへん変わってない？気のせい？",
+        "createdAt": "2026-09-11T19:20:45.262Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-vtSxH840",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-IxJUovxi"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "dd8683677d09"
+        },
+        "annotation": null,
+        "time": 66.5,
+        "text": "patch で関係ないところを変更されてしまっている。\n元に戻して。",
+        "createdAt": "2026-09-11T20:16:05.670Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-4DnBEh30",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-06oPVDIR",
+          "animatic:shot.26#composition": "v-S2n09Sib"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "dd8683677d09"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.854,
+          "y": 0.177
+        },
+        "time": 63.6,
+        "text": "木の床が写ってるのがおかしい。25の絵みてもらえばわかると思うけど、ここは白い壁",
+        "createdAt": "2026-09-16T12:45:03.533Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-SS7Zeccp",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-EZzVRlsH",
+          "animatic:shot.26#composition": "v-S2n09Sib"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "dd8683677d09"
+        },
+        "annotation": null,
+        "time": 63.5,
+        "text": "qwen edit つかった？ なんか konte ちゃんの顔が変になってるから、普通に生成しなおしてほしい",
+        "createdAt": "2026-09-16T12:50:42.401Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-cKjbW7mW",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-p5Mh6sgc",
+          "animatic:shot.26#composition": "v-S2n09Sib"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "dd8683677d09"
+        },
+        "annotation": null,
+        "time": 63.5,
+        "text": "うーん、突っ伏してるように見えないんだよね。",
+        "createdAt": "2026-09-16T13:09:50.128Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-J51daroJ",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-p5Mh6sgc",
+          "animatic:shot.26#composition": "v-S2n09Sib"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "dd8683677d09"
+        },
+        "annotation": null,
+        "time": 63.5,
+        "text": "あと明かりは右上の窓からさしてるはずだから、光源が左下からさしてるのはちょっと違う",
+        "createdAt": "2026-09-16T13:09:50.128Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-TyVYFQex",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-3je6Fzp9",
+          "animatic:shot.26#composition": "v-S2n09Sib"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "dd8683677d09"
+        },
+        "annotation": null,
+        "time": 63.5,
+        "text": "影の方向がぜんぜん直ってない。\nv-AbtVjQ1W がいい感じなんだけど、プロンプト真似できない？",
+        "createdAt": "2026-09-16T13:16:55.789Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-9XH6jD8M",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-1Tj1VSow",
+          "animatic:shot.26#composition": "v-S2n09Sib"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "dd8683677d09"
+        },
+        "annotation": null,
+        "time": 63.5,
+        "text": "うーん、窓枠に見えるなあ。何度か生成したら消えるかなあ？",
+        "createdAt": "2026-09-16T13:26:23.803Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-9BLIkX4x",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-uXWqRuPK",
+          "animatic:shot.26#composition": "v-S2n09Sib"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "dd8683677d09"
+        },
+        "annotation": null,
+        "time": 64.03333333333333,
+        "text": "もう3つほど生成してみて。机の形が気になるんだよね。",
+        "createdAt": "2026-09-16T13:39:05.480Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.28": [
+      {
+        "id": "fb-k0tGCLsk",
+        "displayedVariants": {
+          "animatic:shot.28.first": "v-YYFGPK6e"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "e153dc0a5e77"
+        },
+        "annotation": null,
+        "time": 71.6,
+        "text": "机の形がおかしい。液タブを置いているところは、作業台みたいに前傾じゃなかった？",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-i7HN0QSz",
+        "displayedVariants": {
+          "animatic:shot.28.first": "v-5dLlgxWs"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "e153dc0a5e77"
+        },
+        "annotation": null,
+        "time": 72.7,
+        "text": "ペンタブがない",
+        "createdAt": "2026-09-11T18:14:37.453Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-vyLZ5vDJ",
+        "displayedVariants": {
+          "animatic:shot.28.first": "v-5dLlgxWs"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "e153dc0a5e77"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.44,
+          "y": 0.405
+        },
+        "time": 72.7,
+        "text": "紙はなくてもいいかも",
+        "createdAt": "2026-09-11T18:14:37.453Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-PRwvqzJt",
+        "displayedVariants": {
+          "animatic:shot.28.first": "v-4H9w8tgQ"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "e153dc0a5e77"
+        },
+        "annotation": null,
+        "time": 72.76666666666667,
+        "text": "画角がおかしくなってる。v-5dLlgxWs の絵から紙を消すだけでよかった",
+        "createdAt": "2026-09-11T18:49:09.672Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-hzPBdOtj",
+        "displayedVariants": {
+          "animatic:shot.28.first": "v-eDNslzBx"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "e153dc0a5e77"
+        },
+        "annotation": null,
+        "time": 72.36666666666666,
+        "text": "タブレットも消えてるけど。",
+        "createdAt": "2026-09-11T19:20:45.262Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-8QAiuolt",
+        "displayedVariants": {
+          "animatic:shot.28.first": "v-6PolkeXS"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "e153dc0a5e77"
+        },
+        "annotation": null,
+        "time": 71.5,
+        "text": "patch で関係ないところを編集されてしまっている。\nもとのプロンプトベースで、紙だけ消すよう生成しなおして",
+        "createdAt": "2026-09-11T20:16:05.670Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-8YMj0Q6E",
+        "displayedVariants": {
+          "animatic:shot.28.first": "v-IO5ObdX8"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "e153dc0a5e77"
+        },
+        "annotation": null,
+        "time": 73.2,
+        "text": "液タブが消えてる。液タブの上に、白いタブレットがおいてあって、それを持ち上げるのでは？",
+        "createdAt": "2026-09-11T20:39:48.246Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-BGLLzJcw",
+        "displayedVariants": {
+          "animatic:shot.28.first": "v-rvgSV3c7"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "e153dc0a5e77"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.424,
+          "y": 0.599
+        },
+        "time": 72,
+        "text": "タブレットがでかすぎ。画角はこのままでいい",
+        "createdAt": "2026-09-11T21:20:51.965Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-4jLHDn3j",
+        "displayedVariants": {
+          "animatic:shot.28.first": "v-sBgmX0kj",
+          "animatic:shot.28#composition": "v-N0xuBfY2"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "e153dc0a5e77"
+        },
+        "annotation": null,
+        "time": 69,
+        "text": "ちょっとタブレットが小さすぎる。前の accepted のやつぐらいの大きさにしたい",
+        "createdAt": "2026-09-15T13:21:17.136Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-4mWwfkzs",
+        "displayedVariants": {
+          "animatic:shot.28.first": "v-sBgmX0kj",
+          "animatic:shot.28#composition": "v-N0xuBfY2"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "e153dc0a5e77"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.091,
+          "y": 0.152
+        },
+        "time": 69,
+        "text": "左側は壁だったはず。木の床で日の光が落ちてるのもおかしい",
+        "createdAt": "2026-09-15T13:21:17.136Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-H5KTj9mS",
+        "displayedVariants": {
+          "animatic:shot.28.first": "v-k26nmBjj",
+          "animatic:shot.28#composition": "v-N0xuBfY2"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "e153dc0a5e77"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.067,
+          "y": 0.051
+        },
+        "time": 69,
+        "text": "カーテンはないはず。",
+        "createdAt": "2026-09-15T13:59:34.642Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-kZyWCNz8",
+        "displayedVariants": {
+          "animatic:shot.28.first": "v-k26nmBjj",
+          "animatic:shot.28#composition": "v-N0xuBfY2"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "e153dc0a5e77"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.825,
+          "y": 0.843
+        },
+        "time": 69,
+        "text": "机の傾きが違う",
+        "createdAt": "2026-09-15T13:59:34.642Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.31": [
+      {
+        "id": "fb-sGUquaQ0",
+        "displayedVariants": {
+          "animatic:shot.31.first": "v-GocyFTkg"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.31#composition": "f663e5c09a10"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.467,
+          "y": 0.206
+        },
+        "time": 80.63333333333334,
+        "text": "飛んでくるまえに、すでに張り付いてるのはおかしい",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-LSChTiHQ",
+        "displayedVariants": {
+          "animatic:shot.31.first": "v-GocyFTkg"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.31#composition": "f663e5c09a10"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.503,
+          "y": 0.95
+        },
+        "time": 80.83333333333333,
+        "text": "30でタブレットを画面に向けてるはずでは？ タブレットの後ろ面が写ってる",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-RY6ptasD",
+        "displayedVariants": {
+          "animatic:shot.31.first": "v-95uvzMCo",
+          "animatic:shot.31#composition": "v-cZRAeBDQ"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.31#composition": "cfd7f54e4fda"
+        },
+        "annotation": null,
+        "time": 78.06666666666666,
+        "text": "画面はこちら側むいてないと思う。左側にカメラ穴あるし。光も女の子のほうを向いてる。",
+        "createdAt": "2026-09-18T12:05:24.216Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-ABbVtz1C",
+        "displayedVariants": {
+          "animatic:shot.31.first": "v-xcmS00pc",
+          "animatic:shot.31#composition": "v-6LXlVj2R"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.31#composition": "cfd7f54e4fda"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.315,
+          "y": 0.851
+        },
+        "time": 78,
+        "text": "タブレットの角度がおかしい",
+        "createdAt": "2026-09-18T12:33:33.900Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.34": [
+      {
+        "id": "fb-MPNs3F6z",
+        "displayedVariants": {
+          "animatic:shot.34.first": "v-WL1aMCB4",
+          "animatic:shot.34.vo0": "v-gLzLLa1k"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.34#composition": "3ce36a50bf78",
+          "animatic:shot.34#stem": "587b071754f0"
+        },
+        "annotation": null,
+        "time": 91.63333333333334,
+        "text": "your turn を二回言っている",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-sOR4xbFP",
+        "displayedVariants": {
+          "animatic:shot.34.first": "v-5JckduMR",
+          "animatic:shot.34.vo0": "v-3tm7RqrD",
+          "animatic:shot.34#composition": "v-rbtKz15H"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.34#composition": "3ce36a50bf78",
+          "animatic:shot.34#stem": "587b071754f0"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.279,
+          "y": 0.526
+        },
+        "time": 86,
+        "text": "konte ちゃんは真ん中にしたい。最初のフレームでは目は開いているべき",
+        "createdAt": "2026-09-15T13:21:17.136Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.24": [
+      {
+        "id": "fb-IuvtjMEF",
+        "displayedVariants": {
+          "animatic:shot.24.first": "v-fl2JuGwu"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.24#composition": "2b615c00d7e7"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.499,
+          "y": 0.249
+        },
+        "time": 62,
+        "text": "紙の山より20みたいな丸めた紙がたくさん増えていく絵のほうがいいかも",
+        "createdAt": "2026-09-11T17:33:00.608Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-Rx2NvRBh",
+        "displayedVariants": {
+          "animatic:shot.24.first": "v-jbVefjAo",
+          "animatic:shot.24#composition": "v-NBT2W8FA"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.24#composition": "621a7423fad8"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.815,
+          "y": 0.745
+        },
+        "time": 59.5,
+        "text": "最初のフレームではこぼれる部分はいらない",
+        "createdAt": "2026-09-19T21:39:33.405Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-mwpDJjlF",
+        "displayedVariants": {
+          "animatic:shot.24.first": "v-AFFJnJFe",
+          "animatic:shot.24#composition": "v-O5GZE66q"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.24#composition": "621a7423fad8"
+        },
+        "annotation": null,
+        "text": "最新のやつだと机の形変わってるので、これでいいや",
+        "time": 59.5,
+        "createdAt": "2026-09-19T22:24:34.495Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.14": [
+      {
+        "id": "fb-UezYwS0b",
+        "displayedVariants": {
+          "animatic:shot.14.first": "v-Hk8h4ziZ",
+          "animatic:shot.14.vo0": "v-eiyoA90x",
+          "animatic:shot.14#composition": "v-HkunYmKR"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.14#composition": "ac18e733faac",
+          "animatic:shot.14#stem": "27c42d12a06c"
+        },
+        "annotation": null,
+        "time": 39.46666666666667,
+        "text": "ここも、付箋貼るってアクションやめたほうがいいかも。",
+        "createdAt": "2026-09-11T18:14:37.453Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.32": [
+      {
+        "id": "fb-SUdBxlAf",
+        "displayedVariants": {
+          "animatic:shot.32.first": "v-EYds1Igf",
+          "animatic:shot.32.vo0": "v-1oP0Y8sN",
+          "animatic:shot.32#composition": "v-KnJmmeea"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.32#composition": "0957fee8b468",
+          "animatic:shot.32#stem": "0b28f17f22aa"
+        },
+        "annotation": null,
+        "time": 81.5,
+        "text": "Check? じゃなくて、Accept? のほうがよくないかな？どう思う？",
+        "createdAt": "2026-09-11T18:14:37.453Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-HcyXzgIN",
+        "displayedVariants": {
+          "animatic:shot.32.first": "v-4At2rkY4",
+          "animatic:shot.32.vo0": "v-V16NjOdJ",
+          "animatic:shot.32#composition": "v-iIG34I6G"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.32#composition": "93ce756a2449",
+          "animatic:shot.32#stem": "0b28f17f22aa"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.29,
+          "y": 0.757
+        },
+        "time": 79.5,
+        "text": "32ではタブレットはおろしていていいよ",
+        "createdAt": "2026-09-18T12:33:33.900Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.23": [
+      {
+        "id": "fb-9YL9njtT",
+        "displayedVariants": {
+          "animatic:shot.23.first": "v-sBGf3DQB",
+          "animatic:shot.23.vo0": "v-kH8AgPUn",
+          "animatic:shot.23#composition": "v-Q7hHmPXS"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.23#composition": "64efc2fe62ed",
+          "animatic:shot.23#stem": "56ee81ea954e"
+        },
+        "annotation": null,
+        "time": 59.5,
+        "text": "なにこれ、ぜんぜんダメになってる。椅子だけじゃなくて、konte ちゃんもいないし、全部だめになってる。前の絵に戻して。",
+        "createdAt": "2026-09-11T19:20:45.262Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.08": [
+      {
+        "id": "fb-bckWJ72y",
+        "displayedVariants": {
+          "animatic:shot.08.first": "v-PtR6kkfz",
+          "animatic:shot.08#composition": "v-DGwN30yV"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.08#composition": "e1d905d1737d"
+        },
+        "annotation": null,
+        "time": 22,
+        "text": "v-PtR6kkfz がいい、古いやつだけど",
+        "createdAt": "2026-09-11T19:20:45.262Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.09": [
+      {
+        "id": "fb-1DnXxmkV",
+        "displayedVariants": {
+          "animatic:shot.09.first": "v-0h6rzsqm",
+          "animatic:shot.09.vo0": "v-dokIoqhb",
+          "animatic:shot.09#composition": "v-ppTf7bQ6"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.09#composition": "9ba4de07ee65",
+          "animatic:shot.09#stem": "5372e442abb6"
+        },
+        "annotation": null,
+        "time": 23.5,
+        "text": "ここ、背景にボードがフルで写ってて、ワープしているように見える。07と立ち位置かわってないはずなので、直して",
+        "createdAt": "2026-09-11T19:20:45.262Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-yWCNryVg",
+        "displayedVariants": {
+          "animatic:shot.09.first": "v-z7SUPc6W",
+          "animatic:shot.09.vo0": "v-dokIoqhb"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.09#composition": "9ba4de07ee65",
+          "animatic:shot.09#stem": "5372e442abb6"
+        },
+        "annotation": null,
+        "time": 23.5,
+        "text": "僕が指定したのは07のはずだけど",
+        "createdAt": "2026-09-11T20:16:05.670Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-R9hJPcm9",
+        "displayedVariants": {
+          "animatic:shot.09.first": "v-z7SUPc6W",
+          "animatic:shot.09.vo0": "v-dokIoqhb"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.09#composition": "9ba4de07ee65",
+          "animatic:shot.09#stem": "5372e442abb6"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.348,
+          "y": 0.678
+        },
+        "time": 23.5,
+        "text": "指や紙も変",
+        "createdAt": "2026-09-11T20:16:05.670Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-akix2Zw1",
+        "displayedVariants": {
+          "animatic:shot.09.first": "v-yoPZYCPz",
+          "animatic:shot.09.vo0": "v-CoLox7fa",
+          "animatic:shot.09#composition": "v-X6QRUnFp"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.09#composition": "9ba4de07ee65",
+          "animatic:shot.09#stem": "5372e442abb6"
+        },
+        "annotation": null,
+        "time": 22.966666666666665,
+        "text": "oh っていってないね",
+        "createdAt": "2026-09-15T13:21:17.136Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.20": [
+      {
+        "id": "fb-kH36KOk3",
+        "displayedVariants": {
+          "animatic:shot.20.first": "v-gg7nHZF2",
+          "animatic:shot.20#composition": "v-renSsnXZ"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.20#composition": "f669db299482"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.251,
+          "y": 0.622
+        },
+        "time": 56.53333333333333,
+        "text": "液タブが消えてるけど。",
+        "createdAt": "2026-09-11T20:39:48.246Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-JBJKlGGh",
+        "displayedVariants": {
+          "animatic:shot.20.first": "v-QrJqsJ98",
+          "animatic:shot.20#composition": "v-b7XPnQjm"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.20#composition": "2de30aea892b"
+        },
+        "annotation": null,
+        "time": 52.5,
+        "text": "20, 24 は同じ画角にしたい。24の画角がいいかな",
+        "createdAt": "2026-09-19T21:39:33.405Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-8K0DDvC7",
+        "displayedVariants": {
+          "animatic:shot.20.first": "v-EGWUZKz3",
+          "animatic:shot.20#composition": "v-b7XPnQjm"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.20#composition": "2de30aea892b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.153,
+          "y": 0.408
+        },
+        "time": 52.5,
+        "text": "左側の壁がもとに戻ってる",
+        "createdAt": "2026-09-19T21:48:28.321Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-Xdb9llGc",
+        "displayedVariants": {
+          "animatic:shot.20.first": "v-uSDdI8Rr",
+          "animatic:shot.20#composition": "v-eOkuJzUx"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.20#composition": "2de30aea892b"
+        },
+        "annotation": null,
+        "text": "最新のやつ机の形変わってる。\nこれでいいよ。",
+        "time": 52.5,
+        "createdAt": "2026-09-19T22:24:34.495Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.03": [
+      {
+        "id": "fb-2wqZg02t",
+        "displayedVariants": {
+          "animatic:shot.03.first": "v-fBXMbfwG",
+          "animatic:shot.03#composition": "v-hgg5o3DI"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.03#composition": "4dd14116b60f"
+        },
+        "annotation": null,
+        "time": 6,
+        "text": "03-04-05 は、08-09 と同じ絵にしよう。付箋のフィードバックのパターンを変える必要ないことが animatic にすると分かった",
+        "createdAt": "2026-09-11T20:39:48.246Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.12": [
+      {
+        "id": "fb-Otugy8bm",
+        "displayedVariants": {
+          "animatic:shot.12.first": "v-TsbbxJBY",
+          "animatic:shot.12#composition": "v-JvzMeBmh"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.12#composition": "6907d3475b54"
+        },
+        "annotation": null,
+        "time": 35.5,
+        "text": "ここも 08 と同じ絵にしよう。",
+        "createdAt": "2026-09-11T20:39:48.246Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.11": [
+      {
+        "id": "fb-XoQnDNoW",
+        "displayedVariants": {
+          "animatic:shot.11.first": "v-RArnEfzj",
+          "animatic:shot.11.vo0": "v-dlj1zOYI",
+          "animatic:shot.11#composition": "v-OMRaBESa"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.11#composition": "a19295211235",
+          "animatic:shot.11#stem": "b81674bbb7c6"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.037,
+          "y": 0.494
+        },
+        "time": 28.533333333333335,
+        "text": "ここも黒枠あるので、絵作り直したいな",
+        "createdAt": "2026-09-15T13:21:17.136Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-WAB6vy3o",
+        "displayedVariants": {
+          "animatic:shot.11.first": "v-RArnEfzj",
+          "animatic:shot.11.vo0": "v-dlj1zOYI",
+          "animatic:shot.11#composition": "v-OMRaBESa"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.11#composition": "a19295211235",
+          "animatic:shot.11#stem": "b81674bbb7c6"
+        },
+        "annotation": null,
+        "time": 31.8,
+        "text": "best one の後に小さい th が入っているから、直したい",
+        "createdAt": "2026-09-15T13:21:17.136Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-9A1Twcll",
+        "displayedVariants": {
+          "animatic:shot.11.first": "v-a5hLJORX",
+          "animatic:shot.11.vo0": "v-dlj1zOYI",
+          "animatic:shot.11#composition": "v-OMRaBESa"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.11#composition": "d965d3b82b09",
+          "animatic:shot.11#stem": "2fb5ee7e3e91"
+        },
+        "annotation": null,
+        "time": 30.466666666666665,
+        "text": "なんで Audio 後ろにずらしてるの？ なんか空きが気になる",
+        "createdAt": "2026-09-15T13:59:34.642Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.33": [
+      {
+        "id": "fb-RCDvJGZl",
+        "displayedVariants": {
+          "animatic:shot.33.first": "v-NL2o6P81",
+          "animatic:shot.33#composition": "v-o650tt4j"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.33#composition": "fc1c90604e3b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.081,
+          "y": 0.67
+        },
+        "time": 81.5,
+        "text": "若干角度がついてるのがおかしい",
+        "createdAt": "2026-09-15T13:21:17.136Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-nYwJe9Bw",
+        "displayedVariants": {
+          "animatic:shot.33.first": "v-NL2o6P81",
+          "animatic:shot.33#composition": "v-o650tt4j"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.33#composition": "fc1c90604e3b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.487,
+          "y": 0.295
+        },
+        "time": 81.5,
+        "text": "最初持ってる段階では、付箋にあるチェックマークは見えないはず",
+        "createdAt": "2026-09-15T13:21:17.136Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.29": [
+      {
+        "id": "fb-EGqA4euR",
+        "displayedVariants": {
+          "animatic:shot.29.first": "v-waIfjeCT",
+          "animatic:shot.29.vo0": "v-IR26L6s9",
+          "animatic:shot.29#composition": "v-UjaYNtyZ"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.29#composition": "4be2e71d4af5",
+          "animatic:shot.29#stem": "f79e8bc00684"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.363,
+          "y": 0.645
+        },
+        "time": 70,
+        "text": "なんかぼやけていて変",
+        "createdAt": "2026-09-17T11:48:05.685Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-PSzU3ywm",
+        "displayedVariants": {
+          "animatic:shot.29.first": "v-GFGpDJig",
+          "animatic:shot.29.vo0": "v-IR26L6s9",
+          "animatic:shot.29#composition": "v-UjaYNtyZ"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.29#composition": "d6ff095e96b9",
+          "animatic:shot.29#stem": "f79e8bc00684"
+        },
+        "annotation": null,
+        "time": 70,
+        "text": "v-GFGpDJig がいいなあ。構図的には。タブレットのロゴは消したい",
+        "createdAt": "2026-09-17T14:08:01.532Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-q5oC8mPQ",
+        "displayedVariants": {
+          "animatic:shot.29.first": "v-vCMXuwYK",
+          "animatic:shot.29.vo0": "v-IR26L6s9",
+          "animatic:shot.29#composition": "v-pik15VKX"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.29#composition": "d6ff095e96b9",
+          "animatic:shot.29#stem": "f79e8bc00684"
+        },
+        "annotation": null,
+        "time": 71.4,
+        "text": "いいんだけど、これで、もう2,3個生成してみてほしい",
+        "createdAt": "2026-09-17T17:56:54.351Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-ibBJN4B5",
+        "displayedVariants": {
+          "animatic:shot.29.first": "v-fhJP95Z0",
+          "animatic:shot.29.vo0": "v-IR26L6s9",
+          "animatic:shot.29#composition": "v-pik15VKX"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.29#composition": "d6ff095e96b9",
+          "animatic:shot.29#stem": "f79e8bc00684"
+        },
+        "annotation": null,
+        "time": 70.5,
+        "text": "うーん、塗りつぶした跡がやっぱ気になる。file 使うのやめてほしいな。\nあと、前に accepted してたバージョンみたいに夕方っぽい絵にしたい",
+        "createdAt": "2026-09-17T18:13:37.715Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.21": [
+      {
+        "id": "fb-lmJlPkN5",
+        "displayedVariants": {
+          "animatic:shot.21.first": "v-bdf9WeQk",
+          "animatic:shot.21.vo0": "v-boF2yNDr",
+          "animatic:shot.21#composition": "v-vJIYNJAu"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.21#composition": "401a7779d141",
+          "animatic:shot.21#stem": "b7d1a75d8c1b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.362,
+          "y": 0.641
+        },
+        "time": 53,
+        "text": "ここがぼやけていて変",
+        "createdAt": "2026-09-17T11:48:05.685Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-fqNeMQlk",
+        "displayedVariants": {
+          "animatic:shot.21.first": "v-0zOVZSUi",
+          "animatic:shot.21.vo0": "v-boF2yNDr",
+          "animatic:shot.21#composition": "v-vJIYNJAu"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.21#composition": "b9e870559efa",
+          "animatic:shot.21#stem": "b7d1a75d8c1b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.392,
+          "y": 0.247
+        },
+        "time": 53,
+        "text": "表情とか態勢はいい。カチンコは手でもっていてほしいな。",
+        "createdAt": "2026-09-17T14:08:01.532Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-zXWCTcs9",
+        "displayedVariants": {
+          "animatic:shot.21.first": "v-Gjd496YK",
+          "animatic:shot.21.vo0": "v-boF2yNDr",
+          "animatic:shot.21#composition": "v-vJIYNJAu"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.21#composition": "b9e870559efa",
+          "animatic:shot.21#stem": "b7d1a75d8c1b"
+        },
+        "annotation": null,
+        "time": 53.2,
+        "text": "v-0zOVZSUi と構図が変わりすぎてる",
+        "createdAt": "2026-09-17T14:48:00.795Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.30": [
+      {
+        "id": "fb-GMtFKqQ6",
+        "displayedVariants": {
+          "animatic:shot.30.first": "v-MpFQTWpK",
+          "animatic:shot.30.vo0": "v-uAkyc22Z",
+          "animatic:shot.30#composition": "v-QRzOMFYX"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.30#composition": "c3e49238ed5a",
+          "animatic:shot.30#stem": "ae801cd06fc4"
+        },
+        "annotation": null,
+        "time": 74.53333333333333,
+        "text": "違う、途中で裏返す芝居にしたいので、animatic の変更は不要。",
+        "createdAt": "2026-09-18T11:38:23.327Z",
+        "createdBy": "local"
+      }
+    ]
+  }
+}

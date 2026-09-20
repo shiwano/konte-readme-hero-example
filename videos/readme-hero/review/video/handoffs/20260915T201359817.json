@@ -1,0 +1,14 @@
+{
+  "stage": "video",
+  "summary": "02を0.5秒短く、31を0.5秒長くしました（映像の作り直しはなし、全体の長さは変わりません）。",
+  "notes": [
+    {
+      "address": "video:shot.02#composition",
+      "text": "4.5秒→4.0秒。「I'm Konte-chan!」のあと腕を下ろして笑うところで切れます。"
+    },
+    {
+      "address": "video:shot.31#composition",
+      "text": "1.0秒→1.5秒。付箋をはがして顔の前に持つところまで見せるので、32の最初の絵とそのままつながります。"
+    }
+  ]
+}

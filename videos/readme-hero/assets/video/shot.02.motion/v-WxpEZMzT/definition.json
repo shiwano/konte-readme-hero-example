@@ -1,0 +1,97 @@
+{
+  "kind": "comfy",
+  "workflow": "video_minimax_h3_r2v.json",
+  "inputs": {
+    "137.image": "__konte:animatic:shot.02.first__",
+    "139.image": "__konte:reference:konte__",
+    "163.audio": "__konte:animatic:shot.02#stem__",
+    "165.image": "__konte:animatic:shot.02.first__",
+    "136.prompt": "subject_definitions: <Subject 1> is the girl in <Picture 2>: black bob with a purple star-print headband, black choker, an oversized white hoodie with a violet konte logo on the chest, a black pleated skirt with a violet hem, white leg warmers, violet-and-white sneakers and a small violet shoulder bag. She is speaker (S1).\n<Picture 1> is the first frame of [Shot 1].\n\nsummary: [keyframe completion] one held shot from the first frame, the girl speaking her line.\n\nretention_analysis: <Picture 1>: fully_preserved - the first frame: its framing, the set, the light and her pose are kept exactly.\n<Subject 1>: fully_preserved - her face, hair and outfit are kept throughout; her expression and movement follow the description.\n\ndetailed_description: 2D-animated. [Shot 1] The shot begins from <Picture 1>: the whole strip of the room, the girl tiny at the far right in front of the cork board with both arms raised. She waves both arms high above her head as (S1), in a bright, light early-teens girl's voice, shouts across the room, <d>[English] I'm Konte-chan!</d> Her lips meet and the speaking motion stops, and she lets her arms drop to her sides, beaming. The desk, the window and the long wall stay exactly as they are. The camera holds a static shot.\n\noverall_soundscape: A quiet bright interior, faint room tone, her small sneakers shifting on the wooden floor, the swish of her sleeves as she waves.\n\nnon_diegetic_music: N/A",
+    "136.width": 1920,
+    "136.height": 480,
+    "136.length": 124,
+    "136.ref_image_size": "match",
+    "129.noise_seed": "__konte:seed__",
+    "143.value": 20,
+    "146.value": false,
+    "130.fps": 24,
+    "127.unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+    "128.clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+    "119.vae_name": "minimax_h3_video_vae_fp16.safetensors",
+    "120.vae_name": "minimax_h3_audio_vae_fp32.safetensors",
+    "145.lora_name": "minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors"
+  },
+  "prunedNodes": [
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "169",
+    "170",
+    "171",
+    "160",
+    "161",
+    "162",
+    "167",
+    "168"
+  ],
+  "prunedPassThroughs": {
+    "168": "positive"
+  },
+  "models": [
+    {
+      "filename": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors"
+    },
+    {
+      "filename": "minimax_h3_video_vae_fp16.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_video_vae_fp16.safetensors"
+    },
+    {
+      "filename": "minimax_h3_audio_vae_fp32.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_audio_vae_fp32.safetensors"
+    },
+    {
+      "filename": "minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors",
+      "type": "lora",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/loras/minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "137.image": "image1",
+    "139.image": "image2",
+    "163.audio": "audioStem",
+    "165.image": "startImage",
+    "136.prompt": "prompt",
+    "136.width": "width",
+    "136.height": "height",
+    "136.length": "length",
+    "136.ref_image_size": "refImageSize",
+    "129.noise_seed": "seed",
+    "143.value": "steps",
+    "146.value": "useTurbo",
+    "130.fps": "fps",
+    "127.unet_name": "unetName",
+    "128.clip_name": "clipName",
+    "119.vae_name": "vaeName",
+    "120.vae_name": "audioVaeName",
+    "145.lora_name": "loraName"
+  }
+}

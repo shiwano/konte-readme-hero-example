@@ -1,0 +1,128 @@
+{
+  "mode": "direction-preview",
+  "stage": "direction",
+  "createdAt": "2026-09-11T10:37:56.173Z",
+  "context": {
+    "shots": [],
+    "directionParts": {
+      "direction:sequence": "828453ec09f9",
+      "direction:brief.logline": "84403d5b64ec",
+      "direction:brief.hook": "04d4e457a28f",
+      "direction:brief.audience": "fb190bd952da",
+      "direction:brief.tone": "4f3129c744a1",
+      "direction:brief.look": "2f933226f959",
+      "direction:brief.outOfScope": "d48140b92bf0",
+      "direction:brief.tolerances": "e1525aff95bd",
+      "direction:policy.format": "40b2d6f568f1",
+      "direction:policy.lang": "50eac10e7966",
+      "direction:policy.fonts": "ff52e631046a",
+      "direction:policy.speech": "3e07f22f81c0",
+      "direction:sequence.waivers.re-established-wide_04": "47189f17366a",
+      "direction:sequence.waivers.re-established-wide_05": "39a5b995a879",
+      "direction:sequence.shots.01": "b4b0522d11ea",
+      "direction:sequence.shots.02": "f85587141df6",
+      "direction:sequence.shots.03": "c163491a1e47",
+      "direction:sequence.shots.04": "f78fd300f07f",
+      "direction:sequence.shots.05": "9e795a9a3d0d",
+      "direction:sequence.shots.06": "cf2b5a2ebf28",
+      "direction:sequence.shots.07": "5c73be371d31",
+      "direction:sequence.shots.08": "55ea32d5f304",
+      "direction:sequence.shots.09": "03656e4e013d",
+      "direction:sequence.shots.10": "6e2227941ebf",
+      "direction:sequence.shots.11": "a0c9b5ed0079",
+      "direction:sequence.shots.12": "06e9f51ff921",
+      "direction:sequence.shots.13": "4106575205fc",
+      "direction:sequence.shots.14": "b30341c63802",
+      "direction:sequence.shots.15": "b781d44d3594",
+      "direction:sequence.shots.16": "94540dabb95f",
+      "direction:sequence.shots.17": "f6f54b78ce8b",
+      "direction:sequence.shots.18": "98f9cff9e0e9",
+      "direction:sequence.shots.19": "ea6b01b1da93",
+      "direction:sequence.shots.20": "16052535e4a2",
+      "direction:sequence.shots.21": "4120fc256e8f",
+      "direction:sequence.shots.22": "16f90b1ad6eb",
+      "direction:sequence.shots.23": "1d4f3c070f45",
+      "direction:sequence.shots.24": "16860b314909",
+      "direction:sequence.shots.25": "2025e290c081",
+      "direction:sequence.shots.26": "219f4889f0fa",
+      "direction:sequence.shots.27": "ff61b72055f2",
+      "direction:sequence.shots.28": "02a3c4fa45f9",
+      "direction:sequence.shots.29": "ab9ae1afbb14",
+      "direction:sequence.shots.30": "9c49f6b3ee25",
+      "direction:sequence.shots.31": "a48d3d92200c",
+      "direction:sequence.shots.32": "f72fd66ed077",
+      "direction:sequence.shots.end": "2c1646ec4fb1",
+      "direction:characters.konte": "de6624c471d6",
+      "direction:characters.konte.voice": "e60c6249d5d2",
+      "direction:props.stickyNote": "6d870d6dfced",
+      "direction:props.clapperboard": "0722680f7152",
+      "direction:props.storyboardSheet": "bf233fb7a450",
+      "direction:locations.studio": "19d713eadeef",
+      "direction:setups.roomWide": "916dcfb70485",
+      "direction:setups.konteMedium": "8165079867f6",
+      "direction:setups.konteClose": "24a4af49d412"
+    }
+  },
+  "decisions": [
+    {
+      "address": "direction:sequence.shots.18",
+      "feedback": [
+        {
+          "id": "fb-tilZap5E",
+          "annotation": null,
+          "text": "なんで喋らないの？",
+          "stale": false,
+          "added": true
+        }
+      ]
+    }
+  ],
+  "directionDecisions": {
+    "brief": "accepted",
+    "policy": "accepted",
+    "characters": "accepted",
+    "props": "accepted",
+    "locations": "accepted",
+    "waivers": "accepted"
+  },
+  "directionGate": {
+    "open": false,
+    "blocking": 34,
+    "total": 56
+  },
+  "handoffSummary": "初稿。「Take 2」＝付箋で返す見えない監督と、そこだけ直して先へ進むkonteちゃん。32ショット＋エンドカード、約103秒。",
+  "handoffNotes": [
+    {
+      "address": "direction:brief.hook",
+      "text": "右端からのぞき込む顔で始めて、TAKE 1が口を塞ぐ。部屋の全景は02で初めて見せます。"
+    },
+    {
+      "address": "direction:brief.tone",
+      "text": "同じ台詞をフルで二度言わない、が仕掛けの芯です。TAKEカードがジャンプカットの役。"
+    },
+    {
+      "address": "direction:brief.tolerances",
+      "text": "付箋の文字は読めなくてよい（読み上げる）、ボードの枚数は厳密でなくてよい、TAKEの前後の戻りは映さない、の三つを許容にしています。"
+    },
+    {
+      "address": "direction:policy.format",
+      "text": "4:1、書き出し1920×480。生成キャンバスは0.9MPで同比率に落ちます。"
+    },
+    {
+      "address": "direction:characters.konte",
+      "text": "声は少女・明るく軽い・早口の英語。台詞は「you direct, I produce」の範囲に留め、機能は列挙しません。"
+    },
+    {
+      "address": "direction:sequence",
+      "text": "comedy×cute。直しの種類が距離→手→中身（No. I pick.）→やり方（show, don't tell）と変わり、付箋は1→1→1→3枚と増えます。18以降は無言のマイムでレビューの往復を演じ、✓の一枚を胸に貼って締めます。"
+    },
+    {
+      "address": "direction:sequence.waivers.re-established-wide_04",
+      "text": "02〜05は同じ固定カメラの長回しとジャンプカット。付箋がレンズに貼りつく深度のギャグのため、ワイドが続きます。"
+    },
+    {
+      "address": "direction:sequence.shots.19",
+      "text": "カチンコと紙は彼女の足元（ボードの下の床）から出てきます。机まで取りに行く移動は省きました。"
+    }
+  ]
+}

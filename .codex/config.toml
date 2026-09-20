@@ -1,0 +1,14 @@
+[mcp_servers.konte]
+command = "konte"
+args = ["mcp", "serve"]
+
+default_permissions = "konte-default"
+
+[permissions.konte-default]
+extends = ":workspace"
+
+[permissions.konte-default.filesystem.":workspace_roots"]
+"." = "write"
+".codex/config.toml" = "read"
+# konte.credentials.json carries no rule on purpose: konte reads AND writes it (konte settings)
+# through this same sandbox, so any restriction here breaks konte rather than the agent.

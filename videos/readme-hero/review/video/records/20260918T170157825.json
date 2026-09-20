@@ -1,0 +1,332 @@
+{
+  "mode": "video-preview",
+  "stage": "video",
+  "createdAt": "2026-09-18T17:01:57.825Z",
+  "context": {
+    "shots": [
+      {
+        "shotId": "01",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-ksgxQkoM"
+        }
+      },
+      {
+        "shotId": "02",
+        "duration": 4,
+        "variants": {
+          "motion": "v-WxpEZMzT"
+        }
+      },
+      {
+        "shotId": "03",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-SGTlQk8f"
+        }
+      },
+      {
+        "shotId": "04",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-mlP3WrpU"
+        }
+      },
+      {
+        "shotId": "06",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-UFQpD9fR"
+        }
+      },
+      {
+        "shotId": "07",
+        "duration": 5,
+        "variants": {
+          "motion": "v-gtsFRy1t"
+        }
+      },
+      {
+        "shotId": "08",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-ZSRJ5kmv"
+        }
+      },
+      {
+        "shotId": "09",
+        "duration": 2.5,
+        "variants": {
+          "motion": "v-VWTgqJ4I"
+        }
+      },
+      {
+        "shotId": "10",
+        "duration": 4,
+        "variants": {
+          "motion": "v-K15E5Hur"
+        }
+      },
+      {
+        "shotId": "11",
+        "duration": 4.5,
+        "variants": {
+          "motion": "v-6AnDZqqK"
+        }
+      },
+      {
+        "shotId": "12",
+        "duration": 1,
+        "variants": {
+          "motion": "v-tLEXYl2P"
+        }
+      },
+      {
+        "shotId": "13",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-9EX1z8Ez"
+        }
+      },
+      {
+        "shotId": "14",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-nyCmy4h4"
+        }
+      },
+      {
+        "shotId": "15",
+        "duration": 3,
+        "variants": {
+          "motion": "v-nuNCihuE"
+        }
+      },
+      {
+        "shotId": "16",
+        "duration": 2.5,
+        "variants": {
+          "motion": "v-IlQmC0G8"
+        }
+      },
+      {
+        "shotId": "17",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-Ku43MqFo"
+        }
+      },
+      {
+        "shotId": "18",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-r4ZGDLIQ"
+        }
+      },
+      {
+        "shotId": "19",
+        "duration": 2.5,
+        "variants": {
+          "motion": "v-3DRfbA45"
+        }
+      },
+      {
+        "shotId": "20",
+        "duration": 1,
+        "variants": {
+          "motion": "v-6K8uP93l"
+        }
+      },
+      {
+        "shotId": "21",
+        "duration": 2,
+        "variants": {
+          "motion": "v-veBC2Aor"
+        }
+      },
+      {
+        "shotId": "22",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-onvkuAB3"
+        }
+      },
+      {
+        "shotId": "23",
+        "duration": 2.5,
+        "variants": {
+          "motion": "v-78RixLXz"
+        }
+      },
+      {
+        "shotId": "24",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-7shnfAcy"
+        }
+      },
+      {
+        "shotId": "25",
+        "duration": 3,
+        "variants": {
+          "motion": "v-MVK5m1qf"
+        }
+      },
+      {
+        "shotId": "26",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-XHGODqwf"
+        }
+      },
+      {
+        "shotId": "27",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-oALC9pjm"
+        }
+      },
+      {
+        "shotId": "28",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-k28JnpHO"
+        }
+      },
+      {
+        "shotId": "29",
+        "duration": 3,
+        "variants": {
+          "motion": "v-UEnfDEAF"
+        }
+      },
+      {
+        "shotId": "30",
+        "duration": 4.5,
+        "variants": {
+          "motion": "v-rDIUV0Pd"
+        }
+      },
+      {
+        "shotId": "31",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-LgPnqpCq"
+        }
+      },
+      {
+        "shotId": "32",
+        "duration": 2.5,
+        "variants": {
+          "motion": "v-8qwn1D54"
+        }
+      },
+      {
+        "shotId": "33",
+        "duration": 4.5,
+        "variants": {
+          "motion": "v-ryPNA7Rl",
+          "cheer": "v-d5Fr9JwW"
+        }
+      },
+      {
+        "shotId": "34",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-4fwtcAMZ"
+        }
+      }
+    ],
+    "timeline": {},
+    "contentHashes": {
+      "video:shot.01#composition": "4ca7fb5f8cf6b73cdc548ac45c2530732eb356e3615c81d55107fd9e46e17034",
+      "video:shot.02#composition": "6eb2b8b28bbc383ef7ef9cd489105cad66be8765820225ca8996fd73fac4029a",
+      "video:shot.03#composition": "eb3fb57a99b0b064f54847bc1860bb58ac77fdf910486f1713ea1c8aec34e377",
+      "video:shot.04#composition": "48dfc0343cb0beab50a3910f756220307f9049e28eb14c4a95a9900dad179af2",
+      "video:shot.06#composition": "544b1870ef15883fb34217c517cad19572ea178a1c11007eb36238a710284f46",
+      "video:shot.07#composition": "1b0c708c759bfdd9742db1929ceda979d191fe8c67c17cbd738e3d80675c10a9",
+      "video:shot.08#composition": "3929285205f79a04d5b40ffe28b1ff647fe0141c39dc3ced979db065eb1feeda",
+      "video:shot.09#composition": "c9121d93c9c6a2e32488c5332be927169a8fd3aca16bcb677cb7371626e9e3df",
+      "video:shot.10#composition": "cc2ccc254beececce259fa6b016fb144b63928712d4f59a7cc9f5ada5983aba3",
+      "video:shot.11#composition": "759386087c595900b203eacc6317b968b29d215f23100858beb372682ea5dc08",
+      "video:shot.12#composition": "56035b379cd9f335e31a5b11f856c001ab9c8b6bf3158e57d9fac8a7d900da44",
+      "video:shot.13#composition": "9a8a3c73cdf8411d9f6ad905b3145a7533d3b39f23031fdd52acf33886eaf858",
+      "video:shot.14#composition": "6831968a28d4fd1ed6565855b8064ed59b4e640e99168774dc1895a315187e1c",
+      "video:shot.15#composition": "76659af126c7d411b16bb3ebde993e1c65a6148647021c1d2a343f947dcfaa4e",
+      "video:shot.16#composition": "2df561a2214c059bdce539cb8cc969de1b13717477112278c022e123c868adf4",
+      "video:shot.17#composition": "8b25a295a9e5c67c20fa4abe4218683e82ab5ba9ef942d2c8c3b278c17a72de8",
+      "video:shot.18#composition": "83181f55e69c4b3dfb6ffd8094c63ed6c195834b3fd8ca48f9ef1770635e0297",
+      "video:shot.19#composition": "0ec57b8992bbcee66740f293424661d5b64c8702b0efd9e08fc00778d9eb0306",
+      "video:shot.20#composition": "ea67fea2b7b19533fb2c050b1abc220f6db24c62f3a6196ef6f068231acc6eab",
+      "video:shot.21#composition": "01b06d40ec5b06267bd737e732ee181f3cc080568288ca49e897d3b57e9173ea",
+      "video:shot.22#composition": "b03244c829b4aa98a5c286b4f88b1b1e63c66d7f6b57a86519fc09b00a73f086",
+      "video:shot.23#composition": "289d08ae9c984044695fcfed7b3b10c656c9c7b15369ee2192e90d7ece0ff752",
+      "video:shot.24#composition": "b91068cd2fb7234225b00a7852583660e48592c4c7d2be83fb3c5ce5766aca80",
+      "video:shot.25#composition": "54babb2d5f043ce6485bf42a0f0e5d415b134a83d3a81a2acf4eba0eba998f55",
+      "video:shot.26#composition": "e65f015f0c963e723bcfb9063200647e847f98d58cb54f62d1c79219272e95a4",
+      "video:shot.27#composition": "8350d3c09ed6baee3c12aa31dd3e51061681b0e8c3ed0861c39930929d1bbefa",
+      "video:shot.28#composition": "cc200b3896a63e4120ca2d18c072360e6fbd613e1c70ddf17f6f39c94b434197",
+      "video:shot.29#composition": "fcf07c58bc1e6364872cc62cd68fbaf959c39ba5ca78d5fe8b49e2ee55ccc3d2",
+      "video:shot.30#composition": "4f46ff52d05556b3b5f8866a948b10479c77b7b2fb48d1c471cf6cac790e9e1b",
+      "video:shot.31#composition": "d946924555852013a8b918698b05c3f9c0779fb246996b33da54f7fb46b42656",
+      "video:shot.32#composition": "4fe6538e91e3f18d9897eead866da372037521ee34f66363aa1e8cf7f73e79cb",
+      "video:shot.33#composition": "0c1c2e6fc0b1349e761306f2ac9584173b26225dbba22fb72505914f16506bc9",
+      "video:shot.34#composition": "bfe597a8b94a03ad7936d01534158f51ef42277de84d2c86e2677f49a54de11d",
+      "video:shot.01#stem": "5d2470ddfc6c3e7b0fbf01192f1bad840bcd81f5f85c4f2b5cab5bcdbd977ee6",
+      "video:shot.02#stem": "a6dc40b4c1eb22a23b92f41883e5db82b3d75093dfa0d9d8ddc310235ed01898",
+      "video:shot.03#stem": "f23b9ae85a266c5ce8abea2f95c0d41fb44cde05536194fa12ccbbab11975878",
+      "video:shot.04#stem": "a823a220a3d925eb16b839caaad112a92a8daa02b938a8bc3f659c08f02ea837",
+      "video:shot.06#stem": "e4f47bf50b448dd5f7d93d883e0bfbf4c1ff5038100d76cb49c692ecdf676e8a",
+      "video:shot.07#stem": "86f94b95e3d61ae4f907995ed5c3b746f7b30bffd1d131d5a243e67bdfaf07bc",
+      "video:shot.08#stem": "b391e3de1baed048c9dcddbb00b646d705bafded1bd84360d9b294050644cdc9",
+      "video:shot.09#stem": "95c771e192a4296e2e8b3f48dcb4e1247d02cc7f6924ad5fa2baf3a63f7da5ec",
+      "video:shot.10#stem": "d9f4969bf94d398312c7ad4af07a2e6035f38537c898cbefa398cacbcde39f01",
+      "video:shot.11#stem": "ac5a206e055daef5bd2942d304cee4f6f03aad7960366ac44e7c9c954cdee7a5",
+      "video:shot.12#stem": "0cc51042c2ab924fdd2beb6ca6bfed1a4028ce62c76dd07a56c6cd82c619d8df",
+      "video:shot.13#stem": "8f7c9b846a57e325b6b89d709b6dcd06acf3bc8ee56ae1cd687bc95379b9260d",
+      "video:shot.14#stem": "e08bdac857649980b84e63199f64393e4686d49bb444bafcd70dee687257fd44",
+      "video:shot.15#stem": "93f4a36ed91e52a79b5b3154fb2086fe268c1f7ba2470a7e9c7669375a592119",
+      "video:shot.16#stem": "07aaaced69c2f511281315a4b3881276dc778e9fe1afac06c5d52a5ee19a914e",
+      "video:shot.17#stem": "3ca9754907d1c8c5daff13c4f1343e2d3640c221d0fa9f24735c45604c586a41",
+      "video:shot.18#stem": "c80a3b9aba5ad69f4d0b83ea2540b71dc451ecfa5368a7b8beb7fd5f7a778019",
+      "video:shot.19#stem": "705634706c60ccf2bf15b326ef71f276be1b6042652943a881063b5ba7db80ab",
+      "video:shot.20#stem": "f7ddc6b2d397b5729220b10e6410e89d977b5780e21c4002aaebd6570516e303",
+      "video:shot.21#stem": "68355f3f893a466d4f279e4c352b35cf58dd7adbf5ae276414ec8f65649e93fa",
+      "video:shot.22#stem": "9066cd1c76f798871a98cfb92542bea99c0682bd569d301f269b006e8d856fba",
+      "video:shot.23#stem": "07d4d2c61c6eb3ef79d859828d30ace53f76f47154ae302f5e848020e64210b4",
+      "video:shot.24#stem": "d77b1ffdc3eeddbbf167918fe244a87476ba7a3979c1a8c216526b14c7409af3",
+      "video:shot.26#stem": "992a6588bdcda6194f3427b1489d674dff6d0e8b6458e646142210b157e5f046",
+      "video:shot.27#stem": "8b728ca58cb0233b0fd83fee2aa960107dc18adb99b72ba5f54fe9c6db3f1472",
+      "video:shot.28#stem": "292249570297bb35aae5fdbc0d6ee584d908d3294f9d22d8104bfeadd5b6be42",
+      "video:shot.29#stem": "bc8a86852aa36eb338d292e7bc981d2f4c203b0fd6588bbc16b82e7d42addfd7",
+      "video:shot.30#stem": "327470853f4006281f6aa47f09d89e13789ea1cfa9598496d77c816ae79db330",
+      "video:shot.31#stem": "213c25c3b98696cd1ff5f7df6732c865cacfd922137d53852abdfc1e4fc0fabc",
+      "video:shot.32#stem": "464829643aeb77a3bf80accaec7e4f9ab1ec44fdee653246b5c777f648267aa1",
+      "video:shot.33#stem": "9cd5acd890cb3676e0bca88e9c49565d1eafe7856be0c970b1c730c5b1ac7374",
+      "video:shot.34#stem": "56b824b6d959dfdc40cd30b5dcb12869f8b1d8f843920576ddf61c5bb05dcf93",
+      "video:timeline#stem": "ed426d16c15a9c3d36c6fb54f8d7e560be746689de88b00945d3d27ff3427d7b"
+    }
+  },
+  "decisions": {},
+  "notes": [
+    {
+      "id": "fb-z2GjUNzX",
+      "time": 86,
+      "shotId": "33",
+      "address": "video:shot.33",
+      "text": "ごめん、輪郭線と影消していいよ。\nもうちょっと画面外にも散らばる感じにしたい",
+      "displayedVariants": {
+        "video:shot.33.motion": "v-ryPNA7Rl",
+        "video:shot.33.cheer": "v-d5Fr9JwW",
+        "video:shot.33#composition": "v-i8qX0QwA"
+      }
+    }
+  ],
+  "handoffSummary": "紙吹雪の輪郭線を太くして、影をつけ、画面全体に散るようにしました。",
+  "handoffNotes": [
+    {
+      "address": "video:shot.33.motion",
+      "text": "輪郭線を約1.6倍に太くしました。影は、ぼかさずに右下へ少しずらした半透明の濃い紫です。打ち上がる高さをばらけさせて、上に集まらず画面の上から下まで散るようにしました。枚数・大きさ・タイミングはそのままです。費用はかかっていません。"
+    }
+  ]
+}

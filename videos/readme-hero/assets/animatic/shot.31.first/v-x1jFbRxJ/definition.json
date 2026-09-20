@@ -1,0 +1,70 @@
+{
+  "kind": "comfy",
+  "workflow": "image_minimax_h3_r2i.json",
+  "inputs": {
+    "21.image": "__konte:animatic:plate.konteClose__",
+    "22.image": "__konte:reference:konte__",
+    "23.image": "__konte:reference:stickyNote__",
+    "24.image": "__konte:reference:tablet__",
+    "29.image": "__konte:animatic:shot.30.first__",
+    "10.prompt": "subject_definitions: <Subject 1> is the girl in <Picture 2>: black bob with a purple star-print headband, black choker, an oversized white hoodie with a violet konte logo on the chest, a black pleated skirt with a violet hem, white leg warmers, violet-and-white sneakers and a small violet shoulder bag.\n<Subject 2> is the lavender sticky note in <Picture 3>.\n<Subject 3> is the thin tablet with a white bezel in <Picture 4>.\n<Picture 1> is the empty frame: Bare white wall filling most of the frame, with the cork board's left edge and a pinned sheet entering at the right.\n<Picture 5> is the frame this shot cuts from.\n\nsummary: [keyframe completion] close on her face in dim evening light, a lavender sticky note flying in at the upper left, its blank back to the lens.\n\nretention_analysis: <Picture 1>: partially_preserved - the framing and set are kept exactly, bare white wall behind her head and the cork board's edge at the right; its light is changed to dim warm evening light.\n<Subject 1>: fully_preserved - her face, hair and outfit are kept; her expression and pose are remade as the description writes them, overriding the sheet's calm smile.\n<Subject 2>: fully_preserved - its shape, colour and material are kept.\n<Subject 3>: fully_preserved - its shape, colour and material are kept.\n<Picture 5>: weak_reference - only her look carries across the cut; the framing, the set, the light and where she stands are <Picture 1>'s.\n\ndetailed_description: 2D-animated. [Shot 1] The frame of <Picture 5>, held. [Shot 2] At 00:00.400, the camera cuts to her face filling the frame, the bare white wall behind her head evenly tinted a flat dusky mauve by the evening, her face and the wall lit alike by that same flat dim evening light, the cork board's left edge at the right of the frame, her black bob all black with its purple underside: a lavender sticky note flying in from the upper left of the frame, well clear of her face, its plain blank lavender back facing the lens, her eyes flicking up toward it. The tablet stands straight upright in her hands at the lower left of the frame, below her chin, square to the lens and seen flat-on, its sides vertical and parallel to the frame's edges: a plain bright white screen framed by a thin white bezel, filling the lower left of the frame below the flying note, her fingertips on its side edges. Her chin, cheeks and forehead share the same flat dim evening light.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A",
+    "10.width": 1920,
+    "10.height": 480,
+    "10.ref_image_size": "max",
+    "11.noise_seed": "__konte:seed__",
+    "13.steps": 20,
+    "10.length": 22,
+    "17.batch_index": 20,
+    "1.unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+    "2.clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+    "3.vae_name": "minimax_h3_video_vae_fp16.safetensors",
+    "4.vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+  },
+  "prunedNodes": [
+    "25",
+    "26",
+    "27",
+    "28"
+  ],
+  "models": [
+    {
+      "filename": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors"
+    },
+    {
+      "filename": "minimax_h3_video_vae_fp16.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_video_vae_fp16.safetensors"
+    },
+    {
+      "filename": "minimax_h3_audio_vae_fp32.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_audio_vae_fp32.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "21.image": "image1",
+    "22.image": "image2",
+    "23.image": "image3",
+    "24.image": "image4",
+    "29.image": "prevPanel",
+    "10.prompt": "prompt",
+    "10.width": "width",
+    "10.height": "height",
+    "10.ref_image_size": "refImageSize",
+    "11.noise_seed": "seed",
+    "13.steps": "steps",
+    "10.length": "length",
+    "17.batch_index": "frameIndex",
+    "1.unet_name": "unetName",
+    "2.clip_name": "clipName",
+    "3.vae_name": "vaeName",
+    "4.vae_name": "audioVaeName"
+  }
+}

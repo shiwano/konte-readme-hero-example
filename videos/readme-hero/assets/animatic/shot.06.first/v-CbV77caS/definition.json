@@ -1,0 +1,68 @@
+{
+  "kind": "comfy",
+  "workflow": "image_minimax_h3_r2i.json",
+  "inputs": {
+    "21.image": "__konte:animatic:plate.konteMedium__",
+    "22.image": "__konte:reference:konte__",
+    "29.image": "__konte:animatic:shot.05.first__",
+    "10.prompt": "subject_definitions: <Subject 1> is the girl in <Picture 2>: black bob with a purple star-print headband, black choker, an oversized white hoodie with a violet konte logo on the chest, a black pleated skirt with a violet hem, white leg warmers, violet-and-white sneakers and a small violet shoulder bag.\n<Picture 1> is the empty frame: A stretch of bare white wall at waist-to-head height, with the cork board pinned with storyboard sheets and lavender sticky notes filling the right part of the frame.\n<Picture 3> is the frame this shot cuts from.\n\nsummary: [keyframe completion] her waist-up back at her mark beside the cork board, a fresh grin, picking up where she left off.\n\nretention_analysis: <Picture 1>: fully_preserved - the room's framing, set and light are kept exactly as the frame shows them.\n<Subject 1>: fully_preserved - her face, hair and outfit are kept; her expression and pose are remade as the description writes them, overriding the sheet's calm smile.\n<Picture 3>: weak_reference - only her look and light carry across the cut; the framing, the set and where she stands are <Picture 1>'s.\n\ndetailed_description: 2D-animated. [Shot 1] The frame of <Picture 3>, held. [Shot 2] At 00:00.400, the camera cuts to her waist-up back at her mark, her figure filling most of the frame's height, standing just left of the cork board with bare white wall to her left: hands hanging loose at her sides, chin up, a fresh bright grin at the lens, cheerfully picking up where she left off.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A",
+    "10.width": 1920,
+    "10.height": 480,
+    "10.ref_image_size": "max",
+    "11.noise_seed": "__konte:seed__",
+    "13.steps": 20,
+    "10.length": 22,
+    "17.batch_index": 20,
+    "1.unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+    "2.clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+    "3.vae_name": "minimax_h3_video_vae_fp16.safetensors",
+    "4.vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+  },
+  "prunedNodes": [
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28"
+  ],
+  "models": [
+    {
+      "filename": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors"
+    },
+    {
+      "filename": "minimax_h3_video_vae_fp16.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_video_vae_fp16.safetensors"
+    },
+    {
+      "filename": "minimax_h3_audio_vae_fp32.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_audio_vae_fp32.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "21.image": "image1",
+    "22.image": "image2",
+    "29.image": "prevPanel",
+    "10.prompt": "prompt",
+    "10.width": "width",
+    "10.height": "height",
+    "10.ref_image_size": "refImageSize",
+    "11.noise_seed": "seed",
+    "13.steps": "steps",
+    "10.length": "length",
+    "17.batch_index": "frameIndex",
+    "1.unet_name": "unetName",
+    "2.clip_name": "clipName",
+    "3.vae_name": "vaeName",
+    "4.vae_name": "audioVaeName"
+  }
+}

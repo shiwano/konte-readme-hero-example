@@ -1,0 +1,47 @@
+{
+  "mode": "reference-preview",
+  "stage": "reference",
+  "createdAt": "2026-09-11T12:39:02.004Z",
+  "context": {
+    "shots": [],
+    "timeline": {
+      "look": "v-9Usm7CUj",
+      "studio": "v-7MWMxsLh",
+      "stickyNote": "v-2mV9n3O1",
+      "clapperboard": "v-sBhrRQkM",
+      "storyboardSheet": "v-mr1zs43s",
+      "tablet": "v-GZ5BJyPV",
+      "konteVoice": "v-M3gMvL7v",
+      "bgm": "v-jrxKHQyO"
+    }
+  },
+  "decisions": [
+    {
+      "address": "reference:stickyNote",
+      "variantId": "v-2mV9n3O1",
+      "status": "accepted",
+      "feedback": [
+        {
+          "id": "fb-fLvItcjf",
+          "annotation": {
+            "kind": "pin",
+            "x": 0.433,
+            "y": 0.507
+          },
+          "text": "何も書いてないほうがいいかなあ",
+          "displayedVariants": {
+            "reference:stickyNote": "v-mfbFTbAn"
+          },
+          "stale": true
+        }
+      ]
+    }
+  ],
+  "handoffSummary": "付箋を無地に描き直しました。ほかは前回承認のままです。",
+  "handoffNotes": [
+    {
+      "address": "reference:stickyNote",
+      "text": "「何も書いてないほうがいい」を受けて、落書きなしの無地の紫の付箋にしました。"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "mode": "video-preview",
+  "stage": "video",
+  "createdAt": "2026-09-15T20:19:50.671Z",
+  "context": {
+    "shots": [
+      {
+        "shotId": "01",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-ksgxQkoM"
+        }
+      },
+      {
+        "shotId": "02",
+        "duration": 4,
+        "variants": {
+          "motion": "v-WxpEZMzT"
+        }
+      },
+      {
+        "shotId": "03",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-SGTlQk8f"
+        }
+      },
+      {
+        "shotId": "04",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-mlP3WrpU"
+        }
+      },
+      {
+        "shotId": "06",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-UFQpD9fR"
+        }
+      },
+      {
+        "shotId": "07",
+        "duration": 5,
+        "variants": {
+          "motion": "v-gtsFRy1t"
+        }
+      },
+      {
+        "shotId": "08",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-ZSRJ5kmv"
+        }
+      },
+      {
+        "shotId": "09",
+        "duration": 2.5,
+        "variants": {
+          "motion": "v-VWTgqJ4I"
+        }
+      },
+      {
+        "shotId": "10",
+        "duration": 4,
+        "variants": {
+          "motion": "v-K15E5Hur"
+        }
+      },
+      {
+        "shotId": "11",
+        "duration": 4.5,
+        "variants": {
+          "motion": "v-6AnDZqqK"
+        }
+      },
+      {
+        "shotId": "12",
+        "duration": 1,
+        "variants": {
+          "motion": "v-M4pEDm5v"
+        }
+      },
+      {
+        "shotId": "13",
+        "duration": 3,
+        "variants": {
+          "motion": "v-J5NoptGP"
+        }
+      },
+      {
+        "shotId": "14",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-iPjG0Kn0"
+        }
+      },
+      {
+        "shotId": "15",
+        "duration": 3,
+        "variants": {
+          "motion": "v-nuNCihuE"
+        }
+      },
+      {
+        "shotId": "16",
+        "duration": 2.5,
+        "variants": {
+          "motion": "v-IlQmC0G8"
+        }
+      },
+      {
+        "shotId": "17",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-Ku43MqFo"
+        }
+      },
+      {
+        "shotId": "18",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-r4ZGDLIQ"
+        }
+      },
+      {
+        "shotId": "19",
+        "duration": 2.5,
+        "variants": {
+          "motion": "v-3DRfbA45"
+        }
+      },
+      {
+        "shotId": "20",
+        "duration": 1,
+        "variants": {
+          "motion": "v-6K8uP93l"
+        }
+      },
+      {
+        "shotId": "21",
+        "duration": 2,
+        "variants": {
+          "motion": "v-zuvjli2S"
+        }
+      },
+      {
+        "shotId": "22",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-onvkuAB3"
+        }
+      },
+      {
+        "shotId": "23",
+        "duration": 2.5,
+        "variants": {
+          "motion": "v-78RixLXz"
+        }
+      },
+      {
+        "shotId": "24",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-7shnfAcy"
+        }
+      },
+      {
+        "shotId": "25",
+        "duration": 3,
+        "variants": {
+          "motion": "v-u7Nbt7Ct"
+        }
+      },
+      {
+        "shotId": "26",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-WF7UaB3Y"
+        }
+      },
+      {
+        "shotId": "27",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-oALC9pjm"
+        }
+      },
+      {
+        "shotId": "28",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-jhhJBWHn"
+        }
+      },
+      {
+        "shotId": "29",
+        "duration": 3,
+        "variants": {
+          "motion": "v-cZP2rymN"
+        }
+      },
+      {
+        "shotId": "30",
+        "duration": 4.5,
+        "variants": {
+          "motion": "v-RloS8ewU"
+        }
+      },
+      {
+        "shotId": "31",
+        "duration": 1.5,
+        "variants": {
+          "motion": "v-KxqqU4g1"
+        }
+      },
+      {
+        "shotId": "32",
+        "duration": 2.5,
+        "variants": {
+          "motion": "v-eNBYmZ6P"
+        }
+      },
+      {
+        "shotId": "33",
+        "duration": 4.5,
+        "variants": {
+          "motion": "v-O23Nfh1N"
+        }
+      },
+      {
+        "shotId": "34",
+        "duration": 3.5,
+        "variants": {
+          "motion": "v-4fwtcAMZ"
+        }
+      }
+    ],
+    "timeline": {},
+    "contentHashes": {
+      "video:shot.01#composition": "89d80fdad42556d3b21a3a2aa88c42650ab4fa34c2e5a24d3282b7b1c669ac22",
+      "video:shot.02#composition": "68328b81c4d521fbfbafd29194448c47b538f8eb624b505dbe2400bf27e0ed59",
+      "video:shot.03#composition": "4776197658ffd2dbd8f6528aa17c7fd538d77906cbe4636484568d8cbf773aab",
+      "video:shot.04#composition": "21ab774d5f8f8af0bacf7e699e6af47d6ef5d626dcc3f725776fdf272ea54fff",
+      "video:shot.06#composition": "437a5eaf40a5fb76103d8cff2a3f637c692f329eaf975a97ba5703762709dfd5",
+      "video:shot.07#composition": "c8f81f1c2eb083fe6a7ca277cbb389bdd437a469c2075e651b112abd4c4ed98f",
+      "video:shot.08#composition": "88f0508ffc711093304176c2e210889331a31010b1358591465523141262586e",
+      "video:shot.09#composition": "7cfc66b7d6f18f19b0b6c530efea2a7aa44e6e8da8c56bd23ae2298c6da522e1",
+      "video:shot.10#composition": "8a2a59d0ca6de867b8cd1284ea9b8b8b86c5a11adea78a6c52a314a7a4032817",
+      "video:shot.11#composition": "5af8dca62f7b055060b314b5d37e5c674def921553dd01d88b52a6768087552f",
+      "video:shot.12#composition": "324d0d8e3bc7be8265025dab7129e3ef3ea170e3b637516126b90ce23a2348d4",
+      "video:shot.13#composition": "32e16c06c91ec43936179dfd83c7871e4ce3c28745bf45dfedb2faad08599b3e",
+      "video:shot.14#composition": "fb14eaba8f297fd7731ad9f4ad8d8159a56faa7240ff173384e48819f74db9c1",
+      "video:shot.15#composition": "32a66ec24be6281aea502709cf51f01457fca803cbd947b21e76b2b9695bda34",
+      "video:shot.16#composition": "562f99b0109f4fa44addc844d9c0f0eec9d08702845458000a6387a7dbd77ccc",
+      "video:shot.17#composition": "966a8752c0c83d8329776a902f8f0e37b79b42c364fd02bf0229fe21b5058bbb",
+      "video:shot.18#composition": "120e5e3459dc832c491e5b4aebc5bbc5e8bf003caba2cef8a9031687609eced7",
+      "video:shot.19#composition": "0bcf1e56a45d43228e972714df0405d6db2f1254504d69fd916e8d0a40e58597",
+      "video:shot.20#composition": "e05ff4e83e0fdbe419d80d7b16f278b308a7966a93fc167846bffa65e2fe369d",
+      "video:shot.21#composition": "6696ca04b61ae044bead08a4b4ca1a63bc9a116ac7b70a751edc08a4215ae5a2",
+      "video:shot.22#composition": "509944e6656ddff807cbb17a0b8211d497d02858d83154a90857f45ccd2fca0d",
+      "video:shot.23#composition": "14e5932bf1f504da6cc622c2777ebf79bb454ef156363dc15da9e86fc32a0ae0",
+      "video:shot.24#composition": "b9b878de73f0ab9331729df813f7943965136ce92a66492dc75ca8e8c58c47de",
+      "video:shot.25#composition": "8de3fb7863be32899a6bdcaac3c2279fe33eff8e7df5e74b7ecb55837edc834c",
+      "video:shot.26#composition": "c84a0e6c80a2a7dafe04710c5fe0ab3b0f7b3633823a89d8e4999e9e72661541",
+      "video:shot.27#composition": "91992fe0b60871217ad941e4b69ee2524aa7f5ff9da987f19a5a657b16b4558d",
+      "video:shot.28#composition": "fdf6d779bd325b793b947be4f425e0bc452c81c19d84815fae5252bcc74f107c",
+      "video:shot.29#composition": "5c14552c491a827e5687e6c608532754707d3f228aa7d207fcb892bebe72f735",
+      "video:shot.30#composition": "6be6bcd07b73f64f2fa19fc68892705a65b27361e63f9e34eeb1d8f2440ecab7",
+      "video:shot.31#composition": "b123e4090814f9332901c217c1cc34bd6cf1dca579ab127adfe677af653fdb57",
+      "video:shot.32#composition": "4339e29489516fcfda797e5668985afd5b6070cf3c91687bf0e4c18f4e1f0719",
+      "video:shot.33#composition": "9fa3c2ad070cf35510da5911c1cb02864e1a5108d96f8627c6766eab82f51825",
+      "video:shot.34#composition": "56af04c4d441b5b7939f4cfba8eecb1968887997068abd527ab311bef317bde5",
+      "video:shot.01#stem": "5d2470ddfc6c3e7b0fbf01192f1bad840bcd81f5f85c4f2b5cab5bcdbd977ee6",
+      "video:shot.02#stem": "a6dc40b4c1eb22a23b92f41883e5db82b3d75093dfa0d9d8ddc310235ed01898",
+      "video:shot.03#stem": "f23b9ae85a266c5ce8abea2f95c0d41fb44cde05536194fa12ccbbab11975878",
+      "video:shot.04#stem": "a823a220a3d925eb16b839caaad112a92a8daa02b938a8bc3f659c08f02ea837",
+      "video:shot.06#stem": "e4f47bf50b448dd5f7d93d883e0bfbf4c1ff5038100d76cb49c692ecdf676e8a",
+      "video:shot.07#stem": "86f94b95e3d61ae4f907995ed5c3b746f7b30bffd1d131d5a243e67bdfaf07bc",
+      "video:shot.08#stem": "b391e3de1baed048c9dcddbb00b646d705bafded1bd84360d9b294050644cdc9",
+      "video:shot.09#stem": "95c771e192a4296e2e8b3f48dcb4e1247d02cc7f6924ad5fa2baf3a63f7da5ec",
+      "video:shot.10#stem": "d9f4969bf94d398312c7ad4af07a2e6035f38537c898cbefa398cacbcde39f01",
+      "video:shot.11#stem": "ac5a206e055daef5bd2942d304cee4f6f03aad7960366ac44e7c9c954cdee7a5",
+      "video:shot.12#stem": "a4cde78dc09d2ffe85094ae72b09554ccdcb76b3e351b4188ea169a721353e5b",
+      "video:shot.13#stem": "eee52cee84cca6b7fd70f9746eae03c1f10bb2211726e20678d123ebfda40356",
+      "video:shot.14#stem": "5b31cf46d187dfd337b12ef44ef9ecb22369b5e684f649e5434538a5ac312c2f",
+      "video:shot.15#stem": "93f4a36ed91e52a79b5b3154fb2086fe268c1f7ba2470a7e9c7669375a592119",
+      "video:shot.16#stem": "07aaaced69c2f511281315a4b3881276dc778e9fe1afac06c5d52a5ee19a914e",
+      "video:shot.17#stem": "3ca9754907d1c8c5daff13c4f1343e2d3640c221d0fa9f24735c45604c586a41",
+      "video:shot.18#stem": "c80a3b9aba5ad69f4d0b83ea2540b71dc451ecfa5368a7b8beb7fd5f7a778019",
+      "video:shot.19#stem": "705634706c60ccf2bf15b326ef71f276be1b6042652943a881063b5ba7db80ab",
+      "video:shot.20#stem": "f7ddc6b2d397b5729220b10e6410e89d977b5780e21c4002aaebd6570516e303",
+      "video:shot.21#stem": "8231d2f0621a936401416fe863b978b7c94c812434e02695060ef6141b8d8141",
+      "video:shot.22#stem": "9066cd1c76f798871a98cfb92542bea99c0682bd569d301f269b006e8d856fba",
+      "video:shot.23#stem": "07d4d2c61c6eb3ef79d859828d30ace53f76f47154ae302f5e848020e64210b4",
+      "video:shot.24#stem": "d77b1ffdc3eeddbbf167918fe244a87476ba7a3979c1a8c216526b14c7409af3",
+      "video:shot.25#stem": "a0468245d62cdb6ff231cfaddc07d731c11d4b09e70c69c9d14f57888e96f2bc",
+      "video:shot.26#stem": "59d2a2e7350257e9f168dec177131c9d386a5316370c9c98bd679d3a93f086a2",
+      "video:shot.27#stem": "8b728ca58cb0233b0fd83fee2aa960107dc18adb99b72ba5f54fe9c6db3f1472",
+      "video:shot.28#stem": "f04b19a32136523321f2822aa4a1de19b0499754cfa20fa3f1cddd5208d355eb",
+      "video:shot.29#stem": "42c6ffd9b88694c314a921bfca66aab0b2fe648810d37f9f7608419685eb7d00",
+      "video:shot.30#stem": "555ebe36ce7e8397c4c0914684edf7c45231367ded09a85e568033e3abe9a3f9",
+      "video:shot.31#stem": "3b5ebe3d1395e7f8bf2bdee36aa14358817ab55727ba66a9ef223f9e36f7c57c",
+      "video:shot.32#stem": "73617db44c7b0e550eb13511f9c3dfb1f5fe7e828e2eb261088f1b28c07c8069",
+      "video:shot.33#stem": "78c444e01d7f97a19896df48a0e288621e9cf302b7fd9e9c7d0d4ecd51903e38",
+      "video:shot.34#stem": "56b824b6d959dfdc40cd30b5dcb12869f8b1d8f843920576ddf61c5bb05dcf93",
+      "video:timeline#stem": "ed426d16c15a9c3d36c6fb54f8d7e560be746689de88b00945d3d27ff3427d7b"
+    }
+  },
+  "decisions": {
+    "31": "accepted",
+    "02": "accepted"
+  },
+  "cascadeAccepted": [
+    {
+      "address": "video:shot.02#stem",
+      "via": "video:shot.02"
+    },
+    {
+      "address": "video:shot.31#stem",
+      "via": "video:shot.31"
+    },
+    {
+      "address": "video:shot.02#composition",
+      "via": "video:shot.02"
+    },
+    {
+      "address": "video:shot.31#composition",
+      "via": "video:shot.31"
+    },
+    {
+      "address": "direction:sequence.shots.02",
+      "via": "video:shot.02"
+    },
+    {
+      "address": "direction:sequence",
+      "via": "video:shot.02"
+    },
+    {
+      "address": "direction:sequence.shots.31",
+      "via": "video:shot.31"
+    }
+  ],
+  "handoffSummary": "02を0.5秒短く、31を0.5秒長くしました（映像の作り直しはなし、全体の長さは変わりません）。",
+  "handoffNotes": [
+    {
+      "address": "video:shot.02#composition",
+      "text": "4.5秒→4.0秒。「I'm Konte-chan!」のあと腕を下ろして笑うところで切れます。"
+    },
+    {
+      "address": "video:shot.31#composition",
+      "text": "1.0秒→1.5秒。付箋をはがして顔の前に持つところまで見せるので、32の最初の絵とそのままつながります。"
+    }
+  ]
+}

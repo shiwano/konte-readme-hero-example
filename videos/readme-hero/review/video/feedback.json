@@ -1,0 +1,1277 @@
+{
+  "schemaVersion": 1,
+  "feedback": {
+    "video:shot.01": [
+      {
+        "id": "fb-ENKBHzU4",
+        "displayedVariants": {
+          "video:shot.01.motion": "v-ksgxQkoM"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.01#composition": "9f1b0fc0f521",
+          "video:shot.01#stem": "2e112becc547"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.036,
+          "y": 0.136
+        },
+        "time": 1.4,
+        "shotTime": 1.4,
+        "text": "このテロップ、横方向のパディングが小さい。\nTAKE2, TAKE3 も同じ。",
+        "createdAt": "2026-09-12T01:04:21.577Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-ktnpxDrd",
+        "displayedVariants": {
+          "video:shot.01.motion": "v-ksgxQkoM"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.01#composition": "6c0f0dd259e9",
+          "video:shot.01#stem": "2e112becc547"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.043,
+          "y": 0.112
+        },
+        "time": 1.2333333333333334,
+        "shotTime": 1.2333333333333334,
+        "text": "TAKE 1 のパディングがやっぱりちゃんと入ってない。T の文字が境界ぴったりにくっついてるでしょ？ 確認した？",
+        "createdAt": "2026-09-12T01:55:45.287Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.08": [
+      {
+        "id": "fb-knjo1yG2",
+        "displayedVariants": {
+          "video:shot.08.motion": "v-v0wTzfZo"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.08#composition": "4160b5bdae65",
+          "video:shot.08#stem": "5fac66a7230d"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.552,
+          "y": 0.081
+        },
+        "time": 20.3,
+        "shotTime": 0.8000000000000007,
+        "text": "02 みたいに付箋が飛んできて額に貼られる絵にしたい。\n最初のフレームから貼られてるのは違和感。\nanimatic 変えなくても、プロンプトだけで 03 みたいにできるのでは？",
+        "createdAt": "2026-09-12T01:04:21.577Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.07": [
+      {
+        "id": "fb-I2mU3cE3",
+        "displayedVariants": {
+          "video:shot.07.motion": "v-pxSsaTHq"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.07#composition": "1b1c436652f5",
+          "video:shot.07#stem": "016f7e8df48e"
+        },
+        "annotation": null,
+        "time": 15.933333333333334,
+        "shotTime": 1.4333333333333336,
+        "text": "もっと手をがちゃがちゃ動かないと、Too busy がいちゃもんに見える",
+        "createdAt": "2026-09-12T01:04:21.577Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.11": [
+      {
+        "id": "fb-W7rMxUIG",
+        "displayedVariants": {
+          "video:shot.11.motion": "v-U6f7hnWS"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.11#composition": "226c5e8e08af",
+          "video:shot.11#stem": "7c22602b7a7a"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.344,
+          "y": 0.617
+        },
+        "time": 27.5,
+        "shotTime": 0,
+        "text": "このポーズ、謎なので、変えたほうがいいかも。",
+        "createdAt": "2026-09-12T01:04:21.577Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.12": [
+      {
+        "id": "fb-5CHFJloK",
+        "displayedVariants": {
+          "video:shot.12.motion": "v-0oLZSySv"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.12#composition": "c52e04b3e5be",
+          "video:shot.12#stem": "e1c6557f09a3"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.362,
+          "y": 0.247
+        },
+        "time": 32,
+        "shotTime": 0,
+        "text": "これも付箋が最初のフレームから貼られてるので、違和感。03 と同じにしたい。",
+        "createdAt": "2026-09-12T01:04:21.577Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-Tm6K8NDI",
+        "displayedVariants": {
+          "video:shot.12.motion": "v-eWEkd20f",
+          "video:shot.12#composition": "v-XTpthu7B"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.12#composition": "c52e04b3e5be",
+          "video:shot.12#stem": "e1c6557f09a3"
+        },
+        "annotation": null,
+        "time": 32,
+        "shotTime": 0,
+        "text": "12. 13 がつながってないのを直したいね",
+        "createdAt": "2026-09-15T11:54:25.599Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-sLT40e65",
+        "displayedVariants": {
+          "video:shot.12.motion": "v-lGjQas2m"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.12#composition": "c4bcc56a88c3",
+          "video:shot.12#stem": "e1c6557f09a3"
+        },
+        "annotation": null,
+        "time": 31.5,
+        "shotTime": 0,
+        "text": "11の最後では口を閉じているので、こっちでも閉じていたい。1フレーム目から驚いているのもやめたい",
+        "createdAt": "2026-09-17T16:01:03.539Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:timeline#stem": [
+      {
+        "id": "fb-PUFbudbB",
+        "displayedVariants": {
+          "reference:bgm": "v-jrxKHQyO",
+          "video:shot.01.motion": "v-ksgxQkoM",
+          "video:shot.02.motion": "v-WxpEZMzT",
+          "video:shot.04.motion": "v-mlP3WrpU",
+          "video:shot.06.motion": "v-UFQpD9fR",
+          "video:shot.07.motion": "v-pxSsaTHq",
+          "video:shot.09.motion": "v-7Dzc2q8j",
+          "video:shot.10.motion": "v-iLDT0K96",
+          "video:shot.11.motion": "v-U6f7hnWS",
+          "video:shot.13.motion": "v-cs7kjTvk",
+          "video:shot.14.motion": "v-iPjG0Kn0",
+          "video:shot.15.motion": "v-UrUxLoKg",
+          "video:shot.18.motion": "v-X2sRHbhr",
+          "video:shot.19.motion": "v-3DRfbA45",
+          "video:shot.21.motion": "v-3wLL58jI",
+          "video:shot.23.motion": "v-78RixLXz",
+          "video:shot.29.motion": "v-cZP2rymN",
+          "video:shot.30.motion": "v-RloS8ewU",
+          "video:shot.32.motion": "v-92tVem7t",
+          "video:shot.34.motion": "v-Ozdwzp26"
+        },
+        "displayedDefinitionHashes": {
+          "video:timeline#stem": "80a20e4bfbb1"
+        },
+        "annotation": null,
+        "time": 46.36666666666667,
+        "text": "もうちょっと BGM の音量大きくしたいな",
+        "createdAt": "2026-09-12T01:04:21.577Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.18": [
+      {
+        "id": "fb-whUIUHHE",
+        "displayedVariants": {
+          "video:shot.18.motion": "v-X2sRHbhr"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.18#composition": "eef40ed5f91b",
+          "video:shot.18#stem": "9934fec94da3"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.222,
+          "y": 0.716
+        },
+        "time": 49.233333333333334,
+        "shotTime": 2.7333333333333343,
+        "text": "この赤いのなんだろ？ 消したい",
+        "createdAt": "2026-09-12T01:04:21.577Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-SUGO0Ak4",
+        "displayedVariants": {
+          "video:shot.18.motion": "v-AN5BNaJn"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.18#composition": "eef40ed5f91b",
+          "video:shot.18#stem": "9934fec94da3"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.231,
+          "y": 0.688
+        },
+        "time": 49.6,
+        "shotTime": 3.1000000000000014,
+        "text": "赤い舌ベロみたいなの写ってるけど",
+        "createdAt": "2026-09-12T01:55:45.287Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.21": [
+      {
+        "id": "fb-HgqohFOM",
+        "displayedVariants": {
+          "video:shot.21.motion": "v-3wLL58jI"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.21#composition": "9c4f552cee92",
+          "video:shot.21#stem": "2cf2c34513b9"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.437,
+          "y": 0.347
+        },
+        "time": 54.233333333333334,
+        "shotTime": 0.7333333333333343,
+        "text": "カチンコが勝手に動いてる。手で持って動かさないと変に見える",
+        "createdAt": "2026-09-12T01:04:21.577Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-KpkRvhYp",
+        "displayedVariants": {
+          "video:shot.21.motion": "v-qmOTjzVl"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.21#composition": "9c4f552cee92",
+          "video:shot.21#stem": "2cf2c34513b9"
+        },
+        "annotation": null,
+        "time": 55.4,
+        "shotTime": 1.8999999999999986,
+        "text": "カチンコ、手で動かしてないよ。上の部分を手でもたないと、おかしくない？",
+        "createdAt": "2026-09-12T01:55:45.287Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-b9ycy4Yf",
+        "displayedVariants": {
+          "video:shot.21.motion": "v-zuvjli2S",
+          "video:shot.21#composition": "v-ztezdHDF"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.21#composition": "859f8647d203",
+          "video:shot.21#stem": "2cf2c34513b9"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.145,
+          "y": 0.726
+        },
+        "time": 53.53333333333333,
+        "shotTime": 0.5333333333333314,
+        "text": "ここの椅子が金属使われているのを直したい",
+        "createdAt": "2026-09-17T10:31:07.629Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.34": [
+      {
+        "id": "fb-o3ETz4o5",
+        "displayedVariants": {
+          "video:shot.34.motion": "v-Ozdwzp26"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.34#composition": "0dedc6be1e1e",
+          "video:shot.34#stem": "7920da174975"
+        },
+        "annotation": null,
+        "time": 87.6,
+        "shotTime": 1.5999999999999943,
+        "text": "Your turn だけで通じるかな？ 最後のワードとして、これ適切？",
+        "createdAt": "2026-09-12T01:04:21.577Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-6LwOhHBc",
+        "displayedVariants": {
+          "video:shot.34.motion": "v-DtqcEqGx",
+          "video:shot.34#composition": "v-llXglSGt"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.34#composition": "dac964361c87",
+          "video:shot.34#stem": "7920da174975"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.861,
+          "y": 0.775
+        },
+        "time": 87.83333333333333,
+        "shotTime": 1.8333333333333286,
+        "text": "ここも背景を直せるなら直したい",
+        "createdAt": "2026-09-15T11:54:25.599Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-vf4wQDhG",
+        "displayedVariants": {
+          "video:shot.34.motion": "v-DtqcEqGx",
+          "video:shot.34#composition": "v-llXglSGt"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.34#composition": "dac964361c87",
+          "video:shot.34#stem": "7920da174975"
+        },
+        "annotation": null,
+        "time": 86,
+        "shotTime": 0,
+        "text": "Your turn to direct じゃなくてセリフ変えてもいいかなと思っている。",
+        "createdAt": "2026-09-15T11:54:25.599Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.13": [
+      {
+        "id": "fb-wYs8T3MW",
+        "displayedVariants": {
+          "video:shot.13.motion": "v-cs7kjTvk"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.13#composition": "4420c69aa128",
+          "video:shot.13#stem": "45dc7e8e81e5"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.479,
+          "y": 0.55
+        },
+        "time": 34.93333333333333,
+        "shotTime": 1.93333333333333,
+        "text": "付箋をとって、読んでる芝居をしてほしい",
+        "createdAt": "2026-09-12T01:55:45.287Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-4QmChmfr",
+        "displayedVariants": {
+          "video:shot.13.motion": "v-xaYXy2a9"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.13#composition": "4420c69aa128",
+          "video:shot.13#stem": "45dc7e8e81e5"
+        },
+        "annotation": null,
+        "time": 33.13333333333333,
+        "shotTime": 0.13333333333333286,
+        "text": "付箋をとって、読み上げて、あーたしかにってバツの悪そうな表情にしたい",
+        "createdAt": "2026-09-12T02:37:14.598Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-O4p1xAFN",
+        "displayedVariants": {
+          "video:shot.13.motion": "v-ymrDnEmA"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.13#composition": "4420c69aa128",
+          "video:shot.13#stem": "45dc7e8e81e5"
+        },
+        "annotation": null,
+        "time": 33,
+        "shotTime": 0,
+        "text": "ごめん、バツが悪いっていうよりあーたしかにって顔。14につながる芝居にしたい",
+        "createdAt": "2026-09-12T02:43:13.320Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-xcSHNAiF",
+        "displayedVariants": {
+          "video:shot.13.motion": "v-uFHi9QdR"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.13#composition": "5ef61c89b5d1",
+          "video:shot.13#stem": "45dc7e8e81e5"
+        },
+        "annotation": null,
+        "time": 32.56666666666667,
+        "shotTime": 0.06666666666666998,
+        "text": "1フレーム目から付箋をいきなり取った状態になっているのがおかしい。",
+        "createdAt": "2026-09-17T16:01:03.539Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-JIq4t0SR",
+        "displayedVariants": {
+          "video:shot.13.motion": "v-yKIlJWfx"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.13#composition": "5ef61c89b5d1",
+          "video:shot.13#stem": "45dc7e8e81e5"
+        },
+        "annotation": null,
+        "time": 32.5,
+        "shotTime": 0,
+        "text": "No I pick を読むのがちょっと早すぎるかな。取りながら読んでるのが変。動き自体はいい。",
+        "createdAt": "2026-09-17T16:24:26.855Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-To5x93ml",
+        "displayedVariants": {
+          "video:shot.13.motion": "v-HIdnNbsB"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.13#composition": "db3430839469",
+          "video:shot.13#stem": "e73827fdc711"
+        },
+        "annotation": null,
+        "time": 32.5,
+        "shotTime": 0,
+        "text": "両手じゃなくて片手で付箋は取りたい。\n読み上げ後の笑顔の描写はいらないかな。",
+        "createdAt": "2026-09-17T16:34:14.103Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.15": [
+      {
+        "id": "fb-VB70YPpf",
+        "displayedVariants": {
+          "video:shot.15.motion": "v-UrUxLoKg"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.15#composition": "85d88ee5ec92",
+          "video:shot.15#stem": "b01ca83fc535"
+        },
+        "annotation": null,
+        "time": 41.333333333333336,
+        "shotTime": 1.8333333333333357,
+        "text": "I make の前に Huh って声が入っているのだけ直したい。",
+        "createdAt": "2026-09-12T01:55:45.287Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.10": [
+      {
+        "id": "fb-fYuFjtdN",
+        "displayedVariants": {
+          "video:shot.10.motion": "v-gfjLXvGx"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.10#composition": "7922d5c4b397",
+          "video:shot.10#stem": "8fd8ab9c311d"
+        },
+        "annotation": null,
+        "time": 23.5,
+        "shotTime": 0,
+        "text": "10, 11 だけ左右に黒い枠がくっついてるの修正できない？",
+        "createdAt": "2026-09-12T01:55:45.287Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.28": [
+      {
+        "id": "fb-dbBRt8kg",
+        "displayedVariants": {
+          "video:shot.28.motion": "v-xIofpf0v",
+          "video:shot.28#composition": "v-yjtSnT2O"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.28#composition": "aefb26d4c81e",
+          "video:shot.28#stem": "eaf3d835ff84"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.206,
+          "y": 0.104
+        },
+        "time": 69.43333333333334,
+        "shotTime": 0.4333333333333371,
+        "text": "左手に窓が見えているのが、おかしい",
+        "createdAt": "2026-09-15T11:54:25.599Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-eW0e1vaB",
+        "displayedVariants": {
+          "video:shot.28.motion": "v-xIofpf0v",
+          "video:shot.28#composition": "v-yjtSnT2O"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.28#composition": "aefb26d4c81e",
+          "video:shot.28#stem": "eaf3d835ff84"
+        },
+        "annotation": null,
+        "time": 69.43333333333334,
+        "shotTime": 0.4333333333333371,
+        "text": "紙の山はなくていい。僕が指示して消した",
+        "createdAt": "2026-09-15T11:54:25.599Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-SvvZkcdQ",
+        "displayedVariants": {
+          "video:shot.28.motion": "v-jhhJBWHn",
+          "video:shot.28#composition": "v-ezVEMGSd"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.28#composition": "59d55f3e8c56",
+          "video:shot.28#stem": "eaf3d835ff84"
+        },
+        "annotation": null,
+        "time": 68.5,
+        "shotTime": 0,
+        "text": "補正戻してもらっていいよ。",
+        "createdAt": "2026-09-15T20:26:06.590Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-eEZO6S1N",
+        "displayedVariants": {
+          "video:shot.28.motion": "v-jhhJBWHn",
+          "video:shot.28#composition": "v-ezVEMGSd"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.28#composition": "59d55f3e8c56",
+          "video:shot.28#stem": "eaf3d835ff84"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.49,
+          "y": 0.162
+        },
+        "time": 69.93333333333334,
+        "shotTime": 1.4333333333333371,
+        "text": "別件で、タブレット持ち上げたら裏側も液晶で、おかしいから生成しなおしてほしい",
+        "createdAt": "2026-09-15T20:26:06.590Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.31": [
+      {
+        "id": "fb-MxgxliEv",
+        "displayedVariants": {
+          "video:shot.31.motion": "v-JkgEHNPT",
+          "video:shot.31#composition": "v-LStqNR0t"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.31#composition": "9ee96b53294a",
+          "video:shot.31#stem": "f9b624641ff5"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.42,
+          "y": 0.308
+        },
+        "time": 78.96666666666667,
+        "shotTime": 0.9666666666666686,
+        "text": "チェックマークついてない段階で飛んできたのに、ここからチェックマークがついてるのがおかしいので直したい。31, 32 ではチェックマークはそもそもカメラにうつってなくていい",
+        "createdAt": "2026-09-15T11:54:25.599Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-xfuMkaIP",
+        "displayedVariants": {
+          "video:shot.31.motion": "v-KxqqU4g1",
+          "video:shot.31#composition": "v-P07qIHej"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.31#composition": "a484550478cf",
+          "video:shot.31#stem": "82a3211bb111"
+        },
+        "annotation": null,
+        "time": 78,
+        "shotTime": 0,
+        "text": "タブレットが反転してたり、光の当たり方も変わるので、31も30に合わせて生成しなおしたい",
+        "createdAt": "2026-09-18T11:51:46.191Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-v5j7lbHS",
+        "displayedVariants": {
+          "video:shot.31.motion": "v-rej84qCO"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.31#composition": "a484550478cf",
+          "video:shot.31#stem": "82a3211bb111"
+        },
+        "annotation": null,
+        "time": 78,
+        "shotTime": 0,
+        "text": "30は画面左側にタブレット持ってるのに、こっちは画面右側でつながってない。こっちの animatic から直したい。",
+        "createdAt": "2026-09-18T12:18:51.934Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-BEJSxIEs",
+        "displayedVariants": {
+          "video:shot.31.motion": "v-xAR95Hgu"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.31#composition": "a484550478cf",
+          "video:shot.31#stem": "82a3211bb111"
+        },
+        "annotation": null,
+        "time": 78.96666666666667,
+        "shotTime": 0.9666666666666686,
+        "text": "付箋が飛んでくるのがちょっとゆっくりなので、早くしたい",
+        "createdAt": "2026-09-18T13:09:55.945Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.33": [
+      {
+        "id": "fb-hzTNR127",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-vIjAVWKb",
+          "video:shot.33#composition": "v-vQEFSStA"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "faba0b5b0b69",
+          "video:shot.33#stem": "44294b1b885f"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.074,
+          "y": 0.318
+        },
+        "time": 82.1,
+        "shotTime": 0.5999999999999943,
+        "text": "背景が30のショットとあってないので、おかしいので直したい。",
+        "createdAt": "2026-09-15T11:54:25.599Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-DYn9OfEg",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-vIjAVWKb",
+          "video:shot.33#composition": "v-vQEFSStA"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "faba0b5b0b69",
+          "video:shot.33#stem": "44294b1b885f"
+        },
+        "annotation": null,
+        "time": 85.36666666666666,
+        "shotTime": 3.86666666666666,
+        "text": "ハンコはこのままでいい",
+        "createdAt": "2026-09-15T11:54:25.599Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-nL0KII1c",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-88ypkoaK"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "7dac99ae7a78",
+          "video:shot.33#stem": "44294b1b885f"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.462,
+          "y": 0.333
+        },
+        "time": 82.96666666666667,
+        "shotTime": 1.4666666666666686,
+        "text": "裏返したりせず、いきなりチェックマークが出てきた。おかしい",
+        "createdAt": "2026-09-15T19:29:12.826Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-kWRDHQr1",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-YuYNsf3j"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "c4d833b3a725",
+          "video:shot.33#stem": "44294b1b885f"
+        },
+        "annotation": null,
+        "time": 83.76666666666667,
+        "shotTime": 2.2666666666666657,
+        "text": "胸に押し付けたとき、手首を返してるから、チェックマークは見えないはずなので、見えてるのはおかしい。押し付けたときにチェックマークは見えなくてもいいよ",
+        "createdAt": "2026-09-15T19:54:00.822Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-Uki9CT72",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-ryPNA7Rl",
+          "video:shot.33#composition": "v-HHUtht3S"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "739049a09d18",
+          "video:shot.33#stem": "44294b1b885f"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.454,
+          "y": 0.41
+        },
+        "time": 85.06666666666666,
+        "shotTime": 3.066666666666663,
+        "text": "Accepted 出るタイミングで紙吹雪とかわーっていう歓声の効果音を入れたい。composition でいい",
+        "createdAt": "2026-09-18T11:27:43.491Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-niOAYxNS",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-ryPNA7Rl",
+          "video:shot.33.cheer": "v-d5Fr9JwW"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "f4ba191f17b0",
+          "video:shot.33#stem": "bfee16d98775"
+        },
+        "annotation": null,
+        "time": 86.43333333333334,
+        "shotTime": 4.433333333333337,
+        "text": "もっとリアルな紙吹雪にできない？",
+        "createdAt": "2026-09-18T11:51:46.191Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-9QtZaxrl",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-ryPNA7Rl",
+          "video:shot.33.cheer": "v-d5Fr9JwW"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "287faa56060f",
+          "video:shot.33#stem": "bfee16d98775"
+        },
+        "annotation": null,
+        "time": 82,
+        "shotTime": 0,
+        "text": "画面の中央とかに紙吹雪がまとまってるので（両端にスペースがある）、画面全体に紙吹雪を飛ばしたい",
+        "createdAt": "2026-09-18T13:09:55.945Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-Tpa14XAF",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-ryPNA7Rl",
+          "video:shot.33.cheer": "v-d5Fr9JwW",
+          "video:shot.33#composition": "v-i8qX0QwA"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "b9e5159f3f5f",
+          "video:shot.33#stem": "bfee16d98775"
+        },
+        "annotation": null,
+        "time": 82,
+        "shotTime": 0,
+        "text": "うーん、なんか大きさは変えないでほしいかも。数も少なくなって、紙吹雪っぽくなくなってしまった。\nうまく言えないんだけど、ポップにしすぎて、逆に現実感がなくなってしまったかも",
+        "createdAt": "2026-09-18T16:54:57.411Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-wxLFV9mU",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-ryPNA7Rl",
+          "video:shot.33.cheer": "v-d5Fr9JwW",
+          "video:shot.33#composition": "v-i8qX0QwA"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "c3e92417b6df",
+          "video:shot.33#stem": "bfee16d98775"
+        },
+        "annotation": null,
+        "time": 85.63333333333334,
+        "shotTime": 3.63333333333334,
+        "text": "うーん、なんだろ。輪郭線が黒なのが変にみえるのかも。\nさっきほどじゃなくて、若干大きくしてもいい。",
+        "createdAt": "2026-09-18T16:57:39.124Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-XlJeIAPg",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-ryPNA7Rl",
+          "video:shot.33.cheer": "v-d5Fr9JwW",
+          "video:shot.33#composition": "v-i8qX0QwA"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "296717405917",
+          "video:shot.33#stem": "bfee16d98775"
+        },
+        "annotation": null,
+        "time": 85.1,
+        "shotTime": 3.0999999999999943,
+        "text": "もうちょっと輪郭線太くしてもいいかも。\nあと、影とかつけられないよね？",
+        "createdAt": "2026-09-18T17:00:01.345Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-rJEmGwon",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-ryPNA7Rl",
+          "video:shot.33.cheer": "v-d5Fr9JwW",
+          "video:shot.33#composition": "v-i8qX0QwA"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "296717405917",
+          "video:shot.33#stem": "bfee16d98775"
+        },
+        "annotation": null,
+        "time": 82,
+        "shotTime": 0,
+        "text": "紙吹雪が上部にあつまりすぎだからもっと散ってほしい",
+        "createdAt": "2026-09-18T17:00:01.345Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-z2GjUNzX",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-ryPNA7Rl",
+          "video:shot.33.cheer": "v-d5Fr9JwW",
+          "video:shot.33#composition": "v-i8qX0QwA"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "885f377c76c7",
+          "video:shot.33#stem": "bfee16d98775"
+        },
+        "annotation": null,
+        "time": 86,
+        "shotTime": 4,
+        "text": "ごめん、輪郭線と影消していいよ。\nもうちょっと画面外にも散らばる感じにしたい",
+        "createdAt": "2026-09-18T17:01:57.758Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-fFsLriCI",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-ryPNA7Rl",
+          "video:shot.33.cheer": "v-d5Fr9JwW",
+          "video:shot.33#composition": "v-i8qX0QwA"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "c137860b0d08",
+          "video:shot.33#stem": "bfee16d98775"
+        },
+        "annotation": null,
+        "time": 82,
+        "shotTime": 0,
+        "text": "回転速度をちょっとゆっくりにしたい",
+        "createdAt": "2026-09-18T17:03:50.414Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-MNmOIXMk",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-ryPNA7Rl",
+          "video:shot.33.cheer": "v-d5Fr9JwW",
+          "video:shot.33#composition": "v-i8qX0QwA"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "6226b7a9b0b5",
+          "video:shot.33#stem": "bfee16d98775"
+        },
+        "annotation": null,
+        "time": 86,
+        "shotTime": 4,
+        "text": "変な理由がわかったわ。慣性が働いてないからだ。斜めに紙吹雪がきてるのに、頂点までいったら、まっすぐ下に落ちていくから変に感じる。",
+        "createdAt": "2026-09-18T17:05:24.773Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-PzoIFYM4",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-ryPNA7Rl",
+          "video:shot.33.cheer": "v-d5Fr9JwW",
+          "video:shot.33#composition": "v-i8qX0QwA"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "dea4822dd686",
+          "video:shot.33#stem": "bfee16d98775"
+        },
+        "annotation": null,
+        "time": 85.03333333333333,
+        "shotTime": 3.0333333333333314,
+        "text": "減速が遅いのかな？ 横に散らばりすぎ",
+        "createdAt": "2026-09-18T17:07:21.335Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-NIzpkmaM",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-ryPNA7Rl",
+          "video:shot.33.cheer": "v-d5Fr9JwW",
+          "video:shot.33#composition": "v-i8qX0QwA"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "c526a4818b45",
+          "video:shot.33#stem": "bfee16d98775"
+        },
+        "annotation": null,
+        "time": 85.06666666666666,
+        "shotTime": 3.066666666666663,
+        "text": "なんか気持ちよくない。横に流れるのはいいとしても、頂点までいって落ちていくときには左右に紙吹雪はまうから、そういう自然な感じにしたい",
+        "createdAt": "2026-09-18T17:10:35.205Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.09": [
+      {
+        "id": "fb-oUuwKlII",
+        "displayedVariants": {
+          "video:shot.09.motion": "v-7Dzc2q8j",
+          "video:shot.09#composition": "v-ch7zL7h0"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.09#composition": "4584f80e508f",
+          "video:shot.09#stem": "2475fbd2a09e"
+        },
+        "annotation": null,
+        "time": 21,
+        "shotTime": 0,
+        "text": "direction レベルで、セリフを直したい。\nToo busy とか難癖レベルで、konte ちゃんがかわいそうなので、内容変えたい。",
+        "createdAt": "2026-09-15T11:54:25.599Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.26": [
+      {
+        "id": "fb-O88UBF6a",
+        "displayedVariants": {
+          "video:shot.26.motion": "v-WF7UaB3Y",
+          "video:shot.26#composition": "v-3yQuYBO6"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.26#composition": "4716fe8add81",
+          "video:shot.26#stem": "a4bda15bb829"
+        },
+        "annotation": null,
+        "time": 63.5,
+        "shotTime": 0,
+        "text": "うーん、鮮やかさがちょっと足りなさすぎだと思う。戻してもらっていいよ",
+        "createdAt": "2026-09-15T20:26:06.590Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-WI82ABHQ",
+        "displayedVariants": {
+          "video:shot.26.motion": "v-WF7UaB3Y",
+          "video:shot.26#composition": "v-3yQuYBO6"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.26#composition": "11016dade917",
+          "video:shot.26#stem": "a4bda15bb829"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.939,
+          "y": 0.113
+        },
+        "time": 63.833333333333336,
+        "shotTime": 0.3333333333333357,
+        "text": "机の上に窓はないので、直したい",
+        "createdAt": "2026-09-16T12:21:51.944Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.25": [
+      {
+        "id": "fb-qqu0UQ18",
+        "displayedVariants": {
+          "video:shot.25.motion": "v-u7Nbt7Ct",
+          "video:shot.25#composition": "v-zY6ejlq6"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.25#composition": "ef3318924c1d",
+          "video:shot.25#stem": "f20c9fab77c0"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.165,
+          "y": 0.738
+        },
+        "time": 60.5,
+        "shotTime": 0,
+        "text": "ここの椅子も直したい",
+        "createdAt": "2026-09-17T10:31:07.629Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-KrGdyrk6",
+        "displayedVariants": {
+          "video:shot.25.motion": "v-u7Nbt7Ct",
+          "video:shot.25#composition": "v-zY6ejlq6"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.25#composition": "ef3318924c1d",
+          "video:shot.25#stem": "f20c9fab77c0"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.368,
+          "y": 0.732
+        },
+        "time": 61.2,
+        "shotTime": 0.7000000000000028,
+        "text": "机も他の背景と違って、金属の足になっているので、他の背景と同じ形にしたい",
+        "createdAt": "2026-09-17T10:31:07.629Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-KnWXGmJV",
+        "displayedVariants": {
+          "video:shot.25.motion": "v-MVK5m1qf",
+          "video:shot.25#composition": "v-YNM4GhqE"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.25#composition": "ef98a424be05",
+          "video:shot.25#stem": "f20c9fab77c0"
+        },
+        "annotation": null,
+        "time": 60.5,
+        "shotTime": 0,
+        "text": "このショットの効果音が気になる。動画に音がついてるのかな？できるなら消したい",
+        "createdAt": "2026-09-17T15:32:03.896Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.29": [
+      {
+        "id": "fb-eEORGkMq",
+        "displayedVariants": {
+          "video:shot.29.motion": "v-cZP2rymN",
+          "video:shot.29#composition": "v-xhXdo6bu"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.29#composition": "851ab6975fce",
+          "video:shot.29#stem": "035fcab3eeb7"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.254,
+          "y": 0.87
+        },
+        "time": 70.96666666666667,
+        "shotTime": 0.9666666666666686,
+        "text": "ここの椅子と机も同様に直したい",
+        "createdAt": "2026-09-17T10:31:07.629Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-hoaVtjKE",
+        "displayedVariants": {
+          "video:shot.29.motion": "v-BUsRHOvK",
+          "video:shot.29#composition": "v-PQSOcjtg"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.29#composition": "5b283e8df674",
+          "video:shot.29#stem": "035fcab3eeb7"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.39,
+          "y": 0.745
+        },
+        "time": 70.5,
+        "shotTime": 0,
+        "text": "ここの椅子に金属のフレームがまだ使われてた",
+        "createdAt": "2026-09-17T17:09:04.709Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-zeKZBFRz",
+        "displayedVariants": {
+          "video:shot.29.motion": "v-BUsRHOvK",
+          "video:shot.29#composition": "v-PQSOcjtg"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.29#composition": "5b283e8df674",
+          "video:shot.29#stem": "035fcab3eeb7"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.641,
+          "y": 0.776
+        },
+        "time": 70.5,
+        "shotTime": 0,
+        "text": "ここの机の脚も、他の絵と違う",
+        "createdAt": "2026-09-17T17:09:04.709Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.14": [
+      {
+        "id": "fb-4IQWur69",
+        "displayedVariants": {
+          "video:shot.14.motion": "v-iPjG0Kn0",
+          "video:shot.14#composition": "v-jD1YmuGH"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.14#composition": "e10cc91b6e85",
+          "video:shot.14#stem": "beef09430a5b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.488,
+          "y": 0.566
+        },
+        "time": 37.833333333333336,
+        "shotTime": 2.3333333333333357,
+        "text": "ここの You Pick のところ、画面に向けてあなたですよって手のひら上で、カメラに向かって手を差し出す芝居にできないかな？",
+        "createdAt": "2026-09-17T15:19:44.043Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.30": [
+      {
+        "id": "fb-kzIMnYXb",
+        "displayedVariants": {
+          "video:shot.30.motion": "v-RloS8ewU",
+          "video:shot.30#composition": "v-VbfhI0Rb"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.30#composition": "533ecf6fc8f1",
+          "video:shot.30#stem": "a6dc912c7d63"
+        },
+        "annotation": null,
+        "time": 73.5,
+        "shotTime": 0,
+        "text": "このショット、タブレットの画面をこちら側に向けて見せる芝居にしてみたい。画面の中身は白く光ってるだけでいい。",
+        "createdAt": "2026-09-18T11:27:43.491Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-W6PeBMBu",
+        "displayedVariants": {
+          "video:shot.30.motion": "v-kS7WM6Uc"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.30#composition": "533ecf6fc8f1",
+          "video:shot.30#stem": "a6dc912c7d63"
+        },
+        "annotation": null,
+        "time": 75.3,
+        "shotTime": 1.7999999999999972,
+        "text": "細かいけど、裏返したタイミングで、女の子に当たっているディスプレイの光も消えてほしい",
+        "createdAt": "2026-09-18T11:51:46.191Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.32": [
+      {
+        "id": "fb-eTMYYZ36",
+        "displayedVariants": {
+          "video:shot.32.motion": "v-MS76dnGE",
+          "video:shot.32#composition": "v-2oyaE8Js"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.32#composition": "45db7d8fb8a2",
+          "video:shot.32#stem": "111c81102f66"
+        },
+        "annotation": null,
+        "time": 81.73333333333333,
+        "shotTime": 2.2333333333333343,
+        "text": "普通に笑うだけでいい。33の first と同じような表情にして",
+        "createdAt": "2026-09-18T13:09:55.945Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.20": [
+      {
+        "id": "fb-eEirLyHI",
+        "displayedVariants": {
+          "video:shot.20.motion": "v-6K8uP93l",
+          "video:shot.20#composition": "v-hxMVMkNK"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.20#composition": "77f20bcbed85",
+          "video:shot.20#stem": "2b486707ed30"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.145,
+          "y": 0.295
+        },
+        "time": 52.5,
+        "shotTime": 0,
+        "text": "ここ、机の左側はほんとは壁なので（他の背景見て）、直したい",
+        "createdAt": "2026-09-19T21:19:21.497Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.24": [
+      {
+        "id": "fb-0kIB4zuS",
+        "displayedVariants": {
+          "video:shot.24.motion": "v-7shnfAcy",
+          "video:shot.24#composition": "v-CUuYFPic"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.24#composition": "f337c667b4cd",
+          "video:shot.24#stem": "8336ecafa429"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.159,
+          "y": 0.308
+        },
+        "time": 59.5,
+        "shotTime": 0,
+        "text": "ここの背景も直したい",
+        "createdAt": "2026-09-19T21:19:21.497Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-66SzC0XR",
+        "displayedVariants": {
+          "video:shot.24.motion": "v-RZqISEK6"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.24#composition": "f337c667b4cd",
+          "video:shot.24#stem": "8336ecafa429"
+        },
+        "annotation": null,
+        "time": 59.5,
+        "shotTime": 0,
+        "text": "跳ねて、コーヒーカップの中に入るのはやめたい",
+        "createdAt": "2026-09-19T23:11:18.050Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-bZT8eHWe",
+        "displayedVariants": {
+          "video:shot.24.motion": "v-Ze4lFJTb"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.24#composition": "f337c667b4cd",
+          "video:shot.24#stem": "8336ecafa429"
+        },
+        "annotation": null,
+        "text": "いや、コーヒーカップの中に入るのをやめてほしいだけ。紙が飛んできて、跳ねる描写は残したい",
+        "time": 59.5,
+        "shotTime": 0,
+        "createdAt": "2026-09-19T23:51:52.754Z",
+        "createdBy": "local"
+      }
+    ]
+  }
+}

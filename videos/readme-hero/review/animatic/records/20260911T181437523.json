@@ -1,0 +1,606 @@
+{
+  "mode": "animatic-preview",
+  "stage": "animatic",
+  "createdAt": "2026-09-11T18:14:37.523Z",
+  "context": {
+    "shots": [
+      {
+        "shotId": "01",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-55PGrII4",
+          "vo0": "v-jS9WlnPw"
+        }
+      },
+      {
+        "shotId": "02",
+        "duration": 4.5,
+        "variants": {
+          "first": "v-bVpHJyKz",
+          "vo0": "v-ABJ0p9uW"
+        }
+      },
+      {
+        "shotId": "03",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-fBXMbfwG"
+        }
+      },
+      {
+        "shotId": "04",
+        "duration": 3,
+        "variants": {
+          "first": "v-PCyne9Tw"
+        }
+      },
+      {
+        "shotId": "05",
+        "duration": 3,
+        "variants": {
+          "first": "v-s0FePhWz",
+          "vo0": "v-S67K8m79"
+        }
+      },
+      {
+        "shotId": "06",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-CH9DkT9d",
+          "vo0": "v-EjFo69RT"
+        }
+      },
+      {
+        "shotId": "07",
+        "duration": 5,
+        "variants": {
+          "first": "v-QU45vPFL",
+          "vo0": "v-UeshbjiS"
+        }
+      },
+      {
+        "shotId": "08",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-lJFlj7Jq"
+        }
+      },
+      {
+        "shotId": "09",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-0h6rzsqm",
+          "vo0": "v-dokIoqhb"
+        }
+      },
+      {
+        "shotId": "10",
+        "duration": 4,
+        "variants": {
+          "first": "v-SNKoNyDU",
+          "vo0": "v-5ZCrFAEM"
+        }
+      },
+      {
+        "shotId": "11",
+        "duration": 4.5,
+        "variants": {
+          "first": "v-XuaMKczq",
+          "vo0": "v-Kjdnao7l"
+        }
+      },
+      {
+        "shotId": "12",
+        "duration": 1,
+        "variants": {
+          "first": "v-TsbbxJBY"
+        }
+      },
+      {
+        "shotId": "13",
+        "duration": 3,
+        "variants": {
+          "first": "v-J9HpNzoR",
+          "vo0": "v-LGVvs4oE"
+        }
+      },
+      {
+        "shotId": "14",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-Hk8h4ziZ",
+          "vo0": "v-eiyoA90x"
+        }
+      },
+      {
+        "shotId": "15",
+        "duration": 3,
+        "variants": {
+          "first": "v-TgPBKoiK",
+          "vo0": "v-xkZVjCce",
+          "vo1": "v-oHGO00sd"
+        }
+      },
+      {
+        "shotId": "16",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-Oc1vhUTb"
+        }
+      },
+      {
+        "shotId": "17",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-nHTtgDxq"
+        }
+      },
+      {
+        "shotId": "18",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-TEaW9Klv",
+          "vo0": "v-RtZuFW4n"
+        }
+      },
+      {
+        "shotId": "19",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-lMlEzGGY",
+          "vo0": "v-Yt6xWYTf"
+        }
+      },
+      {
+        "shotId": "20",
+        "duration": 1,
+        "variants": {
+          "first": "v-gg7nHZF2"
+        }
+      },
+      {
+        "shotId": "21",
+        "duration": 2,
+        "variants": {
+          "first": "v-daclYlnr",
+          "vo0": "v-boF2yNDr"
+        }
+      },
+      {
+        "shotId": "22",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-Yl7cIQKi"
+        }
+      },
+      {
+        "shotId": "23",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-6tG3FeuP",
+          "vo0": "v-kH8AgPUn"
+        }
+      },
+      {
+        "shotId": "24",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-alRROFNe"
+        }
+      },
+      {
+        "shotId": "25",
+        "duration": 3,
+        "variants": {
+          "first": "v-dmuASPlX"
+        }
+      },
+      {
+        "shotId": "26",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-AbtVjQ1W"
+        }
+      },
+      {
+        "shotId": "27",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-5U0wwXO8"
+        }
+      },
+      {
+        "shotId": "28",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-5dLlgxWs"
+        }
+      },
+      {
+        "shotId": "29",
+        "duration": 3,
+        "variants": {
+          "first": "v-O25BFk4T",
+          "vo0": "v-IR26L6s9"
+        }
+      },
+      {
+        "shotId": "30",
+        "duration": 4.5,
+        "variants": {
+          "first": "v-MpFQTWpK",
+          "vo0": "v-uAkyc22Z"
+        }
+      },
+      {
+        "shotId": "31",
+        "duration": 1,
+        "variants": {
+          "first": "v-iWxYi9dP"
+        }
+      },
+      {
+        "shotId": "32",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-EYds1Igf",
+          "vo0": "v-1oP0Y8sN"
+        }
+      },
+      {
+        "shotId": "33",
+        "duration": 4.5,
+        "variants": {
+          "first": "v-Drw8YJjQ"
+        }
+      },
+      {
+        "shotId": "34",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-WL1aMCB4",
+          "vo0": "v-Zo7HSNfL"
+        }
+      },
+      {
+        "shotId": "end",
+        "duration": 3,
+        "variants": {}
+      }
+    ],
+    "timeline": {},
+    "contentHashes": {
+      "animatic:shot.01#composition": "85568d4130c36e155738f948f6da9d07ad0bbaa1c3ba422b7c79258e2ca4a7f8",
+      "animatic:shot.02#composition": "1b1a9f8afdde0163298a4d5eaf3f9c5cd8002b75656ce05a092d66ccfa32673c",
+      "animatic:shot.03#composition": "8b782750db2e5572aff5aaaa808212c81545296a09b2cc6bafdc659272ac34e5",
+      "animatic:shot.04#composition": "7f33a5bd7a04b0f10ab17b2379599f9422c2e55aef27e3bc892d24ab3ae20d86",
+      "animatic:shot.05#composition": "663c06ca15481742e134a1c7c32ec126b935f31d20b8d94ed28017cfd7e4f6d9",
+      "animatic:shot.06#composition": "b365f617b4a2694822074e731db9f33ded40cf99a27fe4055f1848bf5b347737",
+      "animatic:shot.07#composition": "69ee58ad58af19cf0363d80128e5f3e7c8c924abd95eddf71a5f047965ac6666",
+      "animatic:shot.08#composition": "2e2349f1c598eea1e1ee4148ddf417e78c706f4d4f7e7346d9f22fdb60d7ff5d",
+      "animatic:shot.09#composition": "f55e8f3a99ffb0450563fc103409f3e55b200269ffa8dca47619e29c614dc32c",
+      "animatic:shot.10#composition": "0428c51c27bc4fc73786083061e190d3454ad4f4a7fe0638a8d899ad32c8e5ec",
+      "animatic:shot.11#composition": "0c4a15efa3f10dc41159a5aa64238a6d3f938be960dabe08f1433e6a43470187",
+      "animatic:shot.12#composition": "a226011c8f39bd01db9a3decf764f5e86c253d91f0bae196a69b5f984e3349be",
+      "animatic:shot.13#composition": "ee421ba514b589bbcb75c97ae7f7196706db10113d2a519359a3b38049c05941",
+      "animatic:shot.14#composition": "a3221560c057b38f7f285e8c685214ecb57aa85ea6d251bde9f5a37d72c4b2d2",
+      "animatic:shot.15#composition": "75bbb001b620f3e8a70227a50e27b189a09283161a56f09c0849f22d9f6ac2dd",
+      "animatic:shot.16#composition": "ae3e0b6fd584dda2558377aa35c4f77841e96796934ab3e41691961925a71853",
+      "animatic:shot.17#composition": "15b994418d59c077328fe81d32f79d7cf71cfabe1963cc4fbc96dc97381fe7c5",
+      "animatic:shot.18#composition": "68a97a1d49807af88ed567305be446e40fea640f170f15f0e18c3784af6a021c",
+      "animatic:shot.19#composition": "e169012455257de1092a2cdd5bd177e328b3e10783886214a55c033f6ec0f9ed",
+      "animatic:shot.20#composition": "c8203fbe707bb494d63bd133806844ac77fa65a58d64840fb6841201252cb509",
+      "animatic:shot.21#composition": "a1816872ef38358e427905c5b9309ffd34105ccf049fe381c082d807d210bd5b",
+      "animatic:shot.22#composition": "6cb406fd803f7772ee2c63db129ef641c6104dadef8bce18c3a57eb5d8b19242",
+      "animatic:shot.23#composition": "eee433a98fee09564f70cf5957aa487cc5c9e1f88aed55bd44a024386b9c7ce1",
+      "animatic:shot.24#composition": "984d6f4c83f4bfefc5b05028b19b8e07682e80befa5ceeaa04124bbf85704edc",
+      "animatic:shot.25#composition": "2715516e5cd8e067302bb42a9e5fc572929a0c4d08bba8260f79316cd0f22a89",
+      "animatic:shot.26#composition": "e727fd38fefd812d7a0416e824aa20216890277898259e3a6bd82f5e9fd9b3a8",
+      "animatic:shot.27#composition": "771bec6049a981eda7249a291b2cb4eed5b98308db533dcf04b09b7c522f6775",
+      "animatic:shot.28#composition": "d713352049c992d796184d5c6b4272844b7c03356419630a66eee4ccd90080dd",
+      "animatic:shot.29#composition": "7596bcd63e87afcf1524e28d25970aaf6c290e65bd92e385b708b92e827b8314",
+      "animatic:shot.30#composition": "36af1aea86fce2f3ee80aa4df8164e437cdf173f58c3a3255b87a6d27530bca6",
+      "animatic:shot.31#composition": "7caff24190be3d1965af6a2dcd4cc4e78b7869c13a187b24f61acd392e097a07",
+      "animatic:shot.33#composition": "3a254c2abb7476fa98185a9ee5510a005354f7b95b737bd0770df0048ac231a0",
+      "animatic:shot.34#composition": "171506bdc7f586d093c9ffec9cc0129fe11b00e91cd744f3009c5f9b4affbb1b",
+      "animatic:shot.01#stem": "d112523ac7302a3ebd498113236d2efc8bc0ab4a47c78d4b0374bf4ee85fb35c",
+      "animatic:shot.02#stem": "e163f5bb7bdf4eef8e3cb4d17b26e3ee626c2e3e18b2474a9d29940fa770a251",
+      "animatic:shot.05#stem": "2d1e5655c1ca13e885b954930c789364caf0ca58ad3e1cef62db0f9fd64efb19",
+      "animatic:shot.06#stem": "a1104ba616af46aa32b9bffe4b519a72c16c2814f17a6463b7377d508666dfe2",
+      "animatic:shot.07#stem": "98d2d59404ff625db30a44ccebbe514007c68d4c4d28f4afdd2d7512aa3ca64b",
+      "animatic:shot.09#stem": "f584a2a9d01a0249c07ddbf526faba67d5d7df05d0f8d6996a8ffb41b0f7cd9d",
+      "animatic:shot.10#stem": "9c1d6fd3df407a7bcd87838eb20d7dabed6ee841e7cf5abc6112d679edd32ef4",
+      "animatic:shot.11#stem": "ac9c4d4cc07e99bb243a56ed1094726da38357953d2cc84c31ddc2bab1a25cec",
+      "animatic:shot.13#stem": "f3fd2f660d8a600b0ff63adb622a982cbdc7147398226a8524248da15da28d3d",
+      "animatic:shot.14#stem": "d53d37b3bae117b05a717766ca3b9cef5dbcfe2d2bb50ba182a607a3dcc34cd5",
+      "animatic:shot.15#stem": "9e7f04abd5b8c83d55b502fc071434a2d35199b978d3c209a56d48db2afa1d1c",
+      "animatic:shot.18#stem": "14723f3444b13d0bc95f2607aafdfea2114e750d79e26acb2990c9cce4428caa",
+      "animatic:shot.19#stem": "f944092ef9776ccec4fa5bad256eeada2f90a8eec79adf5b0a496049088c4e6a",
+      "animatic:shot.21#stem": "945f71e4912eed368c497afc6b0b94e7872741485f2b37694a2d7aeed0855751",
+      "animatic:shot.23#stem": "06cb54ef2a51c2c959c5897db2fa8e74afd1cf43363a9eac59af406aa76cbbb9",
+      "animatic:shot.29#stem": "2a7ecbfa6df60c0d7dabe9f76856f2fd9b87f4578343436ac7e686f25c9020b3",
+      "animatic:shot.30#stem": "eb7e7ef731f1b505dbb4deb68a3fa029dd99dc745fd4cb79f818798636e0ada0",
+      "animatic:shot.32#stem": "d9f38929644f699899e1ad9cafcc075f68b992674e1aef04dd19241610dbef4a",
+      "animatic:shot.34#stem": "fc38b4f93d80ede158eaf5c632eeb83ef3e782e43cb3c1a596f173649434d538"
+    }
+  },
+  "decisions": {
+    "14": "none",
+    "15": "accepted",
+    "16": "accepted",
+    "24": "accepted",
+    "26": "accepted",
+    "31": "accepted",
+    "32": "none",
+    "34": "accepted",
+    "01": "accepted",
+    "02": "accepted"
+  },
+  "cascadeAccepted": [
+    {
+      "address": "animatic:shot.01.vo0",
+      "via": "animatic:shot.01#stem"
+    },
+    {
+      "address": "animatic:shot.02.vo0",
+      "via": "animatic:shot.02#stem"
+    },
+    {
+      "address": "animatic:shot.15.vo0",
+      "via": "animatic:shot.15#stem"
+    },
+    {
+      "address": "animatic:shot.15.vo1",
+      "via": "animatic:shot.15#stem"
+    },
+    {
+      "address": "animatic:shot.34.vo0",
+      "via": "animatic:shot.34#stem"
+    },
+    {
+      "address": "animatic:shot.01#stem",
+      "via": "animatic:shot.01"
+    },
+    {
+      "address": "animatic:shot.02#stem",
+      "via": "animatic:shot.02"
+    },
+    {
+      "address": "animatic:shot.15#stem",
+      "via": "animatic:shot.15"
+    },
+    {
+      "address": "animatic:shot.34#stem",
+      "via": "animatic:shot.34"
+    },
+    {
+      "address": "animatic:shot.01#composition",
+      "via": "animatic:shot.01"
+    },
+    {
+      "address": "animatic:shot.02#composition",
+      "via": "animatic:shot.02"
+    },
+    {
+      "address": "animatic:shot.15#composition",
+      "via": "animatic:shot.15"
+    },
+    {
+      "address": "animatic:shot.16#composition",
+      "via": "animatic:shot.16"
+    },
+    {
+      "address": "animatic:shot.24#composition",
+      "via": "animatic:shot.24"
+    },
+    {
+      "address": "animatic:shot.26#composition",
+      "via": "animatic:shot.26"
+    },
+    {
+      "address": "animatic:shot.31#composition",
+      "via": "animatic:shot.31"
+    },
+    {
+      "address": "animatic:shot.34#composition",
+      "via": "animatic:shot.34"
+    },
+    {
+      "address": "direction:sequence.shots.01",
+      "via": "animatic:shot.01"
+    },
+    {
+      "address": "direction:sequence.shots.02",
+      "via": "animatic:shot.02"
+    },
+    {
+      "address": "direction:sequence.shots.24",
+      "via": "animatic:shot.24"
+    },
+    {
+      "address": "direction:sequence.shots.26",
+      "via": "animatic:shot.26"
+    }
+  ],
+  "notes": [
+    {
+      "id": "fb-DSfhNm8B",
+      "time": 15.033333333333333,
+      "shotId": "06",
+      "address": "animatic:shot.06",
+      "text": "Okay はまだ抜けてるね。尺が足りないから省略されてるのかも。あと、こっちも Konte-chan に。",
+      "displayedVariants": {
+        "animatic:shot.06.first": "v-CH9DkT9d",
+        "animatic:shot.06.vo0": "v-EjFo69RT"
+      }
+    },
+    {
+      "id": "fb-YeUY9oPf",
+      "time": 28.5,
+      "shotId": "10",
+      "address": "animatic:shot.10",
+      "text": "付箋貼るってアクションやめたほうがいいかも。付箋が3個から増えてない",
+      "displayedVariants": {
+        "animatic:shot.10.first": "v-SNKoNyDU",
+        "animatic:shot.10.vo0": "v-5ZCrFAEM"
+      }
+    },
+    {
+      "id": "fb-UezYwS0b",
+      "time": 39.46666666666667,
+      "shotId": "14",
+      "address": "animatic:shot.14",
+      "text": "ここも、付箋貼るってアクションやめたほうがいいかも。",
+      "displayedVariants": {
+        "animatic:shot.14.first": "v-Hk8h4ziZ",
+        "animatic:shot.14.vo0": "v-eiyoA90x",
+        "animatic:shot.14#composition": "v-HkunYmKR"
+      }
+    },
+    {
+      "id": "fb-iNRDVHe8",
+      "time": 45,
+      "shotId": "16",
+      "address": "animatic:shot.16",
+      "text": "v-Oc1vhUTb でいいや",
+      "displayedVariants": {
+        "animatic:shot.16.first": "v-Oc1vhUTb"
+      }
+    },
+    {
+      "id": "fb-Yve51RCV",
+      "time": 47.5,
+      "shotId": "17",
+      "address": "animatic:shot.17",
+      "x": 0.367,
+      "y": 0.337,
+      "text": "紙は中央に",
+      "displayedVariants": {
+        "animatic:shot.17.first": "v-nHTtgDxq"
+      }
+    },
+    {
+      "id": "fb-DDuiLGfk",
+      "time": 58,
+      "shotId": "22",
+      "address": "animatic:shot.22",
+      "text": "17と同じ画角に。",
+      "displayedVariants": {
+        "animatic:shot.22.first": "v-Yl7cIQKi"
+      }
+    },
+    {
+      "id": "fb-mfd2fGwD",
+      "time": 63.96666666666667,
+      "shotId": "25",
+      "address": "animatic:shot.25",
+      "text": "ここではコンテが決まったって体にしたいので、ペンタブに直接書く感じにしたい",
+      "displayedVariants": {
+        "animatic:shot.25.first": "v-dmuASPlX"
+      }
+    },
+    {
+      "id": "fb-8PbSGE00",
+      "time": 63.5,
+      "shotId": "25",
+      "address": "animatic:shot.25",
+      "text": "27にみたいにうっすら光らせたい",
+      "displayedVariants": {
+        "animatic:shot.25.first": "v-dmuASPlX"
+      }
+    },
+    {
+      "id": "fb-i7HN0QSz",
+      "time": 72.7,
+      "shotId": "28",
+      "address": "animatic:shot.28",
+      "text": "ペンタブがない",
+      "displayedVariants": {
+        "animatic:shot.28.first": "v-5dLlgxWs"
+      }
+    },
+    {
+      "id": "fb-vyLZ5vDJ",
+      "time": 72.7,
+      "shotId": "28",
+      "address": "animatic:shot.28",
+      "x": 0.44,
+      "y": 0.405,
+      "text": "紙はなくてもいいかも",
+      "displayedVariants": {
+        "animatic:shot.28.first": "v-5dLlgxWs"
+      }
+    },
+    {
+      "id": "fb-SUdBxlAf",
+      "time": 81.5,
+      "shotId": "32",
+      "address": "animatic:shot.32",
+      "text": "Check? じゃなくて、Accept? のほうがよくないかな？どう思う？",
+      "displayedVariants": {
+        "animatic:shot.32.first": "v-EYds1Igf",
+        "animatic:shot.32.vo0": "v-1oP0Y8sN",
+        "animatic:shot.32#composition": "v-KnJmmeea"
+      }
+    }
+  ],
+  "handoffSummary": "前回の17件のコメントに対応した二稿です。台詞を01「Hi!」02「I'm Konte-chan!」に変え、06・15・34の声を録り直し、10・16・17・22・24・25・26・28・31の絵を描き直しました。承認済みの絵はそのままです。",
+  "handoffNotes": [
+    {
+      "address": "animatic:shot.01.vo0",
+      "text": "台詞を「Hi!」だけにしました（ディレクションの台詞も更新済み。承認で再署名されます）。"
+    },
+    {
+      "address": "animatic:shot.02.vo0",
+      "text": "台詞を「I'm Konte-chan!」に。前回の「te」の余計な発音は録り直しで消えているはずです。"
+    },
+    {
+      "address": "animatic:shot.06.vo0",
+      "text": "「Okay」が抜けていたので録り直し。絵（06.first）は前回コメントがなかったのでそのまま置いています。"
+    },
+    {
+      "address": "animatic:shot.10.first",
+      "text": "14と同じ寸法・立ち位置に寄せました。ボードの前で付箋を貼りつつ、片手はポケット。"
+    },
+    {
+      "address": "animatic:shot.15.vo0",
+      "text": "「make」の二重発音を録り直し。絵（15.first）はそのままです。"
+    },
+    {
+      "address": "animatic:shot.16.first",
+      "text": "走り出しをボード寄りに。三度描いて、これが一番ボードに近い位置です。"
+    },
+    {
+      "address": "animatic:shot.17.first",
+      "text": "紙は机の上に平らに置き、ペンは立てて描く形に。22も同じ方針で、残像はなしにしました。"
+    },
+    {
+      "address": "animatic:shot.24.first",
+      "text": "紙の山ではなく、丸めた紙玉が机から床へ溢れる絵にしました（ディレクションの行も合わせて更新）。"
+    },
+    {
+      "address": "animatic:shot.25.first",
+      "text": "机は一つ、椅子に座ったまま前に崩れて描いている絵に。「完全に突っ伏す」までは行っていないので、弱ければもう一度引きます。"
+    },
+    {
+      "address": "animatic:shot.26.first",
+      "text": "画面の左端に、突っ伏した彼女の髪と袖を入れて27に繋がるようにしました。"
+    },
+    {
+      "address": "animatic:shot.28.first",
+      "text": "前傾の作業台の上から、紙の下のタブレットを引き出す絵に。"
+    },
+    {
+      "address": "animatic:shot.31.first",
+      "text": "付箋はまだ飛んでいる途中、タブレットは画面側をこちらに向けています。"
+    },
+    {
+      "address": "animatic:shot.34.vo0",
+      "text": "「Your turn」の二重発音を録り直し。絵（34.first）はそのままです。"
+    },
+    {
+      "address": "animatic:shot.09.first",
+      "text": "承認済みの09・11・13・32は、隣の絵が変わったため konte が「古い」と印を付けますが、承認いただいた取り込みはそのまま残しています。描き直しは不要と考えています。"
+    }
+  ]
+}

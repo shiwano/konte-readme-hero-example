@@ -1,0 +1,54 @@
+{
+  "stage": "animatic",
+  "summary": "動画レビューのご指摘を受けて、台詞と下絵を直しました。声は耳で、下絵は背景と付箋の見え方を中心にご確認ください。ここで採用いただいたショットから、映像を作り直します。",
+  "notes": [
+    {
+      "address": "animatic:shot.09.vo0",
+      "text": "2枚目の付箋を「Slow down.」に変更し、読み上げたあと小さく「oh」と言う演技です。"
+    },
+    {
+      "address": "animatic:shot.10.vo0",
+      "text": "新しい台詞「Okay. Slow. ...I'm calm.」です。「ゆっくりすぎるほど」の演技にしましたが、長さは約2.3秒と控えめです。遅さが足りなければ作り直します。"
+    },
+    {
+      "address": "animatic:shot.11.vo0",
+      "text": "「I make every take. And I pick the best one—」。我慢できずに速くなり、言いかけで途切れます。声の開始を0.3→0.75秒に遅らせ、言いかけのところで12の付箋に切り替わるようにしました。"
+    },
+    {
+      "address": "animatic:shot.13.first",
+      "text": "12・13がつながらない件の修正です。13を12と同じ寄りの画から描き直し、途中で急に寄る原因をなくしました。"
+    },
+    {
+      "address": "animatic:shot.13.vo0",
+      "text": "「No. I pick.」を、監督の口ぶりをまねて「I」を強く読む演技にしました。"
+    },
+    {
+      "address": "animatic:shot.15.vo0",
+      "text": "「I make.」を「And I make it.」に変更しました。「Back in a sec!」はそのままです。"
+    },
+    {
+      "address": "animatic:shot.28.first",
+      "text": "左上の窓を消し、机の奥の床に置き換えました。紙の山は付けていません。"
+    },
+    {
+      "address": "animatic:shot.31.first",
+      "text": "飛んでくる付箋は無地の裏だけが見えます。背景は30と同じ夕方の白壁とボードの端に揃えました。髪の茶色の房は描き直しても残りました。"
+    },
+    {
+      "address": "animatic:shot.32.first",
+      "text": "付箋の書かれた面を自分に向けて読んでいて、カメラには✓が映りません。"
+    },
+    {
+      "address": "animatic:shot.33.first",
+      "text": "背景を30に揃えました（白枠の窓と紫の箱、平らな壁、右のボード）。✓の付箋を頬の横に掲げたところから始まり、映像で胸に押しつけて満面の笑みになります。"
+    },
+    {
+      "address": "animatic:shot.34.first",
+      "text": "背景をほかの寄りと同じ夕方の壁とボードに揃えました。手はまだ入っておらず、映像で画面の下から入って指さします。"
+    },
+    {
+      "address": "animatic:shot.34.vo0",
+      "text": "最後の台詞を「Your idea next!」に変更しました。"
+    }
+  ]
+}

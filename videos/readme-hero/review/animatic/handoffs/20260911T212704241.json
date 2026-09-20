@@ -1,0 +1,18 @@
+{
+  "stage": "animatic",
+  "summary": "八稿。05を削除（04の「Come closer. Stand in the middle.」から、TAKE 2の06へ直接）。10の台詞を「Okay. I make it good.」に。28はタブレットを小さく、液タブの上に載せて持ち上げる絵に。",
+  "notes": [
+    {
+      "address": "animatic:shot.10.vo0",
+      "text": "「Okay. I make it good.」に録り直し。06の「Okay!」と揃って、付箋を読んだあとに「Okay」で受ける彼女の癖になります。"
+    },
+    {
+      "address": "animatic:shot.28.first",
+      "text": "液タブの上に一回り小さい白いタブレットを載せ、それを持ち上げる絵。組み立ては前と同じです。"
+    },
+    {
+      "address": "animatic:shot.06.first",
+      "text": "05を消したので繋ぎが変わりましたが、承認いただいた絵をそのまま使っています。"
+    }
+  ]
+}

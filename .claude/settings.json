@@ -1,0 +1,36 @@
+{
+  "env": {
+    "CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP": "1"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(konte:*)"
+    ],
+    "deny": [
+      "Read(./konte.credentials.json)",
+      "Edit(./konte.credentials.json)",
+      "Edit(./.claude/settings.json)",
+      "Edit(./.claude/settings.local.json)",
+      "Edit(./.codex/config.toml)",
+      "Edit(./**/konte.state.json)",
+      "Bash(* konte.credentials.json)",
+      "Bash(* konte.credentials.json *)",
+      "Bash(env)",
+      "Bash(env *)",
+      "Bash(printenv*)"
+    ]
+  },
+  "extraKnownMarketplaces": {
+    "konte": {
+      "source": {
+        "source": "github",
+        "repo": "shiwano/konte",
+        "ref": "plugin"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "get-konte@konte": true,
+    "typescript-lsp@claude-plugins-official": false
+  }
+}

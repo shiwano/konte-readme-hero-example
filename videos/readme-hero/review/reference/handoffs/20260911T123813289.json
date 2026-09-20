@@ -1,0 +1,10 @@
+{
+  "stage": "reference",
+  "summary": "付箋を無地に描き直しました。ほかは前回承認のままです。",
+  "notes": [
+    {
+      "address": "reference:stickyNote",
+      "text": "「何も書いてないほうがいい」を受けて、落書きなしの無地の紫の付箋にしました。"
+    }
+  ]
+}

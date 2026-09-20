@@ -1,0 +1,26 @@
+{
+  "stage": "animatic",
+  "summary": "六稿。パッチはやめ、全て元のプロンプトから作り直しました。05の台詞を「...Come closer. Stand in the middle.」に変更（ショットを4秒に延長）。09は08と同じ壁を背景に付箋を頬の横で読む絵、17は元の画角で紙を中央に、26は元の絵に復帰、28は元の文面から紙だけ消しました。",
+  "notes": [
+    {
+      "address": "animatic:shot.05.vo0",
+      "text": "台詞を「...Come closer. Stand in the middle.」に。読み上げの尺を確保するためショットを3秒から4秒に延ばしました（承認で再署名されます）。"
+    },
+    {
+      "address": "animatic:shot.09.first",
+      "text": "08の絵から続く形で、白い壁を背景に付箋を頬の横に持って読む絵に作り直しました。指と付箋も整っています。"
+    },
+    {
+      "address": "animatic:shot.17.first",
+      "text": "ご指摘の一枚と同じ組み立てのプロンプトで、紙だけ中央に寄せて描き直しました。"
+    },
+    {
+      "address": "animatic:shot.26.first",
+      "text": "編集を取り消し、承認済みの元の絵に戻しました。"
+    },
+    {
+      "address": "animatic:shot.28.first",
+      "text": "元の文面から紙の記述だけ外して描き直しました。タブレットは手の中です。"
+    }
+  ]
+}

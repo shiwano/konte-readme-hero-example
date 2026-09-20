@@ -1,0 +1,786 @@
+{
+  "mode": "animatic-preview",
+  "stage": "animatic",
+  "createdAt": "2026-09-11T17:33:00.709Z",
+  "context": {
+    "shots": [
+      {
+        "shotId": "01",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-55PGrII4",
+          "vo0": "v-re0FXw0f"
+        }
+      },
+      {
+        "shotId": "02",
+        "duration": 4.5,
+        "variants": {
+          "first": "v-bVpHJyKz",
+          "vo0": "v-LiNjphaZ"
+        }
+      },
+      {
+        "shotId": "03",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-fBXMbfwG"
+        }
+      },
+      {
+        "shotId": "04",
+        "duration": 3,
+        "variants": {
+          "first": "v-PCyne9Tw"
+        }
+      },
+      {
+        "shotId": "05",
+        "duration": 3,
+        "variants": {
+          "first": "v-s0FePhWz",
+          "vo0": "v-S67K8m79"
+        }
+      },
+      {
+        "shotId": "06",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-CH9DkT9d",
+          "vo0": "v-578WUf6q"
+        }
+      },
+      {
+        "shotId": "07",
+        "duration": 5,
+        "variants": {
+          "first": "v-QU45vPFL",
+          "vo0": "v-UeshbjiS"
+        }
+      },
+      {
+        "shotId": "08",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-lJFlj7Jq"
+        }
+      },
+      {
+        "shotId": "09",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-0h6rzsqm",
+          "vo0": "v-dokIoqhb"
+        }
+      },
+      {
+        "shotId": "10",
+        "duration": 4,
+        "variants": {
+          "first": "v-qZZsgSku",
+          "vo0": "v-5ZCrFAEM"
+        }
+      },
+      {
+        "shotId": "11",
+        "duration": 4.5,
+        "variants": {
+          "first": "v-XuaMKczq",
+          "vo0": "v-Kjdnao7l"
+        }
+      },
+      {
+        "shotId": "12",
+        "duration": 1,
+        "variants": {
+          "first": "v-TsbbxJBY"
+        }
+      },
+      {
+        "shotId": "13",
+        "duration": 3,
+        "variants": {
+          "first": "v-J9HpNzoR",
+          "vo0": "v-LGVvs4oE"
+        }
+      },
+      {
+        "shotId": "14",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-Hk8h4ziZ",
+          "vo0": "v-eiyoA90x"
+        }
+      },
+      {
+        "shotId": "15",
+        "duration": 3,
+        "variants": {
+          "first": "v-TgPBKoiK",
+          "vo0": "v-ug9FsvMc",
+          "vo1": "v-oHGO00sd"
+        }
+      },
+      {
+        "shotId": "16",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-cE8VCEHa"
+        }
+      },
+      {
+        "shotId": "17",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-tAtttWWF"
+        }
+      },
+      {
+        "shotId": "18",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-TEaW9Klv",
+          "vo0": "v-RtZuFW4n"
+        }
+      },
+      {
+        "shotId": "19",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-lMlEzGGY",
+          "vo0": "v-Yt6xWYTf"
+        }
+      },
+      {
+        "shotId": "20",
+        "duration": 1,
+        "variants": {
+          "first": "v-gg7nHZF2"
+        }
+      },
+      {
+        "shotId": "21",
+        "duration": 2,
+        "variants": {
+          "first": "v-daclYlnr",
+          "vo0": "v-boF2yNDr"
+        }
+      },
+      {
+        "shotId": "22",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-0TawjZjD"
+        }
+      },
+      {
+        "shotId": "23",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-6tG3FeuP",
+          "vo0": "v-kH8AgPUn"
+        }
+      },
+      {
+        "shotId": "24",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-fl2JuGwu"
+        }
+      },
+      {
+        "shotId": "25",
+        "duration": 3,
+        "variants": {
+          "first": "v-L5v5PczT"
+        }
+      },
+      {
+        "shotId": "26",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-j7zW9chm"
+        }
+      },
+      {
+        "shotId": "27",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-5U0wwXO8"
+        }
+      },
+      {
+        "shotId": "28",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-YYFGPK6e"
+        }
+      },
+      {
+        "shotId": "29",
+        "duration": 3,
+        "variants": {
+          "first": "v-O25BFk4T",
+          "vo0": "v-IR26L6s9"
+        }
+      },
+      {
+        "shotId": "30",
+        "duration": 4.5,
+        "variants": {
+          "first": "v-MpFQTWpK",
+          "vo0": "v-uAkyc22Z"
+        }
+      },
+      {
+        "shotId": "31",
+        "duration": 1,
+        "variants": {
+          "first": "v-GocyFTkg"
+        }
+      },
+      {
+        "shotId": "32",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-EYds1Igf",
+          "vo0": "v-1oP0Y8sN"
+        }
+      },
+      {
+        "shotId": "33",
+        "duration": 4.5,
+        "variants": {
+          "first": "v-Drw8YJjQ"
+        }
+      },
+      {
+        "shotId": "34",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-WL1aMCB4",
+          "vo0": "v-gLzLLa1k"
+        }
+      },
+      {
+        "shotId": "end",
+        "duration": 3,
+        "variants": {}
+      }
+    ],
+    "timeline": {},
+    "contentHashes": {
+      "animatic:shot.01#composition": "fc9234e71c4bc6a3369f7214ec69ab66165edad2914a441062c438cee3555669",
+      "animatic:shot.02#composition": "b26ed438bd66c9a3cfe63ad0afa87a13ddf11f8eb757d23218606e7e0c96f9ca",
+      "animatic:shot.03#composition": "8b782750db2e5572aff5aaaa808212c81545296a09b2cc6bafdc659272ac34e5",
+      "animatic:shot.04#composition": "7f33a5bd7a04b0f10ab17b2379599f9422c2e55aef27e3bc892d24ab3ae20d86",
+      "animatic:shot.05#composition": "663c06ca15481742e134a1c7c32ec126b935f31d20b8d94ed28017cfd7e4f6d9",
+      "animatic:shot.06#composition": "f36472f28b9af9877999b6797fd779a1c84cdd168b33bfee20ee3cc261af43a0",
+      "animatic:shot.07#composition": "69ee58ad58af19cf0363d80128e5f3e7c8c924abd95eddf71a5f047965ac6666",
+      "animatic:shot.08#composition": "2e2349f1c598eea1e1ee4148ddf417e78c706f4d4f7e7346d9f22fdb60d7ff5d",
+      "animatic:shot.09#composition": "f55e8f3a99ffb0450563fc103409f3e55b200269ffa8dca47619e29c614dc32c",
+      "animatic:shot.10#composition": "0428c51c27bc4fc73786083061e190d3454ad4f4a7fe0638a8d899ad32c8e5ec",
+      "animatic:shot.11#composition": "0c4a15efa3f10dc41159a5aa64238a6d3f938be960dabe08f1433e6a43470187",
+      "animatic:shot.12#composition": "a226011c8f39bd01db9a3decf764f5e86c253d91f0bae196a69b5f984e3349be",
+      "animatic:shot.13#composition": "ee421ba514b589bbcb75c97ae7f7196706db10113d2a519359a3b38049c05941",
+      "animatic:shot.14#composition": "a3221560c057b38f7f285e8c685214ecb57aa85ea6d251bde9f5a37d72c4b2d2",
+      "animatic:shot.15#composition": "7aa060ea2e7562a66c5f1f96bd9da2d3302de837f6a52f50471d427f02399eec",
+      "animatic:shot.16#composition": "992daef01bee3a6c03b75195803257df2ae1e2f303438b3883603aca4fe09494",
+      "animatic:shot.17#composition": "f94b55c53e62f5ea94a50e70ae782ab6544bcb1acf574cee6c250de2831d482b",
+      "animatic:shot.18#composition": "68a97a1d49807af88ed567305be446e40fea640f170f15f0e18c3784af6a021c",
+      "animatic:shot.19#composition": "e169012455257de1092a2cdd5bd177e328b3e10783886214a55c033f6ec0f9ed",
+      "animatic:shot.20#composition": "c8203fbe707bb494d63bd133806844ac77fa65a58d64840fb6841201252cb509",
+      "animatic:shot.21#composition": "a1816872ef38358e427905c5b9309ffd34105ccf049fe381c082d807d210bd5b",
+      "animatic:shot.22#composition": "d5ce83967e8f1d6a6ddea35b7eed4c59936d380e5d7304fa1eb887c255c54be6",
+      "animatic:shot.23#composition": "eee433a98fee09564f70cf5957aa487cc5c9e1f88aed55bd44a024386b9c7ce1",
+      "animatic:shot.24#composition": "bbe2fd2f26f9af666292f1f6705e3a206361a47a2aa32e46bdc8579bb645a71f",
+      "animatic:shot.25#composition": "6536fa074b3f9d04dc9093f2b43ecfc268e5402929f22e00f5da5b648b93c9f0",
+      "animatic:shot.26#composition": "291049b51880abc390202aaf40e7b102e1b5025e4fe1309e911540b6a7bdff4b",
+      "animatic:shot.27#composition": "771bec6049a981eda7249a291b2cb4eed5b98308db533dcf04b09b7c522f6775",
+      "animatic:shot.28#composition": "34c7281491cc28e1035f079b194a6406e5a4c18f32edfa9ffb33ad45646b4c13",
+      "animatic:shot.29#composition": "7596bcd63e87afcf1524e28d25970aaf6c290e65bd92e385b708b92e827b8314",
+      "animatic:shot.30#composition": "36af1aea86fce2f3ee80aa4df8164e437cdf173f58c3a3255b87a6d27530bca6",
+      "animatic:shot.31#composition": "77267314d945c4ca4b9edf92a589a176ceab8647c1387aa118fa4954b81f0fef",
+      "animatic:shot.32#composition": "18da1c00ef383b67da3f73a0794cddeda8df1564007a43af50acbc0d9e6fc05b",
+      "animatic:shot.33#composition": "3a254c2abb7476fa98185a9ee5510a005354f7b95b737bd0770df0048ac231a0",
+      "animatic:shot.34#composition": "22a339b3c431a5d2b6e6e1d8fca56ec0ce616c750eb0be4945e8395b953783d4",
+      "animatic:shot.01#stem": "400c899b198a273075dc1d6d4655e2c17f26557daed580fd0913ee20b58b682c",
+      "animatic:shot.02#stem": "7f8f93b6e9d9e14d60c09d2c2b6d92b70184e5f83ed3afc9a8eece93665541fb",
+      "animatic:shot.05#stem": "2d1e5655c1ca13e885b954930c789364caf0ca58ad3e1cef62db0f9fd64efb19",
+      "animatic:shot.06#stem": "d7106f2460e930a53c976b817b8f0a94545bf798519513cc1b384dc375e3c228",
+      "animatic:shot.07#stem": "98d2d59404ff625db30a44ccebbe514007c68d4c4d28f4afdd2d7512aa3ca64b",
+      "animatic:shot.09#stem": "f584a2a9d01a0249c07ddbf526faba67d5d7df05d0f8d6996a8ffb41b0f7cd9d",
+      "animatic:shot.10#stem": "9c1d6fd3df407a7bcd87838eb20d7dabed6ee841e7cf5abc6112d679edd32ef4",
+      "animatic:shot.11#stem": "ac9c4d4cc07e99bb243a56ed1094726da38357953d2cc84c31ddc2bab1a25cec",
+      "animatic:shot.13#stem": "f3fd2f660d8a600b0ff63adb622a982cbdc7147398226a8524248da15da28d3d",
+      "animatic:shot.14#stem": "d53d37b3bae117b05a717766ca3b9cef5dbcfe2d2bb50ba182a607a3dcc34cd5",
+      "animatic:shot.15#stem": "07c2476e1bda0f91d05d98744fe018202a5ae5b95edc15dcab6f1c5710f4037b",
+      "animatic:shot.18#stem": "14723f3444b13d0bc95f2607aafdfea2114e750d79e26acb2990c9cce4428caa",
+      "animatic:shot.19#stem": "f944092ef9776ccec4fa5bad256eeada2f90a8eec79adf5b0a496049088c4e6a",
+      "animatic:shot.21#stem": "945f71e4912eed368c497afc6b0b94e7872741485f2b37694a2d7aeed0855751",
+      "animatic:shot.23#stem": "06cb54ef2a51c2c959c5897db2fa8e74afd1cf43363a9eac59af406aa76cbbb9",
+      "animatic:shot.29#stem": "2a7ecbfa6df60c0d7dabe9f76856f2fd9b87f4578343436ac7e686f25c9020b3",
+      "animatic:shot.30#stem": "eb7e7ef731f1b505dbb4deb68a3fa029dd99dc745fd4cb79f818798636e0ada0",
+      "animatic:shot.32#stem": "d9f38929644f699899e1ad9cafcc075f68b992674e1aef04dd19241610dbef4a",
+      "animatic:shot.34#stem": "23a30a064f39b160ca302f20ba966e7421a83062b1f01ea3f7eeab2ca30e4b5d"
+    }
+  },
+  "decisions": {
+    "11": "accepted",
+    "12": "accepted",
+    "13": "accepted",
+    "14": "accepted",
+    "18": "accepted",
+    "19": "accepted",
+    "20": "accepted",
+    "21": "accepted",
+    "23": "accepted",
+    "27": "accepted",
+    "29": "accepted",
+    "30": "accepted",
+    "32": "accepted",
+    "33": "accepted",
+    "03": "accepted",
+    "04": "accepted",
+    "05": "accepted",
+    "07": "accepted",
+    "08": "accepted",
+    "09": "accepted"
+  },
+  "cascadeAccepted": [
+    {
+      "address": "animatic:shot.05.vo0",
+      "via": "animatic:shot.05#stem"
+    },
+    {
+      "address": "animatic:shot.07.vo0",
+      "via": "animatic:shot.07#stem"
+    },
+    {
+      "address": "animatic:shot.09.vo0",
+      "via": "animatic:shot.09#stem"
+    },
+    {
+      "address": "animatic:shot.11.vo0",
+      "via": "animatic:shot.11#stem"
+    },
+    {
+      "address": "animatic:shot.13.vo0",
+      "via": "animatic:shot.13#stem"
+    },
+    {
+      "address": "animatic:shot.14.vo0",
+      "via": "animatic:shot.14#stem"
+    },
+    {
+      "address": "animatic:shot.18.vo0",
+      "via": "animatic:shot.18#stem"
+    },
+    {
+      "address": "animatic:shot.19.vo0",
+      "via": "animatic:shot.19#stem"
+    },
+    {
+      "address": "animatic:shot.21.vo0",
+      "via": "animatic:shot.21#stem"
+    },
+    {
+      "address": "animatic:shot.23.vo0",
+      "via": "animatic:shot.23#stem"
+    },
+    {
+      "address": "animatic:shot.29.vo0",
+      "via": "animatic:shot.29#stem"
+    },
+    {
+      "address": "animatic:shot.30.vo0",
+      "via": "animatic:shot.30#stem"
+    },
+    {
+      "address": "animatic:shot.32.vo0",
+      "via": "animatic:shot.32#stem"
+    },
+    {
+      "address": "animatic:shot.05#stem",
+      "via": "animatic:shot.05"
+    },
+    {
+      "address": "animatic:shot.07#stem",
+      "via": "animatic:shot.07"
+    },
+    {
+      "address": "animatic:shot.09#stem",
+      "via": "animatic:shot.09"
+    },
+    {
+      "address": "animatic:shot.11#stem",
+      "via": "animatic:shot.11"
+    },
+    {
+      "address": "animatic:shot.13#stem",
+      "via": "animatic:shot.13"
+    },
+    {
+      "address": "animatic:shot.14#stem",
+      "via": "animatic:shot.14"
+    },
+    {
+      "address": "animatic:shot.18#stem",
+      "via": "animatic:shot.18"
+    },
+    {
+      "address": "animatic:shot.19#stem",
+      "via": "animatic:shot.19"
+    },
+    {
+      "address": "animatic:shot.21#stem",
+      "via": "animatic:shot.21"
+    },
+    {
+      "address": "animatic:shot.23#stem",
+      "via": "animatic:shot.23"
+    },
+    {
+      "address": "animatic:shot.29#stem",
+      "via": "animatic:shot.29"
+    },
+    {
+      "address": "animatic:shot.30#stem",
+      "via": "animatic:shot.30"
+    },
+    {
+      "address": "animatic:shot.32#stem",
+      "via": "animatic:shot.32"
+    },
+    {
+      "address": "animatic:shot.03#composition",
+      "via": "animatic:shot.03"
+    },
+    {
+      "address": "animatic:shot.04#composition",
+      "via": "animatic:shot.04"
+    },
+    {
+      "address": "animatic:shot.05#composition",
+      "via": "animatic:shot.05"
+    },
+    {
+      "address": "animatic:shot.07#composition",
+      "via": "animatic:shot.07"
+    },
+    {
+      "address": "animatic:shot.08#composition",
+      "via": "animatic:shot.08"
+    },
+    {
+      "address": "animatic:shot.09#composition",
+      "via": "animatic:shot.09"
+    },
+    {
+      "address": "animatic:shot.11#composition",
+      "via": "animatic:shot.11"
+    },
+    {
+      "address": "animatic:shot.12#composition",
+      "via": "animatic:shot.12"
+    },
+    {
+      "address": "animatic:shot.13#composition",
+      "via": "animatic:shot.13"
+    },
+    {
+      "address": "animatic:shot.14#composition",
+      "via": "animatic:shot.14"
+    },
+    {
+      "address": "animatic:shot.18#composition",
+      "via": "animatic:shot.18"
+    },
+    {
+      "address": "animatic:shot.19#composition",
+      "via": "animatic:shot.19"
+    },
+    {
+      "address": "animatic:shot.20#composition",
+      "via": "animatic:shot.20"
+    },
+    {
+      "address": "animatic:shot.21#composition",
+      "via": "animatic:shot.21"
+    },
+    {
+      "address": "animatic:shot.23#composition",
+      "via": "animatic:shot.23"
+    },
+    {
+      "address": "animatic:shot.27#composition",
+      "via": "animatic:shot.27"
+    },
+    {
+      "address": "animatic:shot.29#composition",
+      "via": "animatic:shot.29"
+    },
+    {
+      "address": "animatic:shot.30#composition",
+      "via": "animatic:shot.30"
+    },
+    {
+      "address": "animatic:shot.32#composition",
+      "via": "animatic:shot.32"
+    },
+    {
+      "address": "animatic:shot.33#composition",
+      "via": "animatic:shot.33"
+    }
+  ],
+  "notes": [
+    {
+      "id": "fb-AtUhGenp",
+      "time": 4.266666666666667,
+      "shotId": "02",
+      "address": "animatic:shot.02",
+      "text": "01 にも書いたけど、I'm Konte! だけでよさそう。\nちなみにこの音声は I'm Konte te って、最後に不要な te が発音されている",
+      "displayedVariants": {
+        "animatic:shot.02.first": "v-bVpHJyKz",
+        "animatic:shot.02.vo0": "v-LiNjphaZ"
+      }
+    },
+    {
+      "id": "fb-PhYY9bgS",
+      "time": 1.5,
+      "shotId": "02",
+      "address": "animatic:shot.02",
+      "text": "セリフ、I'm Konte-chan にしたいな。",
+      "displayedVariants": {
+        "animatic:shot.02.first": "v-bVpHJyKz",
+        "animatic:shot.02.vo0": "v-LiNjphaZ"
+      }
+    },
+    {
+      "id": "fb-tOF23Uby",
+      "time": 0,
+      "shotId": "01",
+      "address": "animatic:shot.01",
+      "text": "なんで言葉の途中で切られるんだっけ？\nHi! だけでいい気がした",
+      "displayedVariants": {
+        "animatic:shot.01.first": "v-55PGrII4",
+        "animatic:shot.01.vo0": "v-re0FXw0f"
+      }
+    },
+    {
+      "id": "fb-n7jjZYeW",
+      "time": 14.333333333333334,
+      "shotId": "06",
+      "address": "animatic:shot.06",
+      "text": "Okay が発音されてない",
+      "displayedVariants": {
+        "animatic:shot.06.first": "v-CH9DkT9d",
+        "animatic:shot.06.vo0": "v-578WUf6q"
+      }
+    },
+    {
+      "id": "fb-gcZa8hjr",
+      "time": 26,
+      "shotId": "10",
+      "address": "animatic:shot.10",
+      "text": "14 と同じような構図なのに、サイズ感が違いすぎる。14 がよさそうなバランスだから、プロンプトとか合わせたら？",
+      "displayedVariants": {
+        "animatic:shot.10.first": "v-qZZsgSku",
+        "animatic:shot.10.vo0": "v-5ZCrFAEM"
+      }
+    },
+    {
+      "id": "fb-1aKi4hlZ",
+      "time": 35.7,
+      "shotId": "13",
+      "address": "animatic:shot.13",
+      "text": "v-J9HpNzoR でいい気がした",
+      "displayedVariants": {
+        "animatic:shot.13.first": "v-J9HpNzoR",
+        "animatic:shot.13.vo0": "v-LGVvs4oE"
+      }
+    },
+    {
+      "id": "fb-iPYX1cLd",
+      "time": 43.03333333333333,
+      "shotId": "15",
+      "address": "animatic:shot.15",
+      "text": "make を二回発音している",
+      "displayedVariants": {
+        "animatic:shot.15.first": "v-TgPBKoiK",
+        "animatic:shot.15.vo0": "v-ug9FsvMc",
+        "animatic:shot.15.vo1": "v-oHGO00sd"
+      }
+    },
+    {
+      "id": "fb-1I5cG2gC",
+      "time": 45.06666666666667,
+      "shotId": "16",
+      "address": "animatic:shot.16",
+      "x": 0.407,
+      "y": 0.605,
+      "text": "もうちょっとボードに近いところからのスタートのほうがいいのでは？",
+      "displayedVariants": {
+        "animatic:shot.16.first": "v-cE8VCEHa"
+      }
+    },
+    {
+      "id": "fb-JjGCIHFN",
+      "time": 47.9,
+      "shotId": "17",
+      "address": "animatic:shot.17",
+      "x": 0.355,
+      "y": 0.508,
+      "text": "タブレットを斜めから書き込んでいるのが変。",
+      "displayedVariants": {
+        "animatic:shot.17.first": "v-tAtttWWF"
+      }
+    },
+    {
+      "id": "fb-VgVZkFC1",
+      "time": 47.5,
+      "shotId": "17",
+      "address": "animatic:shot.17",
+      "text": "18と姿勢があってない",
+      "displayedVariants": {
+        "animatic:shot.17.first": "v-tAtttWWF"
+      }
+    },
+    {
+      "id": "fb-dzdY8lnr",
+      "time": 58,
+      "shotId": "22",
+      "address": "animatic:shot.22",
+      "text": "17と同様書き込み方が変",
+      "displayedVariants": {
+        "animatic:shot.22.first": "v-0TawjZjD"
+      }
+    },
+    {
+      "id": "fb-4Iy2D6GN",
+      "time": 58,
+      "shotId": "22",
+      "address": "animatic:shot.22",
+      "text": "あと残像みたいなエフェクトは動画段階でいれるから不要では？",
+      "displayedVariants": {
+        "animatic:shot.22.first": "v-0TawjZjD"
+      }
+    },
+    {
+      "id": "fb-6CeCpUHM",
+      "time": 64.23333333333333,
+      "shotId": "25",
+      "address": "animatic:shot.25",
+      "x": 0.498,
+      "y": 0.882,
+      "text": "机が二つあって、その上で寝ているとか、あきらかにおかしい絵。\n完全におかしいので、全面的に作り直して",
+      "displayedVariants": {
+        "animatic:shot.25.first": "v-L5v5PczT"
+      }
+    },
+    {
+      "id": "fb-mWwlIdpT",
+      "time": 66.93333333333334,
+      "shotId": "26",
+      "address": "animatic:shot.26",
+      "x": 0.152,
+      "y": 0.78,
+      "text": "椅子のところに konte ちゃんがいないので、27とつながりがないように感じられる。",
+      "displayedVariants": {
+        "animatic:shot.26.first": "v-j7zW9chm"
+      }
+    },
+    {
+      "id": "fb-k0tGCLsk",
+      "time": 71.6,
+      "shotId": "28",
+      "address": "animatic:shot.28",
+      "text": "机の形がおかしい。液タブを置いているところは、作業台みたいに前傾じゃなかった？",
+      "displayedVariants": {
+        "animatic:shot.28.first": "v-YYFGPK6e"
+      }
+    },
+    {
+      "id": "fb-sGUquaQ0",
+      "time": 80.63333333333334,
+      "shotId": "31",
+      "address": "animatic:shot.31",
+      "x": 0.467,
+      "y": 0.206,
+      "text": "飛んでくるまえに、すでに張り付いてるのはおかしい",
+      "displayedVariants": {
+        "animatic:shot.31.first": "v-GocyFTkg"
+      }
+    },
+    {
+      "id": "fb-LSChTiHQ",
+      "time": 80.83333333333333,
+      "shotId": "31",
+      "address": "animatic:shot.31",
+      "x": 0.503,
+      "y": 0.95,
+      "text": "30でタブレットを画面に向けてるはずでは？ タブレットの後ろ面が写ってる",
+      "displayedVariants": {
+        "animatic:shot.31.first": "v-GocyFTkg"
+      }
+    },
+    {
+      "id": "fb-MPNs3F6z",
+      "time": 91.63333333333334,
+      "shotId": "34",
+      "address": "animatic:shot.34",
+      "text": "your turn を二回言っている",
+      "displayedVariants": {
+        "animatic:shot.34.first": "v-WL1aMCB4",
+        "animatic:shot.34.vo0": "v-gLzLLa1k"
+      }
+    },
+    {
+      "id": "fb-IuvtjMEF",
+      "time": 62,
+      "shotId": "24",
+      "address": "animatic:shot.24",
+      "x": 0.499,
+      "y": 0.249,
+      "text": "紙の山より20みたいな丸めた紙がたくさん増えていく絵のほうがいいかも",
+      "displayedVariants": {
+        "animatic:shot.24.first": "v-fl2JuGwu"
+      }
+    }
+  ],
+  "handoffSummary": "アニマティック初稿。34ショットのキーフレームと、19本の台詞の声（20テイク）です。BGMはまだ敷いていません。付箋の文字は絵の中では読めなくてよい前提で、彼女が読み上げます。",
+  "handoffNotes": [
+    {
+      "address": "animatic:shot.01.first",
+      "text": "フック。右端からのぞく顔。ボードには最初から付箋が数枚留まっています（枚数は揃えない、の許容範囲として置いています）。"
+    },
+    {
+      "address": "animatic:shot.05.first",
+      "text": "顔が画面いっぱい。遠くに小さな彼女がもう一人残る失敗が四度続いたので、部屋を隠す構図にしました。元の意図（左半分に顔、右に部屋）に戻すには別の手を考えます。"
+    },
+    {
+      "address": "animatic:shot.07.first",
+      "text": "腰上の絵では彼女がボードの「隣」に立ち、顔の寄りではボードが頭の「後ろ」に来ます。10・11・14・15・30も同じです。気になるようでしたら、腰上の立ち位置をボードの前に寄せて作り直します（中盤を一式やり直す規模です）。"
+    },
+    {
+      "address": "animatic:shot.13.first",
+      "text": "「No. I pick.」を読む絵。前の絵をそのまま写してしまう失敗が三度続いたので、12の絵を画像編集で一箇所だけ変える方式にしました。少し寄りがきついです。"
+    },
+    {
+      "address": "animatic:shot.29.first",
+      "text": "机での向きが、他の机のショットと左右で少し食い違っています（机が彼女の右側）。4:1では目立ちにくいと判断して残しています。"
+    },
+    {
+      "address": "animatic:shot.30.first",
+      "text": "タブレットの画面は白く光っているだけです。「冒頭の彼女自身の動画」は動画段階で実際の映像を画面に合成して入れます。"
+    },
+    {
+      "address": "animatic:shot.02.vo0",
+      "text": "声について。全テイクが承認いただいた声見本を参照していますが、演技は場面ごとに変えています。叫ぶ02、遅い10、小さい14と29、息切れの30あたりで声が別人に聞こえないかを聞いてください。"
+    },
+    {
+      "address": "animatic:shot.15.vo0",
+      "text": "「I make.」と「Back in a sec!」の二本を続けて鳴らしています。重なりは直しました。"
+    }
+  ]
+}

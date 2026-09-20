@@ -1,0 +1,50 @@
+{
+  "stage": "video",
+  "summary": "動画レビューのご指摘と、下絵・台詞の変更に合わせて、11ショットの映像を作り直しました（09・10・11・12・13・15・28・31・32・33・34）。",
+  "notes": [
+    {
+      "address": "video:shot.09.motion",
+      "text": "「Slow down. ...Oh.」を付箋を見ながら読みます。目線はややカメラ寄りに見えるので、気になれば作り直します。"
+    },
+    {
+      "address": "video:shot.10.motion",
+      "text": "「Okay. Slow. ...I'm calm.」。黒枠は下絵から直したので、隠すための拡大は外しました。"
+    },
+    {
+      "address": "video:shot.11.motion",
+      "text": "言いかけの「one」で止まり、12の付箋へ切り替わります。身を乗り出す動きは控えめです。"
+    },
+    {
+      "address": "video:shot.12.motion",
+      "text": "途中で急に寄る現象がなくなり、同じ寄りのまま13へつながります。"
+    },
+    {
+      "address": "video:shot.13.motion",
+      "text": "「I」を強く読んで、最後に長いまばたきをします。"
+    },
+    {
+      "address": "video:shot.15.motion",
+      "text": "「And I make it.」に合わせて胸を叩き、「Back in a sec!」で手を振ります。"
+    },
+    {
+      "address": "video:shot.28.motion",
+      "text": "左上は壁になり、窓は映りません。手がタブレットを持ち上げ始めるところまでです。"
+    },
+    {
+      "address": "video:shot.31.motion",
+      "text": "付箋は無地の裏だけが見え、おでこに当たってはがすところまでです。"
+    },
+    {
+      "address": "video:shot.32.motion",
+      "text": "✓は映らず、付箋を見ながら「...Accept?」と読んで、じわっと笑顔になります。"
+    },
+    {
+      "address": "video:shot.33.motion",
+      "text": "2.5秒ごろに付箋を胸に押しつけて満面の笑みになります。ハンコはそれに合わせて2.6秒に遅らせました。押しつけた手で✓が隠れて見えないので、✓を見せたい場合は作り直します。"
+    },
+    {
+      "address": "video:shot.34.motion",
+      "text": "中央で目を開けた笑顔から、手が下から入って真下を指さし、ウインクして「Your idea next!」。"
+    }
+  ]
+}

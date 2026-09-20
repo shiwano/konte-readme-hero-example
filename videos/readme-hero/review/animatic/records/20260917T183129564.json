@@ -1,0 +1,341 @@
+{
+  "mode": "animatic-preview",
+  "stage": "animatic",
+  "createdAt": "2026-09-17T18:31:29.564Z",
+  "context": {
+    "shots": [
+      {
+        "shotId": "01",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-55PGrII4",
+          "vo0": "v-jS9WlnPw"
+        }
+      },
+      {
+        "shotId": "02",
+        "duration": 4,
+        "variants": {
+          "first": "v-bVpHJyKz",
+          "vo0": "v-ABJ0p9uW"
+        }
+      },
+      {
+        "shotId": "03",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-ANYovewi"
+        }
+      },
+      {
+        "shotId": "04",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-DYifhUMy",
+          "vo0": "v-9btxZCzf"
+        }
+      },
+      {
+        "shotId": "06",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-CbV77caS",
+          "vo0": "v-zpIkEj8S"
+        }
+      },
+      {
+        "shotId": "07",
+        "duration": 5,
+        "variants": {
+          "first": "v-QU45vPFL",
+          "vo0": "v-UeshbjiS"
+        }
+      },
+      {
+        "shotId": "08",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-PtR6kkfz"
+        }
+      },
+      {
+        "shotId": "09",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-yoPZYCPz",
+          "vo0": "v-uSlzlG3d"
+        }
+      },
+      {
+        "shotId": "10",
+        "duration": 4,
+        "variants": {
+          "first": "v-NuXfBbn4",
+          "vo0": "v-Ti0wVWEH"
+        }
+      },
+      {
+        "shotId": "11",
+        "duration": 4.5,
+        "variants": {
+          "first": "v-a5hLJORX",
+          "vo0": "v-dlj1zOYI"
+        }
+      },
+      {
+        "shotId": "12",
+        "duration": 1,
+        "variants": {
+          "first": "v-xGIBkl1S"
+        }
+      },
+      {
+        "shotId": "13",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-FDZsXQjk",
+          "vo0": "v-MrtMBTF9"
+        }
+      },
+      {
+        "shotId": "14",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-rDD805r5",
+          "vo0": "v-eiyoA90x"
+        }
+      },
+      {
+        "shotId": "15",
+        "duration": 3,
+        "variants": {
+          "first": "v-6nY3d5r2",
+          "vo0": "v-jhGY3qVd",
+          "vo1": "v-oHGO00sd",
+          "thump": "v-WwSAEMMJ"
+        }
+      },
+      {
+        "shotId": "16",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-Oc1vhUTb"
+        }
+      },
+      {
+        "shotId": "17",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-e5wJUSJD"
+        }
+      },
+      {
+        "shotId": "18",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-TEaW9Klv",
+          "vo0": "v-RtZuFW4n"
+        }
+      },
+      {
+        "shotId": "19",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-lMlEzGGY",
+          "vo0": "v-Yt6xWYTf"
+        }
+      },
+      {
+        "shotId": "20",
+        "duration": 1,
+        "variants": {
+          "first": "v-CQ6e3Po5"
+        }
+      },
+      {
+        "shotId": "21",
+        "duration": 2,
+        "variants": {
+          "layout": "v-bc7RU5yY",
+          "first": "v-cFxYuy8U",
+          "vo0": "v-boF2yNDr"
+        }
+      },
+      {
+        "shotId": "22",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-KRx9eail"
+        }
+      },
+      {
+        "shotId": "23",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-6tG3FeuP",
+          "vo0": "v-kH8AgPUn"
+        }
+      },
+      {
+        "shotId": "24",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-alRROFNe"
+        }
+      },
+      {
+        "shotId": "25",
+        "duration": 3,
+        "variants": {
+          "layout": "v-kxcrHit9",
+          "first": "v-ztl8wCiy"
+        }
+      },
+      {
+        "shotId": "26",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-uXWqRuPK"
+        }
+      },
+      {
+        "shotId": "27",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-5U0wwXO8"
+        }
+      },
+      {
+        "shotId": "28",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-iGW5Gad7"
+        }
+      },
+      {
+        "shotId": "29",
+        "duration": 3,
+        "variants": {
+          "first": "v-B3YVTliq",
+          "vo0": "v-IR26L6s9"
+        }
+      },
+      {
+        "shotId": "30",
+        "duration": 4.5,
+        "variants": {
+          "first": "v-MpFQTWpK",
+          "vo0": "v-uAkyc22Z"
+        }
+      },
+      {
+        "shotId": "31",
+        "duration": 1.5,
+        "variants": {
+          "first": "v-SnFgV36a"
+        }
+      },
+      {
+        "shotId": "32",
+        "duration": 2.5,
+        "variants": {
+          "first": "v-KkQTtr6N",
+          "vo0": "v-V16NjOdJ"
+        }
+      },
+      {
+        "shotId": "33",
+        "duration": 4.5,
+        "variants": {
+          "first": "v-v5PwzvFy"
+        }
+      },
+      {
+        "shotId": "34",
+        "duration": 3.5,
+        "variants": {
+          "first": "v-P8X9UbH6",
+          "vo0": "v-3tm7RqrD"
+        }
+      }
+    ],
+    "timeline": {},
+    "contentHashes": {
+      "animatic:shot.01#composition": "9a967b0624181559a57a640baaa1564628fa1236992fa97dd30536e34dab17b3",
+      "animatic:shot.02#composition": "643ecf1ac5a5c7fb30ee49eb510857b0214cf94958959156efad10973901b3da",
+      "animatic:shot.03#composition": "7ad6b25b63f030ab06e67063a0d417cc8f7ea700661c64f8e7b327434a604e6c",
+      "animatic:shot.04#composition": "4bbdcffd20093560940a9be3bb2a9830c4ca6ae8efc2181aa7f79ed35e86b6fb",
+      "animatic:shot.06#composition": "6101edb033bddcedc003443acd3018d003402db41159cc97ba6cf6a26d2ab9cb",
+      "animatic:shot.07#composition": "b46c549d822cecfaaa0080315cd14bf19763b28dd97a3a4dadcdfb09a8618852",
+      "animatic:shot.08#composition": "1f68d4589cf223832fc3d58444afc89e2e252b9ea0e9fb16bb2f76abb42bf0e1",
+      "animatic:shot.09#composition": "7b2ec89778723dc2870186ea9b44267c7f8f1b7bae6b0c5452a1b43339f6251c",
+      "animatic:shot.10#composition": "88bbc10e8943ead6c3d5dc4bec09cbc38a92ca084b7aa1993b8abe403b2d6c53",
+      "animatic:shot.11#composition": "8c52d67c14c08b93acbeef9f066e9a2d9836324d9e7ce3ac3cc192ead43d88b6",
+      "animatic:shot.12#composition": "ee7ea693e311635e24461db1cf16636f7ac8b8391ab88e4998d861c56222c8b0",
+      "animatic:shot.13#composition": "03c68b1b41164498ada787f9df65a330ad4398871d7afeb18da5a4739e35de93",
+      "animatic:shot.14#composition": "b282fe5cf4eaf3d2b5c1266df738a0a0219c50cd6235e3805c0c32b3b56ab7f9",
+      "animatic:shot.15#composition": "347ca25fe84b9317266b923e5ae204b8f4e282a91cd9dc15553eedafe9485fb7",
+      "animatic:shot.16#composition": "1bcc89ca5aa0cd37d082aa66094d6ab2bc3ad97886b5db4cecab7bafe5021b72",
+      "animatic:shot.17#composition": "43abdca5ccba4f097b30a1c8222720579c86eca63086d3bb192fdab68413eefd",
+      "animatic:shot.18#composition": "dfb9cedd6c171e0326c829f0930dd8b3b844afdbc00a34491577732a1a3e9c0f",
+      "animatic:shot.19#composition": "8afe0afac7d83fe3471b0179b95e59fec81bc2c751d79f1b8ed4a8e5337c7958",
+      "animatic:shot.20#composition": "71a5b006232c188c161f12af621b6bc39c78205b429648baf95e8c80f8d302b6",
+      "animatic:shot.21#composition": "775a7962006d62676a2d3bf8977e441f54825dc7ad1f7988456d310c50d0f732",
+      "animatic:shot.22#composition": "bf0ca9c051213884542c4822b64eb87317d512ecfd977554faa638e17411f019",
+      "animatic:shot.23#composition": "5e1e779f8657c03e5d4c7cab7b9eaaf44cf4449e63c866a76a7394089905b44c",
+      "animatic:shot.24#composition": "feace50565791552840e5c166bb15b574856e10290629857f853b37492a52925",
+      "animatic:shot.25#composition": "cb5feb84378b652c3506355316a7450fdcb93aed87aa925a7a4f1287b398c600",
+      "animatic:shot.26#composition": "79c9f4ed45c891f942f21755655548631817df898dab591ff3a2cf9de727553b",
+      "animatic:shot.27#composition": "2b3cd9df212f74df252e4d235d47732539318fd2a2a29975052abbe969faecc0",
+      "animatic:shot.28#composition": "88279ee4f836f806275c2979d193b9095766ffabe519689392b33d9f9093a71f",
+      "animatic:shot.29#composition": "006f97bdf5bd5a2131e656924fd55f0efa6f8866c1e6494552de3656f98033bc",
+      "animatic:shot.30#composition": "314007ef444bb0e813f4c43d61f34cbf00d5e7f19036c5f4313ea0d0260331f2",
+      "animatic:shot.31#composition": "dea8d7354ac030820c4f446047899583c9c607af311647cf3e77fcbd097af071",
+      "animatic:shot.32#composition": "5ad653665c396320c2d77686680d3f6314f4b8e319d0b7625f5f5de64e761fa8",
+      "animatic:shot.33#composition": "d1b5f2f71d92a51b55a18207cee6955ceea9d9ba06bed84a6b32140799d83057",
+      "animatic:shot.34#composition": "467aca893a6f14bde99cc3ccd3a0e183d065eba3908df2f8c2c3ffd65bba08e9",
+      "animatic:shot.01#stem": "d112523ac7302a3ebd498113236d2efc8bc0ab4a47c78d4b0374bf4ee85fb35c",
+      "animatic:shot.02#stem": "c5c0a3416bb855ef84cedd51f75107427b19c60aee72120c73710d9b6ae76a92",
+      "animatic:shot.04#stem": "7606d2f25cb0286e371adf80fe6b819f38b5e0d50bf1c7db6cda938b577c5bc5",
+      "animatic:shot.06#stem": "e518a6de15e46f8da25008cb8a39ef28e2c7cb804897d927d7d04920bf489071",
+      "animatic:shot.07#stem": "98d2d59404ff625db30a44ccebbe514007c68d4c4d28f4afdd2d7512aa3ca64b",
+      "animatic:shot.09#stem": "28ff894a18fff2af99843a6691b836fe56cbbc0770970e64bf77d84430129efa",
+      "animatic:shot.10#stem": "b9d9919acabd6d4984699360454d2f29b11cf774c53d0648b4171689e037d2f9",
+      "animatic:shot.11#stem": "b7659aa16f708316299149ecae86243baa958ac17c9feb7d8ca1e2a4aaaf5ceb",
+      "animatic:shot.13#stem": "584a63b1c0be45c446ead958dee841345fb827d7207409299353175cfa3749ba",
+      "animatic:shot.14#stem": "d53d37b3bae117b05a717766ca3b9cef5dbcfe2d2bb50ba182a607a3dcc34cd5",
+      "animatic:shot.15#stem": "7b3a734ca9289479590aec550df9b960cb9412242c2b078d9784a4cbfda78aaf",
+      "animatic:shot.18#stem": "14723f3444b13d0bc95f2607aafdfea2114e750d79e26acb2990c9cce4428caa",
+      "animatic:shot.19#stem": "f944092ef9776ccec4fa5bad256eeada2f90a8eec79adf5b0a496049088c4e6a",
+      "animatic:shot.21#stem": "945f71e4912eed368c497afc6b0b94e7872741485f2b37694a2d7aeed0855751",
+      "animatic:shot.23#stem": "06cb54ef2a51c2c959c5897db2fa8e74afd1cf43363a9eac59af406aa76cbbb9",
+      "animatic:shot.29#stem": "2a7ecbfa6df60c0d7dabe9f76856f2fd9b87f4578343436ac7e686f25c9020b3",
+      "animatic:shot.30#stem": "eb7e7ef731f1b505dbb4deb68a3fa029dd99dc745fd4cb79f818798636e0ada0",
+      "animatic:shot.32#stem": "36bf7f7b5366cae34b5499f0c89052385baccec1aad3d572cd6e268f20ca250b",
+      "animatic:shot.34#stem": "0bedc76791e9674de0405d1e41fc1e3e6130e94a10e6de0dc330e3557ae4ddc6"
+    }
+  },
+  "decisions": {
+    "29": "accepted"
+  },
+  "cascadeAccepted": [
+    {
+      "address": "animatic:shot.29#stem",
+      "via": "animatic:shot.29"
+    },
+    {
+      "address": "animatic:shot.29#composition",
+      "via": "animatic:shot.29"
+    }
+  ],
+  "kept": [
+    "animatic:shot.30.first"
+  ],
+  "handoffSummary": "shot 29の絵コンテを、手本のファイルを使わずに3枚描きました。よいものを選んで承認してください。承認されたら、29の映像を作り直します。",
+  "handoffNotes": [
+    {
+      "address": "animatic:shot.29.first",
+      "text": "3枚とも、夕方の強いオレンジの光と、壁に伸びる窓の影が入っています。椅子と机は25と同じ木のもので、タブレットは顔の前に立てて持っているので、カメラからは側面しか見えずロゴも出ません。おすすめはv-AxKuQsfiで、19・23と同じ画角のまま、いちばん嬉しそうな顔をしています。v-UcCWBNqdは穏やかな微笑み、v-B3YVTliqは少し引きの画角で、床と紙の束が写っています。"
+    }
+  ]
+}

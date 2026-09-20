@@ -1,0 +1,14 @@
+{
+  "stage": "animatic",
+  "summary": "20・24とも画面左を床なしの壁一面にしました",
+  "notes": [
+    {
+      "address": "animatic:shot.20.first",
+      "text": "左側を壁だけにしました。画角は24と同じです。"
+    },
+    {
+      "address": "animatic:shot.24.first",
+      "text": "同じく左側は壁だけ。紙玉は机の上に収まっています。"
+    }
+  ]
+}

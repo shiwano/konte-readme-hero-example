@@ -1,0 +1,62 @@
+{
+  "stage": "animatic",
+  "summary": "前回の17件のコメントに対応した二稿です。台詞を01「Hi!」02「I'm Konte-chan!」に変え、06・15・34の声を録り直し、10・16・17・22・24・25・26・28・31の絵を描き直しました。承認済みの絵はそのままです。",
+  "notes": [
+    {
+      "address": "animatic:shot.01.vo0",
+      "text": "台詞を「Hi!」だけにしました（ディレクションの台詞も更新済み。承認で再署名されます）。"
+    },
+    {
+      "address": "animatic:shot.02.vo0",
+      "text": "台詞を「I'm Konte-chan!」に。前回の「te」の余計な発音は録り直しで消えているはずです。"
+    },
+    {
+      "address": "animatic:shot.06.vo0",
+      "text": "「Okay」が抜けていたので録り直し。絵（06.first）は前回コメントがなかったのでそのまま置いています。"
+    },
+    {
+      "address": "animatic:shot.10.first",
+      "text": "14と同じ寸法・立ち位置に寄せました。ボードの前で付箋を貼りつつ、片手はポケット。"
+    },
+    {
+      "address": "animatic:shot.15.vo0",
+      "text": "「make」の二重発音を録り直し。絵（15.first）はそのままです。"
+    },
+    {
+      "address": "animatic:shot.16.first",
+      "text": "走り出しをボード寄りに。三度描いて、これが一番ボードに近い位置です。"
+    },
+    {
+      "address": "animatic:shot.17.first",
+      "text": "紙は机の上に平らに置き、ペンは立てて描く形に。22も同じ方針で、残像はなしにしました。"
+    },
+    {
+      "address": "animatic:shot.24.first",
+      "text": "紙の山ではなく、丸めた紙玉が机から床へ溢れる絵にしました（ディレクションの行も合わせて更新）。"
+    },
+    {
+      "address": "animatic:shot.25.first",
+      "text": "机は一つ、椅子に座ったまま前に崩れて描いている絵に。「完全に突っ伏す」までは行っていないので、弱ければもう一度引きます。"
+    },
+    {
+      "address": "animatic:shot.26.first",
+      "text": "画面の左端に、突っ伏した彼女の髪と袖を入れて27に繋がるようにしました。"
+    },
+    {
+      "address": "animatic:shot.28.first",
+      "text": "前傾の作業台の上から、紙の下のタブレットを引き出す絵に。"
+    },
+    {
+      "address": "animatic:shot.31.first",
+      "text": "付箋はまだ飛んでいる途中、タブレットは画面側をこちらに向けています。"
+    },
+    {
+      "address": "animatic:shot.34.vo0",
+      "text": "「Your turn」の二重発音を録り直し。絵（34.first）はそのままです。"
+    },
+    {
+      "address": "animatic:shot.09.first",
+      "text": "承認済みの09・11・13・32は、隣の絵が変わったため konte が「古い」と印を付けますが、承認いただいた取り込みはそのまま残しています。描き直しは不要と考えています。"
+    }
+  ]
+}

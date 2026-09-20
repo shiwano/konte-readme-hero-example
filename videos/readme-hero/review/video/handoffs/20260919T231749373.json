@@ -1,0 +1,10 @@
+{
+  "stage": "video",
+  "summary": "24の紙玉が手前へ転がって落ちるよう作り直しました",
+  "notes": [
+    {
+      "address": "video:shot.24.motion",
+      "text": "カップを避けて、手前の縁から転がり落ちます。"
+    }
+  ]
+}

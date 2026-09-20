@@ -1,0 +1,299 @@
+{
+  "9": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "filename_prefix": "Qwen_Edit_2511",
+      "images": [
+        "216",
+        0
+      ]
+    }
+  },
+  "41": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "leather_sofa.png"
+    }
+  },
+  "83": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "texture_fur.png"
+    }
+  },
+  "195": {
+    "class_type": "ModelSamplingAuraFlow",
+    "inputs": {
+      "shift": 3.1,
+      "model": [
+        "207",
+        0
+      ]
+    }
+  },
+  "196": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "qwen_image_vae.safetensors"
+    }
+  },
+  "197": {
+    "class_type": "FluxKontextMultiReferenceLatentMethod",
+    "inputs": {
+      "reference_latents_method": "index_timestep_zero",
+      "conditioning": [
+        "199",
+        0
+      ]
+    }
+  },
+  "198": {
+    "class_type": "FluxKontextMultiReferenceLatentMethod",
+    "inputs": {
+      "reference_latents_method": "index_timestep_zero",
+      "conditioning": [
+        "201",
+        0
+      ]
+    }
+  },
+  "199": {
+    "class_type": "TextEncodeQwenImageEditPlus",
+    "inputs": {
+      "prompt": "",
+      "clip": [
+        "208",
+        0
+      ],
+      "vae": [
+        "196",
+        0
+      ],
+      "image1": [
+        "217",
+        0
+      ],
+      "image2": [
+        "83",
+        0
+      ],
+      "image3": [
+        "218",
+        0
+      ]
+    }
+  },
+  "201": {
+    "class_type": "TextEncodeQwenImageEditPlus",
+    "inputs": {
+      "prompt": "Change the furniture leather difference in image 1 to the fur material in image 2.",
+      "clip": [
+        "208",
+        0
+      ],
+      "vae": [
+        "196",
+        0
+      ],
+      "image1": [
+        "217",
+        0
+      ],
+      "image2": [
+        "83",
+        0
+      ],
+      "image3": [
+        "218",
+        0
+      ]
+    }
+  },
+  "202": {
+    "class_type": "CFGNorm",
+    "inputs": {
+      "strength": 1,
+      "pre_cfg": false,
+      "model": [
+        "195",
+        0
+      ]
+    }
+  },
+  "203": {
+    "class_type": "LoraLoaderModelOnly",
+    "inputs": {
+      "lora_name": "Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors",
+      "strength_model": 1,
+      "model": [
+        "202",
+        0
+      ]
+    }
+  },
+  "204": {
+    "class_type": "PrimitiveFloat",
+    "inputs": {
+      "value": 4
+    }
+  },
+  "205": {
+    "class_type": "PrimitiveFloat",
+    "inputs": {
+      "value": 1
+    }
+  },
+  "207": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "qwen_image_edit_2511_fp8mixed.safetensors",
+      "weight_dtype": "default"
+    }
+  },
+  "208": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+      "type": "qwen_image",
+      "device": "default"
+    }
+  },
+  "209": {
+    "class_type": "ComfySwitchNode",
+    "inputs": {
+      "on_false": [
+        "202",
+        0
+      ],
+      "on_true": [
+        "203",
+        0
+      ],
+      "switch": [
+        "212",
+        0
+      ]
+    }
+  },
+  "210": {
+    "class_type": "PrimitiveInt",
+    "inputs": {
+      "value": 4
+    }
+  },
+  "211": {
+    "class_type": "PrimitiveInt",
+    "inputs": {
+      "value": 40
+    }
+  },
+  "212": {
+    "class_type": "PrimitiveBoolean",
+    "inputs": {
+      "value": false
+    }
+  },
+  "213": {
+    "class_type": "ComfySwitchNode",
+    "inputs": {
+      "on_false": [
+        "204",
+        0
+      ],
+      "on_true": [
+        "205",
+        0
+      ],
+      "switch": [
+        "212",
+        0
+      ]
+    }
+  },
+  "214": {
+    "class_type": "ComfySwitchNode",
+    "inputs": {
+      "on_false": [
+        "211",
+        0
+      ],
+      "on_true": [
+        "210",
+        0
+      ],
+      "switch": [
+        "212",
+        0
+      ]
+    }
+  },
+  "215": {
+    "class_type": "KSampler",
+    "inputs": {
+      "seed": 677909188488042,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "denoise": 1,
+      "model": [
+        "209",
+        0
+      ],
+      "positive": [
+        "198",
+        0
+      ],
+      "negative": [
+        "197",
+        0
+      ],
+      "latent_image": [
+        "219",
+        0
+      ],
+      "steps": [
+        "214",
+        0
+      ],
+      "cfg": [
+        "213",
+        0
+      ]
+    }
+  },
+  "216": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": [
+        "215",
+        0
+      ],
+      "vae": [
+        "196",
+        0
+      ]
+    }
+  },
+  "217": {
+    "class_type": "FluxKontextImageScale",
+    "inputs": {
+      "image": [
+        "41",
+        0
+      ]
+    }
+  },
+  "218": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "example.png"
+    }
+  },
+  "219": {
+    "class_type": "EmptySD3LatentImage",
+    "inputs": {
+      "width": 1280,
+      "height": 720,
+      "batch_size": 1
+    }
+  }
+}

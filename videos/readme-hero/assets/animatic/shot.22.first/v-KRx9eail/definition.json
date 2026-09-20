@@ -1,0 +1,57 @@
+{
+  "kind": "comfy",
+  "workflow": "image_qwen_image_edit_2511.json",
+  "inputs": {
+    "41.image": "__konte:animatic:shot.17.first__",
+    "83.image": "__konte:reference:konte__",
+    "201.prompt": "In image 1, crisp thick strokes now fill two panels of the storyboard sheet, and the hand is caught mid-stroke with the pen tip touching the paper.",
+    "199.prompt": " ",
+    "219.width": 1920,
+    "219.height": 480,
+    "215.seed": "__konte:seed__",
+    "212.value": false,
+    "196.vae_name": "qwen_image_vae.safetensors",
+    "207.unet_name": "qwen_image_edit_2511_fp8mixed.safetensors",
+    "208.clip_name": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "203.lora_name": "Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors"
+  },
+  "prunedNodes": [
+    "218"
+  ],
+  "models": [
+    {
+      "filename": "qwen_image_vae.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors"
+    },
+    {
+      "filename": "Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors",
+      "type": "lora",
+      "url": "https://huggingface.co/lightx2v/Qwen-Image-Edit-2511-Lightning/resolve/main/Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors"
+    },
+    {
+      "filename": "qwen_image_edit_2511_fp8mixed.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image-Edit_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_edit_2511_fp8mixed.safetensors"
+    },
+    {
+      "filename": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "41.image": "image1",
+    "83.image": "image2",
+    "201.prompt": "prompt",
+    "199.prompt": "negativePrompt",
+    "219.width": "width",
+    "219.height": "height",
+    "215.seed": "seed",
+    "212.value": "useLightning",
+    "196.vae_name": "vaeName",
+    "207.unet_name": "unetName",
+    "208.clip_name": "clipName",
+    "203.lora_name": "loraName"
+  }
+}

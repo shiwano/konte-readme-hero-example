@@ -1,0 +1,127 @@
+{
+  "mode": "direction-preview",
+  "stage": "direction",
+  "createdAt": "2026-09-11T12:04:59.717Z",
+  "context": {
+    "shots": [],
+    "directionParts": {
+      "direction:sequence": "a775b4ef7a18",
+      "direction:brief.logline": "5f51a08b72c3",
+      "direction:brief.hook": "04d4e457a28f",
+      "direction:brief.audience": "2abffe46147f",
+      "direction:brief.tone": "28949a6efcf0",
+      "direction:brief.look": "c1e0dec9d0d9",
+      "direction:brief.outOfScope": "d48140b92bf0",
+      "direction:brief.tolerances": "c1da6e55b1d9",
+      "direction:policy.format": "40b2d6f568f1",
+      "direction:policy.lang": "50eac10e7966",
+      "direction:policy.fonts": "ff52e631046a",
+      "direction:policy.speech": "3e07f22f81c0",
+      "direction:sequence.waivers.re-established-wide_04": "47189f17366a",
+      "direction:sequence.waivers.re-established-wide_05": "39a5b995a879",
+      "direction:sequence.waivers.re-established-wide_27": "eaf4bd9946d6",
+      "direction:sequence.shots.01": "66aa39d37f94",
+      "direction:sequence.shots.02": "95332aebceba",
+      "direction:sequence.shots.03": "c163491a1e47",
+      "direction:sequence.shots.04": "f78fd300f07f",
+      "direction:sequence.shots.05": "9e795a9a3d0d",
+      "direction:sequence.shots.06": "cf2b5a2ebf28",
+      "direction:sequence.shots.07": "5c73be371d31",
+      "direction:sequence.shots.08": "8da94d69754e",
+      "direction:sequence.shots.09": "03656e4e013d",
+      "direction:sequence.shots.10": "6e2227941ebf",
+      "direction:sequence.shots.11": "a0c9b5ed0079",
+      "direction:sequence.shots.12": "06e9f51ff921",
+      "direction:sequence.shots.13": "4106575205fc",
+      "direction:sequence.shots.14": "b30341c63802",
+      "direction:sequence.shots.15": "9fbc280531eb",
+      "direction:sequence.shots.16": "374b2b3846ab",
+      "direction:sequence.shots.17": "31c55dbc8e16",
+      "direction:sequence.shots.18": "45227fb66cfb",
+      "direction:sequence.shots.19": "2e0358ef8637",
+      "direction:sequence.shots.20": "97cf3f3aa7f6",
+      "direction:sequence.shots.21": "e76023efe320",
+      "direction:sequence.shots.22": "fc9c21819625",
+      "direction:sequence.shots.23": "d8964d879b63",
+      "direction:sequence.shots.24": "f8165d985609",
+      "direction:sequence.shots.25": "a92ff9024e09",
+      "direction:sequence.shots.26": "596f2c668f35",
+      "direction:sequence.shots.27": "790bd6fe4567",
+      "direction:sequence.shots.28": "ea64d8ef586c",
+      "direction:sequence.shots.29": "eac1648ec99f",
+      "direction:sequence.shots.30": "547aa722d17a",
+      "direction:sequence.shots.31": "b5e69f1a1d5a",
+      "direction:sequence.shots.32": "e124686d8d72",
+      "direction:sequence.shots.33": "d8bf314c02c4",
+      "direction:sequence.shots.34": "eec1a45655f6",
+      "direction:sequence.shots.end": "2c1646ec4fb1",
+      "direction:characters.konte": "de6624c471d6",
+      "direction:characters.konte.voice": "e60c6249d5d2",
+      "direction:props.stickyNote": "6d870d6dfced",
+      "direction:props.clapperboard": "0fca50b8de97",
+      "direction:props.storyboardSheet": "06640dc99bfa",
+      "direction:locations.studio": "b81dd9926ad8",
+      "direction:setups.roomWide": "5e5bf8ebcc28",
+      "direction:setups.konteMedium": "8165079867f6",
+      "direction:setups.konteClose": "24a4af49d412",
+      "direction:setups.deskMedium": "2239da0e6780",
+      "direction:setups.deskInsert": "7164d3c09713"
+    }
+  },
+  "decisions": [
+    {
+      "address": "direction:sequence.shots.30",
+      "feedback": [
+        {
+          "id": "fb-IqON6UCE",
+          "annotation": null,
+          "text": "成果物は絵コンテの紙じゃなくて、動画にしたら？ タブレットで再生するみたいな感じで。夕方になるまで時間かけたものだし。",
+          "stale": false,
+          "added": true
+        }
+      ]
+    }
+  ],
+  "directionDecisions": {
+    "brief": "accepted",
+    "waivers": "accepted",
+    "locations": "accepted",
+    "props": "accepted"
+  },
+  "directionGate": {
+    "open": false,
+    "blocking": 36,
+    "total": 61
+  },
+  "handoffSummary": "後半を作り直しました。付箋は前半の三枚（closer / too busy / No. I pick.）と最後の✓だけ。「show, don't tell」の四枚目とマイムは削り、「I make. Back in a sec!」から留守中の早回し（16〜29）へ。34ショット＋エンドカード、約96秒。",
+  "handoffNotes": [
+    {
+      "address": "direction:brief.logline",
+      "text": "後半が「留守中に一人で働き、一枚だけ持って戻る」に変わったので、ログラインとトーンを書き換えました。"
+    },
+    {
+      "address": "direction:locations.studio",
+      "text": "時間の経過を語るために、奥の壁に細長い窓を足しました。昼は白、夕方は橙。"
+    },
+    {
+      "address": "direction:setups.deskMedium",
+      "text": "早回し用に、机に座った彼女の腰上と、机の上の手元の寄りを足しました。カメラ位置は同じ軸です。"
+    },
+    {
+      "address": "direction:sequence.shots.15",
+      "text": "「No. I pick.」の答え。「I make.」と胸を叩いて、「Back in a sec!」で机へ走ります。ここが前半と後半の蝶番です。"
+    },
+    {
+      "address": "direction:sequence.shots.16",
+      "text": "ここから29まで留守中の早回し。描く→丸める→カチンコ→見比べる→紙の山→突っ伏す→夕方→一枚引き抜く、を短いカットの積み重ねで。独り言は「Okay.」「...No.」「Again.」「Nope.」「...Better.」だけです。"
+    },
+    {
+      "address": "direction:sequence.shots.30",
+      "text": "戻ってきて「This one?」。ここで初めて監督に見せ、31で✓が飛んできます。後半に付箋はこの一枚だけ。"
+    },
+    {
+      "address": "direction:sequence.waivers.re-established-wide_27",
+      "text": "早回しの締めのワイド。部屋が橙に染まり紙だらけになった変化そのものが内容なので、免除にしています。"
+    }
+  ]
+}

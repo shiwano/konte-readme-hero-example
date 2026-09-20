@@ -1,0 +1,106 @@
+{
+  "mode": "reference-preview",
+  "stage": "reference",
+  "createdAt": "2026-09-11T12:35:52.664Z",
+  "context": {
+    "shots": [],
+    "timeline": {
+      "look": "v-9Usm7CUj",
+      "studio": "v-7MWMxsLh",
+      "stickyNote": "v-mfbFTbAn",
+      "clapperboard": "v-sBhrRQkM",
+      "storyboardSheet": "v-mr1zs43s",
+      "tablet": "v-GZ5BJyPV",
+      "konteVoice": "v-M3gMvL7v",
+      "bgm": "v-jrxKHQyO"
+    }
+  },
+  "decisions": [
+    {
+      "address": "reference:studio",
+      "variantId": "v-7MWMxsLh",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:clapperboard",
+      "variantId": "v-sBhrRQkM",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:storyboardSheet",
+      "variantId": "v-mr1zs43s",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:tablet",
+      "variantId": "v-GZ5BJyPV",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:konteVoice",
+      "variantId": "v-M3gMvL7v",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:bgm",
+      "variantId": "v-jrxKHQyO",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:stickyNote",
+      "feedback": [
+        {
+          "id": "fb-fLvItcjf",
+          "annotation": {
+            "kind": "pin",
+            "x": 0.433,
+            "y": 0.507
+          },
+          "text": "何も書いてないほうがいいかなあ",
+          "displayedVariants": {
+            "reference:stickyNote": "v-mfbFTbAn"
+          },
+          "stale": false,
+          "added": true
+        }
+      ]
+    }
+  ],
+  "handoffSummary": "参照素材の一式です。部屋の全景（この横長の絵から、帯・腰上・顔・机の各カメラ枠を切り出します）、小道具四つ、konteちゃんの声の見本、BGM。全部この後の絵と音の土台になります。",
+  "handoffNotes": [
+    {
+      "address": "reference:studio",
+      "text": "部屋の全景。左に机、左寄りに窓、右にコルクボード。ここから4:1の各カメラ枠を切り出すので、遠めに描いてあります。五枚描いて、机とボードが両方丸ごと入り、立ち姿が帯に収まる寸法のこの一枚にしました。"
+    },
+    {
+      "address": "reference:stickyNote",
+      "text": "監督の返事の紫の付箋。おでこやレンズに貼りつく絵の元になります。"
+    },
+    {
+      "address": "reference:clapperboard",
+      "text": "早回しで彼女が自分に向けて打つカチンコ。"
+    },
+    {
+      "address": "reference:storyboardSheet",
+      "text": "白紙の絵コンテ用紙。机に積まれ、早回しで描いては丸められます。"
+    },
+    {
+      "address": "reference:tablet",
+      "text": "最後に掲げるタブレット。画面は消灯で、映る動画は後で合成します。"
+    },
+    {
+      "address": "reference:konteVoice",
+      "text": "konteちゃんの声の見本です。ここでは声質だけ聞いてください（明るく軽い、早口、十代前半の少女、英語）。台詞は本編と関係のない一文です。この声が以後の全ての台詞の元になるので、違和感があれば教えてください。"
+    },
+    {
+      "address": "reference:bgm",
+      "text": "ローファイのBGM、110秒。ローズピアノとレコードノイズ、軽いビート、グロッケンの遊び。全体の下に敷きます。"
+    }
+  ]
+}

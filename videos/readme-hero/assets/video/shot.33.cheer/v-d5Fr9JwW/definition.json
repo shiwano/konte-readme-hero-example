@@ -1,0 +1,49 @@
+{
+  "kind": "comfy",
+  "workflow": "audio_stable_audio_3_medium.json",
+  "inputs": {
+    "68.value": "small crowd bursting into cheers and applause, excited whoops and clapping, bright celebratory, indoor room, close, short burst",
+    "57.text": "",
+    "69.choice": "SFX",
+    "73.value": false,
+    "74.value": 2.5,
+    "60.seed": "__konte:seed__",
+    "60.steps": 8,
+    "60.cfg": 1,
+    "60.denoise": 1,
+    "75.ckpt_name": "stable_audio_3_medium.safetensors",
+    "61.clip_name": "qwen3.5_2b_bf16.safetensors",
+    "76.clip_name": "t5gemma_b_b_ul2.safetensors"
+  },
+  "models": [
+    {
+      "filename": "qwen3.5_2b_bf16.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/Qwen3.5/resolve/main/text_encoders/qwen3.5_2b_bf16.safetensors"
+    },
+    {
+      "filename": "stable_audio_3_medium.safetensors",
+      "type": "checkpoint",
+      "url": "https://huggingface.co/Comfy-Org/stable-audio-3/resolve/main/checkpoints/stable_audio_3_medium.safetensors"
+    },
+    {
+      "filename": "t5gemma_b_b_ul2.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/stable-audio-3/resolve/main/text_encoders/t5gemma_b_b_ul2.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "68.value": "prompt",
+    "57.text": "negativePrompt",
+    "69.choice": "category",
+    "73.value": "enhancePrompt",
+    "74.value": "duration",
+    "60.seed": "seed",
+    "60.steps": "steps",
+    "60.cfg": "cfg",
+    "60.denoise": "denoise",
+    "75.ckpt_name": "ckptName",
+    "61.clip_name": "llmName",
+    "76.clip_name": "clipName"
+  }
+}

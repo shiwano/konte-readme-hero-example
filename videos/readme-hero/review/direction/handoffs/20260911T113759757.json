@@ -1,0 +1,34 @@
+{
+  "stage": "direction",
+  "summary": "後半を作り直しました。付箋は前半の三枚（closer / too busy / No. I pick.）と最後の✓だけ。「show, don't tell」の四枚目とマイムは削り、「I make. Back in a sec!」から留守中の早回し（16〜29）へ。34ショット＋エンドカード、約96秒。",
+  "notes": [
+    {
+      "address": "direction:brief.logline",
+      "text": "後半が「留守中に一人で働き、一枚だけ持って戻る」に変わったので、ログラインとトーンを書き換えました。"
+    },
+    {
+      "address": "direction:locations.studio",
+      "text": "時間の経過を語るために、奥の壁に細長い窓を足しました。昼は白、夕方は橙。"
+    },
+    {
+      "address": "direction:setups.deskMedium",
+      "text": "早回し用に、机に座った彼女の腰上と、机の上の手元の寄りを足しました。カメラ位置は同じ軸です。"
+    },
+    {
+      "address": "direction:sequence.shots.15",
+      "text": "「No. I pick.」の答え。「I make.」と胸を叩いて、「Back in a sec!」で机へ走ります。ここが前半と後半の蝶番です。"
+    },
+    {
+      "address": "direction:sequence.shots.16",
+      "text": "ここから29まで留守中の早回し。描く→丸める→カチンコ→見比べる→紙の山→突っ伏す→夕方→一枚引き抜く、を短いカットの積み重ねで。独り言は「Okay.」「...No.」「Again.」「Nope.」「...Better.」だけです。"
+    },
+    {
+      "address": "direction:sequence.shots.30",
+      "text": "戻ってきて「This one?」。ここで初めて監督に見せ、31で✓が飛んできます。後半に付箋はこの一枚だけ。"
+    },
+    {
+      "address": "direction:sequence.waivers.re-established-wide_27",
+      "text": "早回しの締めのワイド。部屋が橙に染まり紙だらけになった変化そのものが内容なので、免除にしています。"
+    }
+  ]
+}

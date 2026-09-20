@@ -1,0 +1,106 @@
+{
+  "mode": "direction-preview",
+  "stage": "direction",
+  "createdAt": "2026-09-11T12:08:00.749Z",
+  "context": {
+    "shots": [],
+    "directionParts": {
+      "direction:sequence": "ab307fca667d",
+      "direction:brief.logline": "a308782764b5",
+      "direction:brief.hook": "04d4e457a28f",
+      "direction:brief.audience": "2abffe46147f",
+      "direction:brief.tone": "28949a6efcf0",
+      "direction:brief.look": "c1e0dec9d0d9",
+      "direction:brief.outOfScope": "d48140b92bf0",
+      "direction:brief.tolerances": "c1da6e55b1d9",
+      "direction:policy.format": "40b2d6f568f1",
+      "direction:policy.lang": "50eac10e7966",
+      "direction:policy.fonts": "ff52e631046a",
+      "direction:policy.speech": "3e07f22f81c0",
+      "direction:sequence.waivers.re-established-wide_04": "47189f17366a",
+      "direction:sequence.waivers.re-established-wide_05": "39a5b995a879",
+      "direction:sequence.waivers.re-established-wide_27": "eaf4bd9946d6",
+      "direction:sequence.shots.01": "66aa39d37f94",
+      "direction:sequence.shots.02": "95332aebceba",
+      "direction:sequence.shots.03": "c163491a1e47",
+      "direction:sequence.shots.04": "f78fd300f07f",
+      "direction:sequence.shots.05": "9e795a9a3d0d",
+      "direction:sequence.shots.06": "cf2b5a2ebf28",
+      "direction:sequence.shots.07": "5c73be371d31",
+      "direction:sequence.shots.08": "8da94d69754e",
+      "direction:sequence.shots.09": "03656e4e013d",
+      "direction:sequence.shots.10": "6e2227941ebf",
+      "direction:sequence.shots.11": "a0c9b5ed0079",
+      "direction:sequence.shots.12": "06e9f51ff921",
+      "direction:sequence.shots.13": "4106575205fc",
+      "direction:sequence.shots.14": "b30341c63802",
+      "direction:sequence.shots.15": "9fbc280531eb",
+      "direction:sequence.shots.16": "374b2b3846ab",
+      "direction:sequence.shots.17": "31c55dbc8e16",
+      "direction:sequence.shots.18": "45227fb66cfb",
+      "direction:sequence.shots.19": "2e0358ef8637",
+      "direction:sequence.shots.20": "97cf3f3aa7f6",
+      "direction:sequence.shots.21": "e76023efe320",
+      "direction:sequence.shots.22": "fc9c21819625",
+      "direction:sequence.shots.23": "169efa71a5ec",
+      "direction:sequence.shots.24": "f8165d985609",
+      "direction:sequence.shots.25": "a92ff9024e09",
+      "direction:sequence.shots.26": "596f2c668f35",
+      "direction:sequence.shots.27": "790bd6fe4567",
+      "direction:sequence.shots.28": "c4f5bc410c56",
+      "direction:sequence.shots.29": "2ff4826db286",
+      "direction:sequence.shots.30": "5e9732c830ab",
+      "direction:sequence.shots.31": "98d781f1aa7d",
+      "direction:sequence.shots.32": "e124686d8d72",
+      "direction:sequence.shots.33": "fe890f2591b0",
+      "direction:sequence.shots.34": "eec1a45655f6",
+      "direction:sequence.shots.end": "2c1646ec4fb1",
+      "direction:characters.konte": "de6624c471d6",
+      "direction:characters.konte.voice": "e60c6249d5d2",
+      "direction:props.stickyNote": "6d870d6dfced",
+      "direction:props.clapperboard": "0fca50b8de97",
+      "direction:props.storyboardSheet": "06640dc99bfa",
+      "direction:props.tablet": "43094dc68a1d",
+      "direction:locations.studio": "b81dd9926ad8",
+      "direction:setups.roomWide": "5e5bf8ebcc28",
+      "direction:setups.konteMedium": "8165079867f6",
+      "direction:setups.konteClose": "24a4af49d412",
+      "direction:setups.deskMedium": "2239da0e6780",
+      "direction:setups.deskInsert": "7164d3c09713"
+    }
+  },
+  "decisions": [],
+  "directionDecisions": {
+    "shots": "accepted",
+    "brief": "accepted",
+    "policy": "accepted",
+    "characters": "accepted",
+    "props": "accepted",
+    "locations": "accepted",
+    "waivers": "accepted"
+  },
+  "directionGate": {
+    "open": true,
+    "blocking": 0,
+    "total": 62
+  },
+  "handoffSummary": "30番のコメントを受け、成果物を絵コンテの紙からタブレットで再生する動画に。早回しの中にもタブレットを一度出し（23）、掘り出して（28）再生して明るくなり（29）、掲げて「This one?」（30）へ。",
+  "handoffNotes": [
+    {
+      "address": "direction:sequence.shots.30",
+      "text": "成果物はタブレットで再生される動画にしました。画面に映るのは「この動画の冒頭、右端からのぞき込む彼女自身」の案です。見ている人が「今見ているこれを作っていたのか」と気づく仕掛けで、実際の冒頭の映像を画面に合成して作れます。別の中身が良ければコメントください。"
+    },
+    {
+      "address": "direction:sequence.shots.23",
+      "text": "早回しの途中で一度タブレットを再生してしかめ面で止める「Nope.」に変えました。最後にいきなりタブレットが出ないように、動画を作っている途中だと先に見せます。"
+    },
+    {
+      "address": "direction:props.tablet",
+      "text": "小道具にタブレットを足しました。机の紙の下に埋もれていて、28で掘り出します。"
+    },
+    {
+      "address": "direction:brief.logline",
+      "text": "末尾を「一本の動画を持って戻ってくる」に直しました。ブリーフの変更はここだけです。"
+    }
+  ]
+}
